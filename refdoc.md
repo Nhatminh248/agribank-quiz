@@ -1,0 +1,141 @@
+# Agribank Reference Documents List
+
+## Internal Regulations (Quyết định, Quy chế, Quy trình, Hướng dẫn)
+- Hướng dẫn 12868/HD-NHNo-KHDN ngày 02/11/2023
+- PL số 02/TCMB-QĐ theo QyĐ 2268/QyĐ-NHNo-TD
+- QC 346/QC-HĐTV-TD
+- QC 656/QC-HĐTV-TD
+- QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD
+- QC 656/QC-HĐTV-TD; sửa đổi, bổ sung tại QyĐ 2268/QyĐ-NHNo-TD
+- QC 656/QC-NHNo- TD
+- QC 879/QC-HĐTV-TD
+- QTr-NHNo-NHS ngày 30/12/2024
+- QTr-NHNo-RRTD ngày 31/07/2024
+- QTr-NHNo-RRTD ngày 31/07/2024 và
+- QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số
+- QTr-NHNo-RRTD ngày 31/7/2024
+- QTr-NHNo-TTKH
+- QTr-NHNo-TTKH ngày 14/12/2023
+- QTr-NHNo-TTKH ngày 26/6/2025
+- Quy chế 1205/QC-HĐTV-RRTD ngày 29/12/2023
+- Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024
+- Quy chế 1546/QC-HĐTV-TD ngày 27/12/2024
+- Quy chế 1548/QC-HĐTV-TD
+- Quy chế 1589/QC-HĐTV-TCNS ngày 31/12/2024
+- Quy chế 346/QC-HĐTV-TD
+- Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số
+- Quy chế 579/QC-HĐTV-TD  bổ sung
+- Quy chế 879/QC-HĐTV-TD
+- Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024
+- Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và
+- Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025
+- Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024
+- Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024 và
+- Quy chế số 1205/QC-HĐTV-RRTD ngày 29/12/2023
+- Quy chế số 168/QC-HĐTV-TTh
+- Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.
+- Quy chế số 575/HĐTV-TD ngày 29/9/2020
+- Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023
+- Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024
+- Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024.
+- Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)
+- Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024
+- Quy Định số 2268/QyĐ- NHNo-TD ngày 19/9/2023
+- Quy định 1228/QyĐ-NHNo-KHCN ngày 21/5/2024
+- Quy định 1445 /QyĐ-NHNo-TD
+- Quy định 2239/QyĐ-NHNo-TTT ngày 31/7/2024
+- Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022
+- Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022 về Quản lý các KCTDCVĐ
+- Quy định 2929/QyĐ-NHNo-TD
+- Quy định 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD
+- Quy định 2980/QyĐ-NHNo-RRTD
+- Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024
+- Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024
+- Quy định số 1009/QĐ-NHNo-KHCN ngày 26/3/2025
+- Quy định số 1345/QyĐ-HĐTV-TTh ngày 15/11/2024 Quy định chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ Agribank
+- Quy định số 1566/QyĐ-NHNo-CSKH ngày 30/6/2023
+- Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021
+- Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các
+- Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc
+- Quy định số 2766-QyĐ-NHNo-TD ngày 14/11/2023
+- Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023
+- Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024
+- Quy định số 999/QĐ-NHNo-KHCN ngày 26/3/2025
+- Quy định số 999/QĐ-NHNo-KHCN ngày 26/3/2025.
+- Quyết định 2209/QĐ-NHNo-KHNV
+- Quyết định 2209/QĐ-NHNo-KHNV ngày 18/10/2019
+- Quyết định số
+- Quyết định số 1228/QyĐ-NHNo-KHCN ngày 21/05/2024
+- Quyết định số 2209/QĐ-NHNo-KHNV ngày 18/10/2019
+- Quyết định số 656/QĐ-HĐTV-KHNV ngày 15/8/2019
+- Quyết định số 799/QĐ-HĐTV-UBNS ngày 15/8/2017 của HĐTV
+- QyĐ 1445 /QyĐ-NHNo-TD
+- QyĐ 2268/QyĐ-NHNo-TD
+- QyĐ 2268/QyĐ-NHNo-TD được sửa đổi , bổ sung tại QyĐ 4466/QyĐ-NHNo-TD
+- QyĐ 2929/QyĐ-NHNo-TD
+- QyĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD
+- QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD
+- QĐ 1009/QyĐ-NHNo-KHCN ngày 26/3/2025
+- QĐ 1206/QĐ-NHNo-TTh
+- QĐ 1381/QĐ-NHNo-TTKH
+- QĐ 1403/QĐ-NHNo-TTKH ngày 09/07/2018
+- QĐ 205/QĐ-NHNo-TTKH
+- QĐ 2268/QyĐ-NHNo-TD
+- QĐ 239/QĐ-NHNo-TTKH
+- QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các
+- QĐ 3110/QTr-NHNo-TTKH ngày 14/12/2023
+- QĐ 333/QĐ-NHNo-TTKH
+- QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD
+- QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại Điểm a
+- QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD
+- QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QĐ 2268/QyĐ-NHNo-TD
+- QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020
+- QĐ 936/QyĐ-HĐTV-TCKT
+- QĐ số 2086/QĐ-NHNo-TTKH
+- QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội
+- QĐ-NHNo-KHNV ngày 18/10/2019
+- QĐ1782/QĐ-NHNo-TTKH
+- Văn bản 9124/HD-NHNo-QLN ngày 19/10/2021
+- Văn bản hợp nhất 8374/VBHN-NHNo-TTh
+- Văn bản hợp nhất số 8494/VBHN-NHNo-TTh
+- Văn bản số 9124/HD-NHNo-QLN ngày 19/10/2021
+- văn bản số 2096/HD-NHNo-TD ngày 07/02/2024
+
+## State Laws and Decrees (Luật, Nghị định, Thông tư)
+- Luật PCRT 2022
+- Luật Phòng, chống rửa tiền năm 2022
+- Luật các TCTD 2024
+- Luật sửa đổi, bổ sung một số
+- Nghị định 15/2020/NĐ-CP
+- Nghị định số 13/2023/NĐ-CP
+- Nghị định số 19/2023/NĐ-CP
+- Thông tư 31/2024/TT-NHNN
+- luật Dân sự 2015
+
+## Training Manuals and Slides
+- 5.1. Tư duy xử lý khiếu nại thời đại số. Slide số 4
+- 5.1.1. Mục tiêu kép. Slide số 5
+- 5.1.2 – Minh bạch. Slide số 9
+- 5.1.2. Nguyên tắc vàng: nhanh – chuẩn – minh bạch – an toàn. Slide số 11
+- 5.1.3. Quản trị kỳ vọng: nói đúng, nói đủ, nói kịp thời. Slide số 13
+- Chuẩn mực trong Chào hỏi – Cẩm nang văn hóa Agribank
+- Chuẩn mực trong giới thiệu và tự giới thiệu – Cẩm nang văn hóa Agribank
+- Chuẩn mực trong ứng xử, giao tiếp với đồng nghiệp – Cẩm nang văn hóa Agribank
+- Cẩm nang chuyển đổi số - Bộ Thông tin - Truyền thông
+- Cẩm nang văn hóa Agribank
+- Khoản 13 Điều 2 Nội quy lao động số 429
+- Khoản 2 Điều 57 Nội quy lao động  429
+- Khoản 2, Điều 25 Nội quy lao động số 429/NQLĐ-HĐTV-TCNS ngày 25/7/2024
+- Khoản 2, Điều 4 Nội quy lao động số 429/NQLĐ-HĐTV-TCNS ngày 25/7/2022
+- Khoản 3 Điều 48 Nội quy lao động số 429/NQLĐ-HĐTV-TCNS ngày 25/7/2022
+- Khoản 4 Điều 11 Nội quy lao động số 429
+- Phần II – Mục 2. Chuẩn mực trong chào hỏi
+- Phần II – Mục 6. Chuẩn mực trong viết, trả lời thư điện tử
+- Theo khoản 5 Điều 2 Nội quy lao động số 429
+- Trách nhiệm của cán bộ viên chức Agribank  – Cẩm nang văn hóa Agribank
+- Tầm nhìn của Agribank – Cẩm nang văn hóa Agribank
+- Website Agribank, phần Văn hóa
+- khoản 1 Điều 12 Nội quy lao động số 429
+- khoản 3 Điều 11 Nội quy lao động số 429
+- khoản 3 Điều 5 Nội quy lao động số 429
+- Đặc trưng văn hóa Agribank – Cẩm nang văn hóa Agribank
