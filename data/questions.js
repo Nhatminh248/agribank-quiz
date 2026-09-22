@@ -3798,21 +3798,6 @@ window.QUESTIONS_DATA = [
     "batches": [
       "Đợt 2"
     ],
-    "question": "Theo Quy định số 2345/QyĐ-NHNo-CSKH ngày 29/9/2023,Trường hợp nào dưới đây được xác định là khách hàng phân loại gián tiếp trong hệ thống Agribank?",
-    "a1": "Khách hàng được đánh giá có khả năng đem lại lợi ích và/hoặc có đóng góp, hỗ trợ hoạt động của Agribank nhưng chưa được phân loại trực tiếp.",
-    "a2": "Khách hàng có thông tin trên hệ thống IPCAS và phát sinh giao dịch tiền gửi, tiền vay liên tục trong kỳ phân loại.",
-    "a3": "Khách hàng định chế tài chính trong nước có ký kết hợp đồng hợp tác toàn diện với Trụ sở chính Agribank.",
-    "a4": "Khách hàng cá nhân nước ngoài mở tài khoản thanh toán và sử dụng dịch vụ ngân hàng điện tử tại Chi nhánh Agribank.",
-    "correct": "1",
-    "source": "Quy định số 2345/QyĐ-NHNo-CSKH ngày 29/9/2023, Chương II, Điều 5 “Điều kiện khách hàng được phân loại”, Khoản 2 “Khách hàng phân loại gián tiếp”, trang 3.",
-    "id": 245,
-    "batch_label": "Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 2"
-    ],
     "question": "Theo VB 4416/QTr-NHNo-NHS ngày 30/12/2024, Đơn vị nào quản lý thông tin ma trận phê duyệt (approval matrix) trên Agribank eBanking?",
     "a1": "Chi nhánh",
     "a2": "Khách hàng",
@@ -3820,7 +3805,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trung tâm CNTT",
     "correct": "4",
     "source": "Chương III, mục 2, điều 36, khoản 2 - Quy trình 4416/QTr-NHNo-NHS ngày 30/12/2024",
-    "id": 246,
+    "id": 245,
     "batch_label": "Đợt 2"
   },
   {
@@ -3835,7 +3820,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thực hiện thủ tục xử lý tài sản thế chấp theo đúng quy định của pháp luật.",
     "correct": "3",
     "source": "Khoản 1 Điều 300 Bộ luật Dân sự 2015",
-    "id": 247,
+    "id": 246,
     "batch_label": "Đợt 2"
   },
   {
@@ -3850,7 +3835,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả đáp án 1 và 2 đều đúng.",
     "correct": "4",
     "source": "Khoản 1, 5 Điều 28 Luật PCRT 2022",
-    "id": 248,
+    "id": 247,
     "batch_label": "Đợt 2"
   },
   {
@@ -3865,7 +3850,7 @@ window.QUESTIONS_DATA = [
     "a4": "Theo thời gian mở tài khoản của khách hàng.",
     "correct": "3",
     "source": "Khoản 1 Điều 5 Thông tư 27/2025/TT-NHNN\n(Thay thế bằng Thông tư số 27/2025/TT-NHNN)",
-    "id": 249,
+    "id": 248,
     "batch_label": "Đợt 2"
   },
   {
@@ -3880,7 +3865,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người được Hội đồng Quản trị ủy quyền bằng nghị quyết nội bộ.",
     "correct": "2",
     "source": "Khoản 1, Điều 11, Luật các TCTD 2024",
-    "id": 250,
+    "id": 249,
     "batch_label": "Đợt 2"
   },
   {
@@ -3895,7 +3880,7 @@ window.QUESTIONS_DATA = [
     "a4": "Qua các trang mạng xã hội",
     "correct": "1",
     "source": "Quy định 2239/QyĐ-NHNo-TTT, Điều 28, Khoản 1",
-    "id": 251,
+    "id": 250,
     "batch_label": "Đợt 2"
   },
   {
@@ -3910,7 +3895,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đạt mốc 35 triệu khách hàng",
     "correct": "3",
     "source": "Trang 50 Mục II.4 . 4.2 Đề án chiến lược phát triển Agribank",
-    "id": 252,
+    "id": 251,
     "batch_label": "Đợt 2"
   },
   {
@@ -3925,7 +3910,7 @@ window.QUESTIONS_DATA = [
     "a4": "Dưới 3,0%.",
     "correct": "2",
     "source": "Trang 50 Mục II.4 . 4.1 Đề án chiến lược phát triển Agribank",
-    "id": 253,
+    "id": 252,
     "batch_label": "Đợt 2"
   },
   {
@@ -3940,7 +3925,7 @@ window.QUESTIONS_DATA = [
     "a4": "04 phân khúc (Tập đoàn kinh tế; Tổng công ty; Hộ kinh doanh siêu nhỏ; Doanh nghiệp FDI)",
     "correct": "2",
     "source": "Trang 55, Mục III.1.2.b  Đề án chiến lược phát triển Agribank",
-    "id": 254,
+    "id": 253,
     "batch_label": "Đợt 2"
   },
   {
@@ -3955,7 +3940,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đạt trên 70%",
     "correct": "3",
     "source": "Trang 50 Mục II.4 . 4.3 Đề án chiến lược phát triển Agribank",
-    "id": 255,
+    "id": 254,
     "batch_label": "Đợt 2"
   },
   {
@@ -3970,7 +3955,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoảng 20%",
     "correct": "3",
     "source": "Trang 60, Mục III.3.1.c (Giải pháp tăng trưởng tỷ lệ CASA)  Đề án chiến lược phát triển Agribank",
-    "id": 256,
+    "id": 255,
     "batch_label": "Đợt 2"
   },
   {
@@ -3985,7 +3970,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoảng 12,5%",
     "correct": "3",
     "source": "Mục 4.4: Mục tiêu về tỷ lệ an toàn vốn (Trang 52) Đề án chiến lược phát triển Agribank",
-    "id": 257,
+    "id": 256,
     "batch_label": "Đợt 2"
   },
   {
@@ -4000,7 +3985,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thay thế hoàn toàn các chuẩn mực Basel bằng hệ thống kiểm soát nội bộ COSO.",
     "correct": "2",
     "source": "Trang 69, Mục III.5.1 (Về quản lý rủi ro) Đề án chiến lược phát triển Agribank",
-    "id": 258,
+    "id": 257,
     "batch_label": "Đợt 2"
   },
   {
@@ -4015,7 +4000,7 @@ window.QUESTIONS_DATA = [
     "a4": "\"Agribank học tập số\"",
     "correct": "3",
     "source": "Trang 71, Mục III.6.2 (Phát triển nguồn nhân lực chất lượng cao)  Đề án chiến lược phát triển Agribank",
-    "id": 259,
+    "id": 258,
     "batch_label": "Đợt 2"
   },
   {
@@ -4030,7 +4015,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các khoản vay chuỗi liên kết của các Tập đoàn và Tổng công ty.",
     "correct": "3",
     "source": "Trang 61, Mục III.3.2.a (Giải pháp tổng thể về tín dụng) Đề án chiến lược phát triển Agribank",
-    "id": 260,
+    "id": 259,
     "batch_label": "Đợt 2"
   },
   {
@@ -4045,7 +4030,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối thiểu 12%/năm.",
     "correct": "3",
     "source": "Trang 49 Mục II.4 . 4.1  Đề án chiến lược phát triển Agribank",
-    "id": 261,
+    "id": 260,
     "batch_label": "Đợt 2"
   },
   {
@@ -4060,7 +4045,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khung quản lý dự án linh hoạt Agile và Scrum.",
     "correct": "2",
     "source": "Trang 68, Mục III.4 (Nâng cao năng lực quản trị điều hành) Đề án chiến lược phát triển Agribank",
-    "id": 262,
+    "id": 261,
     "batch_label": "Đợt 2"
   },
   {
@@ -4075,7 +4060,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối thiểu 70%.",
     "correct": "2",
     "source": "Trang 50 Mục II.4  Đề án chiến lược phát triển Agribank",
-    "id": 263,
+    "id": 262,
     "batch_label": "Đợt 2"
   },
   {
@@ -4090,7 +4075,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cho phép tăng số lượng nhân sự không giới hạn ở mảng Công nghệ thông tin để tăng năng suất.",
     "correct": "2",
     "source": "Mục 4.7: Mục tiêu về phát triển nguồn nhân lực, mạng lưới (Trang 53) Đề án chiến lược phát triển Agribank",
-    "id": 264,
+    "id": 263,
     "batch_label": "Đợt 2"
   },
   {
@@ -4105,7 +4090,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khung báo cáo phát triển bền vững GRI toàn cầu.",
     "correct": "1",
     "source": "Trang 74, Mục III.9 (Định hướng ngân hàng xanh) Đề án chiến lược phát triển Agribank",
-    "id": 265,
+    "id": 264,
     "batch_label": "Đợt 2"
   },
   {
@@ -4120,7 +4105,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoảng 25%",
     "correct": "1",
     "source": "Mục 4.5: Mục tiêu phát triển sản phẩm, dịch vụ (Trang 52) Đề án chiến lược phát triển Agribank",
-    "id": 266,
+    "id": 265,
     "batch_label": "Đợt 2"
   },
   {
@@ -4135,7 +4120,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thẻ tín dụng.",
     "correct": "2",
     "source": "Khoản 6 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 267,
+    "id": 266,
     "batch_label": "Đợt 2"
   },
   {
@@ -4150,7 +4135,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "1",
     "source": "Khoản 5 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 268,
+    "id": 267,
     "batch_label": "Đợt 2"
   },
   {
@@ -4165,7 +4150,7 @@ window.QUESTIONS_DATA = [
     "a4": "04 năm kể từ ngày phát hành.",
     "correct": "2",
     "source": "Khoản 5 Điều 5 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 269,
+    "id": 268,
     "batch_label": "Đợt 2"
   },
   {
@@ -4180,7 +4165,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 270,
+    "id": 269,
     "batch_label": "Đợt 2"
   },
   {
@@ -4195,7 +4180,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thẻ ghi nợ nội địa có thời hạn hiệu lực tối đa là 03 năm.",
     "correct": "1",
     "source": "Quy định 2239/QyĐ-NHNo-TTT, Điều 5, Khoản 1",
-    "id": 271,
+    "id": 270,
     "batch_label": "Đợt 2"
   },
   {
@@ -4210,7 +4195,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tăng cường quảng bá dịch vụ ngân hàng trên mọi nền tảng bất kể nội dung.",
     "correct": "2",
     "source": "Nghị quyết 80-NQ/TW",
-    "id": 272,
+    "id": 271,
     "batch_label": "Đợt 2"
   },
   {
@@ -4225,7 +4210,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng sử dụng thẻ ATM để rút tiền tiêu dùng cá nhân ở cùng địa phương.",
     "correct": "3",
     "source": "Khoản 2 Điều 28 Luật Phòng, chống rửa tiền 2022",
-    "id": 273,
+    "id": 272,
     "batch_label": "Đợt 2"
   },
   {
@@ -4240,7 +4225,7 @@ window.QUESTIONS_DATA = [
     "a4": "Theo Điều lệ của Doanh nghiệp.",
     "correct": "1",
     "source": "Khoản 3 Điều 190 Luật Doanh nghiệp 2020",
-    "id": 274,
+    "id": 273,
     "batch_label": "Đợt 2"
   },
   {
@@ -4255,7 +4240,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phải xin chấp thuận trước của Ngân hàng Nhà nước mới được ủy quyền.",
     "correct": "2",
     "source": "Khoản 2, Điều 11, Luật các TCTD 2024",
-    "id": 275,
+    "id": 274,
     "batch_label": "Đợt 2"
   },
   {
@@ -4270,7 +4255,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "4",
     "source": "Chương II, mục 4, điều 31, khoản 1 - Quy trình 4416/QTr-NHNo-NHS ngày 30/12/2024",
-    "id": 276,
+    "id": 275,
     "batch_label": "Đợt 2"
   },
   {
@@ -4285,7 +4270,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tư vấn và hướng dẫn khách hàng thực hiện các biện pháp đảm bảo an toàn, bảo mật khi sử dụng dịch vụ theo quy định của pháp luật và Agribank",
     "correct": "4",
     "source": "Khoản 4 Điều 7 Quyết định số 1228/QyĐ-NHNo-KHCN ngày 21/05/2024",
-    "id": 277,
+    "id": 276,
     "batch_label": "Đợt 2"
   },
   {
@@ -4300,7 +4285,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 1 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 278,
+    "id": 277,
     "batch_label": "Đợt 2"
   },
   {
@@ -4315,7 +4300,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 1 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 279,
+    "id": 278,
     "batch_label": "Đợt 2"
   },
   {
@@ -4330,7 +4315,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ít nhất 5 ngân hàng.",
     "correct": "3",
     "source": "Nghị quyết 79-NQ/TW",
-    "id": 280,
+    "id": 279,
     "batch_label": "Đợt 2"
   },
   {
@@ -4345,7 +4330,7 @@ window.QUESTIONS_DATA = [
     "a4": "Vấn tin hạn mức tín dụng thẻ",
     "correct": "2",
     "source": "Quy định 2239/QyĐ-NHNo-TTT, Điều 6, Khoản 1",
-    "id": 281,
+    "id": 280,
     "batch_label": "Đợt 2"
   },
   {
@@ -4360,7 +4345,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "3",
     "source": "Khoản 1 Điều 6 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 282,
+    "id": 281,
     "batch_label": "Đợt 2"
   },
   {
@@ -4375,7 +4360,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng.",
     "correct": "4",
     "source": "Khoản 1 Điều 201 Luật các TCTD 2024",
-    "id": 283,
+    "id": 282,
     "batch_label": "Đợt 2"
   },
   {
@@ -4390,7 +4375,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "1",
     "source": "Điểm e Khoản 2 Điều 13 Quy chế 1589/QC-HĐTV-TCNS ngày 31/12/2024",
-    "id": 284,
+    "id": 283,
     "batch_label": "Đợt 2"
   },
   {
@@ -4405,7 +4390,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cầm giữ tài sản.",
     "correct": "2",
     "source": "Điều 317 BLDS 2015",
-    "id": 285,
+    "id": 284,
     "batch_label": "Đợt 2"
   },
   {
@@ -4420,7 +4405,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cầm giữ tài sản.",
     "correct": "1",
     "source": "Điều 309 BLDS 2015",
-    "id": 286,
+    "id": 285,
     "batch_label": "Đợt 2"
   },
   {
@@ -4435,7 +4420,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 8 Điều lệ Agribank 2024",
-    "id": 287,
+    "id": 286,
     "batch_label": "Đợt 2"
   },
   {
@@ -4450,7 +4435,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các tổ chức tình nguyện vì cộng đồng.",
     "correct": "3",
     "source": "Nghị quyết 80-NQ/TW",
-    "id": 288,
+    "id": 287,
     "batch_label": "Đợt 2"
   },
   {
@@ -4465,7 +4450,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng.",
     "correct": "4",
     "source": "Điểm a, g khoản 1 Điều 114 Luật các TCTD 2024",
-    "id": 289,
+    "id": 288,
     "batch_label": "Đợt 2"
   },
   {
@@ -4480,7 +4465,7 @@ window.QUESTIONS_DATA = [
     "a4": "Văn phòng đại diện là đơn vị phụ thuộc Agribank, hạch toán phụ thuộc, không có con dấu, thực hiện chức năng đại diện theo ủy quyền của Agribank. Văn phòng đại diện thực hiện một hoặc một số hoạt động hỗ trợ hoạt động kinh doanh theo uỷ quyền của Agribank.",
     "correct": "1",
     "source": "Khoản 18 Điều 1 Điều lệ Agribank 2024",
-    "id": 290,
+    "id": 289,
     "batch_label": "Đợt 2"
   },
   {
@@ -4495,7 +4480,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Văn bản số 6638/NHNo-KHCN ngày 21/5/2024",
-    "id": 291,
+    "id": 290,
     "batch_label": "Đợt 2"
   },
   {
@@ -4510,7 +4495,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Quy định 1228/QyĐ-NHNo-KHCN ngày 21/5/2024, Điều 11, Khoản 1",
-    "id": 292,
+    "id": 291,
     "batch_label": "Đợt 2"
   },
   {
@@ -4525,7 +4510,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đến hết năm 2045.",
     "correct": "1",
     "source": "Nghị quyết 79-NQ/TW",
-    "id": 293,
+    "id": 292,
     "batch_label": "Đợt 2"
   },
   {
@@ -4540,7 +4525,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ảnh chủ thẻ",
     "correct": "1",
     "source": "Quy định 2239/QyĐ-NHNo-TTT, Điều 4, Khoản 1",
-    "id": 294,
+    "id": 293,
     "batch_label": "Đợt 2"
   },
   {
@@ -4555,7 +4540,7 @@ window.QUESTIONS_DATA = [
     "a4": "Năm 2035.",
     "correct": "1",
     "source": "Nghị quyết 80-NQ/TW",
-    "id": 295,
+    "id": 294,
     "batch_label": "Đợt 2"
   },
   {
@@ -4570,7 +4555,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phải yêu cầu bên bảo đảm thay đổi tài sản.",
     "correct": "3",
     "source": "Khoản 2 Điều 55 Nghị định 21/2021/NĐ-CP",
-    "id": 296,
+    "id": 295,
     "batch_label": "Đợt 2"
   },
   {
@@ -4585,7 +4570,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lắng nghe với mong muốn thấu hiểu tâm tư, tình cảm của nhân viên.",
     "correct": "3",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 297,
+    "id": 296,
     "batch_label": "Đợt 1"
   },
   {
@@ -4600,7 +4585,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người tham gia giao tiếp có thể trực tiếp phản hồi thông tin.",
     "correct": "1",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 298,
+    "id": 297,
     "batch_label": "Đợt 1"
   },
   {
@@ -4615,7 +4600,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bao gồm cả 1 và 2.",
     "correct": "4",
     "source": "Chuyên đề 1, Phần 1.3. Sự khác biệt giữa lãnh đạo, quản lý truyền thống và lãnh đạo, quản lý thời đại 4.0, Phần Bốn chức năng của nhà quản lý trong phần 1.3, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 299,
+    "id": 298,
     "batch_label": "Đợt 1"
   },
   {
@@ -4630,7 +4615,7 @@ window.QUESTIONS_DATA = [
     "a4": "Gạt bỏ những điều trái ý kiến chỉ đạo để tập trung vấn đề.",
     "correct": "1",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 300,
+    "id": 299,
     "batch_label": "Đợt 1"
   },
   {
@@ -4645,7 +4630,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kiên nhẫn khi nghe nhân viên trình bày vấn đề.",
     "correct": "2",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 301,
+    "id": 300,
     "batch_label": "Đợt 1"
   },
   {
@@ -4660,7 +4645,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tìm kiếm giải pháp giải quyết vấn đề.",
     "correct": "3",
     "source": "Tiểu mục 3.1; Phần 3, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 302,
+    "id": 301,
     "batch_label": "Đợt 1"
   },
   {
@@ -4675,7 +4660,7 @@ window.QUESTIONS_DATA = [
     "a4": "Yếu tố minh bạch và an toàn trong giao dịch.",
     "correct": "2",
     "source": "Chuyên đề 2, Mục 2.1, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 303,
+    "id": 302,
     "batch_label": "Đợt 1"
   },
   {
@@ -4690,7 +4675,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kèm cặp nhân viên.",
     "correct": "4",
     "source": "Tiểu mục 4.1; Phần 4, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 304,
+    "id": 303,
     "batch_label": "Đợt 1"
   },
   {
@@ -4705,7 +4690,7 @@ window.QUESTIONS_DATA = [
     "a4": "Báo cáo cấp trên những việc vụn vặt, không cần thiết.",
     "correct": "4",
     "source": "Tiểu mục 6.3; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 305,
+    "id": 304,
     "batch_label": "Đợt 1"
   },
   {
@@ -4720,7 +4705,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Chuyên đề 2, Mục 2.2.1, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 306,
+    "id": 305,
     "batch_label": "Đợt 1"
   },
   {
@@ -4735,7 +4720,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Tiểu mục 4.1; Phần 4, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 307,
+    "id": 306,
     "batch_label": "Đợt 1"
   },
   {
@@ -4750,7 +4735,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Chuyên đề 1, Phần 2, Mục 2.1. Mô hình lãnh đạo, quản lý hiện đại của thế kỷ 21, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 308,
+    "id": 307,
     "batch_label": "Đợt 1"
   },
   {
@@ -4765,7 +4750,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xác định trưởng nhóm làm việc.",
     "correct": "3",
     "source": "Chuyên đề 4, Mục 1.1. tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 309,
+    "id": 308,
     "batch_label": "Đợt 1"
   },
   {
@@ -4780,7 +4765,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giảm số lượng nhân viên để tối ưu năng suất",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng tạo động lực làm việc cho nhân viên\" - Bài số 2. Vai trò của người quản lý trong tạo động lực cho nhân viên",
-    "id": 310,
+    "id": 309,
     "batch_label": "Đợt 1"
   },
   {
@@ -4795,7 +4780,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Chuyên đề 2, Mục 3.1. Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 311,
+    "id": 310,
     "batch_label": "Đợt 1"
   },
   {
@@ -4810,7 +4795,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chỉ ứng dụng AI khi kế hoạch đã hoàn thiện nhằm tiết kiệm chi phí triển khai",
     "correct": "2",
     "source": "Mục 1.6, tr. 15 bài giảng \"Kỹ năng Lập và Triển khai kế hoạch cấp phòng 2025",
-    "id": 312,
+    "id": 311,
     "batch_label": "Đợt 1"
   },
   {
@@ -4825,7 +4810,7 @@ window.QUESTIONS_DATA = [
     "a4": "When – Thời hạn hoàn thành chỉ tiêu đề ra?",
     "correct": "2",
     "source": "Mục 1.5, tr. 13 bài giảng \"Kỹ năng Lập và Triển khai kế hoạch cấp phòng 2025",
-    "id": 313,
+    "id": 312,
     "batch_label": "Đợt 1"
   },
   {
@@ -4840,7 +4825,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kế hoạch vẫn thực hiện tốt nếu nhân viên nỗ lực",
     "correct": "2",
     "source": "Mục 1.6, tr. 15 bài giảng \"Kỹ năng Lập và Triển khai kế hoạch cấp phòng 2025",
-    "id": 314,
+    "id": 313,
     "batch_label": "Đợt 1"
   },
   {
@@ -4855,7 +4840,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tìm phương án để giải quyết vấn đề.",
     "correct": "1",
     "source": "Tiểu mục 3.2; Phần 3, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 315,
+    "id": 314,
     "batch_label": "Đợt 1"
   },
   {
@@ -4870,7 +4855,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Tiểu mục 4.1; Phần 4, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 316,
+    "id": 315,
     "batch_label": "Đợt 1"
   },
   {
@@ -4885,7 +4870,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quản lý công việc.",
     "correct": "1",
     "source": "Tiểu mục 1.2; Chuyên đề 1: Tổng quan về lãnh đạo, quản lý - lãnh đạo quản lý cấp phòng thuộc Chương trình đào tạo quản lý cấp phòng năm 2022",
-    "id": 317,
+    "id": 316,
     "batch_label": "Đợt 1"
   },
   {
@@ -4900,7 +4885,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quản lý công việc.",
     "correct": "4",
     "source": "Tiểu mục 1.2; Chuyên đề 1: Tổng quan về lãnh đạo, quản lý - lãnh đạo quản lý cấp phòng thuộc Chương trình đào tạo quản lý cấp phòng năm 2022",
-    "id": 318,
+    "id": 317,
     "batch_label": "Đợt 1"
   },
   {
@@ -4915,7 +4900,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhà quản lý, lãnh đạo không nhất thiết phải rèn luyện kỹ năng truyền thông.",
     "correct": "4",
     "source": "Tiểu mục 6.1; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 319,
+    "id": 318,
     "batch_label": "Đợt 1"
   },
   {
@@ -4930,7 +4915,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phải hỏi kỹ để làm rõ vấn đề và phải đưa ra quyết định theo ý kiến chủ quan của người lãnh đạo.",
     "correct": "2",
     "source": "Tiểu mục 6.3; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 320,
+    "id": 319,
     "batch_label": "Đợt 1"
   },
   {
@@ -4945,7 +4930,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thu thập các thông tin về cơ chế, quy trình.",
     "correct": "3",
     "source": "Chuyên đề 4, Mục 1.1.1. Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 321,
+    "id": 320,
     "batch_label": "Đợt 1"
   },
   {
@@ -4960,7 +4945,7 @@ window.QUESTIONS_DATA = [
     "a4": "Định hướng đúng mục tiêu cần thực hiện.",
     "correct": "3",
     "source": "Chuyên đề 4, Mục 1.2. Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 322,
+    "id": 321,
     "batch_label": "Đợt 1"
   },
   {
@@ -4975,7 +4960,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Chuyên đề 2, Mục 3.1, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 323,
+    "id": 322,
     "batch_label": "Đợt 1"
   },
   {
@@ -4990,7 +4975,7 @@ window.QUESTIONS_DATA = [
     "a4": "Làm cho người lao động hiểu được các nhiệm vụ.",
     "correct": "3",
     "source": "Chuyên đề 4, Mục 1.1.1. Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 324,
+    "id": 323,
     "batch_label": "Đợt 1"
   },
   {
@@ -5005,7 +4990,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Mục 1.5, tr. 13 bài giảng \"Kỹ năng Lập và Triển khai kế hoạch cấp phòng 2025",
-    "id": 325,
+    "id": 324,
     "batch_label": "Đợt 1"
   },
   {
@@ -5020,7 +5005,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đối xử thiên vị với nhân viên luôn biết chấp hành ý kiến của lãnh đạo.",
     "correct": "4",
     "source": "Chuyên đề 1, Phần 1, Mục 1.4.2. Kỹ năng lãnh đạo, nội dung kỹ năng tạo động lực làm  việc nằm trong phần: 1.4.2.2. Kỹ năng quan hệ với con người, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 326,
+    "id": 325,
     "batch_label": "Đợt 1"
   },
   {
@@ -5035,7 +5020,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Tiểu mục 2.6; Mục 2; Phần III tài liệu Kỹ năng CSKH chuyên nghiệp 2022",
-    "id": 327,
+    "id": 326,
     "batch_label": "Đợt 1"
   },
   {
@@ -5050,7 +5035,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tập trung vào sản phẩm tín dụng ngắn hạn để tối ưu hóa lợi nhuận",
     "correct": "1",
     "source": "Mục 1.6, tr. 15 bài giảng \"Kỹ năng Lập và Triển khai kế hoạch cấp phòng 2025",
-    "id": 328,
+    "id": 327,
     "batch_label": "Đợt 1"
   },
   {
@@ -5065,7 +5050,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 329,
+    "id": 328,
     "batch_label": "Đợt 1"
   },
   {
@@ -5080,7 +5065,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nguyên tắc độc lập.",
     "correct": "1",
     "source": "Chuyên đề 4, Mục 2.1. tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 330,
+    "id": 329,
     "batch_label": "Đợt 1"
   },
   {
@@ -5095,7 +5080,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Chuyên đề 4, Mục 1.1.1. Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
-    "id": 331,
+    "id": 330,
     "batch_label": "Đợt 1"
   },
   {
@@ -5110,7 +5095,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giúp nhân viên hiểu rõ nghĩa vụ, trách nhiệm của mình.",
     "correct": "1",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 332,
+    "id": 331,
     "batch_label": "Đợt 1"
   },
   {
@@ -5125,7 +5110,7 @@ window.QUESTIONS_DATA = [
     "a4": "5 Whys.",
     "correct": "1",
     "source": "Tiểu mục 3.1; Phần 3, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 333,
+    "id": 332,
     "batch_label": "Đợt 1"
   },
   {
@@ -5140,7 +5125,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Tiểu mục 4.3; Phần 4, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 334,
+    "id": 333,
     "batch_label": "Đợt 1"
   },
   {
@@ -5155,7 +5140,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhận ra vấn đề và xác định nguyên nhân chính của vấn đề",
     "correct": "4",
     "source": "Tiểu mục 1.4.2.3, nội dung a; Chuyên đề 1: Tổng quan về lãnh đạo, quản lý - lãnh đạo quản lý cấp phòng thuộc Chương trình đào tạo quản lý cấp phòng năm 2022",
-    "id": 335,
+    "id": 334,
     "batch_label": "Đợt 1"
   },
   {
@@ -5170,7 +5155,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Tiểu mục 6.1; Phần 6, Chuyên đề 5,  Mục 1.4.2.2 tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 336,
+    "id": 335,
     "batch_label": "Đợt 1"
   },
   {
@@ -5185,7 +5170,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sử dụng nhiều thuật ngữ chuyên môn.",
     "correct": "1",
     "source": "Tiểu mục 6.2; Phần 6, Chuyên đề 5,  tài liệu Chương trình đào tạo lãnh đạo quản lý cấp phòng 2022",
-    "id": 337,
+    "id": 336,
     "batch_label": "Đợt 1"
   },
   {
@@ -5201,7 +5186,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đánh giá kết quả",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 2. Quy trình giải quyết vấn đề",
-    "id": 338,
+    "id": 337,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5217,7 +5202,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thay đổi cách quản lý",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng tạo động lực làm việc cho nhân viên\" - Bài số 3. Quy trình tạo động lực cho nhân việc",
-    "id": 339,
+    "id": 338,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5233,7 +5218,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hỏi 'Tại sao?' (Why)",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 3. Công cụ xác định nguyên nhân của vấn đề",
-    "id": 340,
+    "id": 339,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5249,7 +5234,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tăng thời gian nghỉ ngơi",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng tạo động lực làm việc cho nhân viên\" - Bài số 2. Vai trò của người quản lý trong tạo động lực cho nhân viên",
-    "id": 341,
+    "id": 340,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5265,7 +5250,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 2. Quy trình giải quyết vấn đề",
-    "id": 342,
+    "id": 341,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5281,7 +5266,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tạo ra nhiều ý tưởng sáng tạo",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 7. Phân tích SWOT",
-    "id": 343,
+    "id": 342,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5297,7 +5282,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 1. Vấn đề và phân loại vấn đề",
-    "id": 344,
+    "id": 343,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5313,7 +5298,7 @@ window.QUESTIONS_DATA = [
     "a4": "Để kiểm tra tính khả thi của mỗi giải pháp",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng giải quyết vấn đề và ra quyết định\" - Bài 6. Tìm kiếm giải pháp",
-    "id": 345,
+    "id": 344,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5329,7 +5314,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhân viên đòi hỏi mức lương cao hơn",
     "correct": "1",
     "source": "Chương trình đào tạo trên E-learning năm 2025 \"Kỹ năng tạo động lực làm việc cho nhân viên\" - Bài số 2. Vai trò của người quản lý trong tạo động lực cho nhân viên",
-    "id": 346,
+    "id": 345,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5344,7 +5329,7 @@ window.QUESTIONS_DATA = [
     "a4": "File input quá lớn",
     "correct": "2",
     "source": "Slide 35-36 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 347,
+    "id": 346,
     "batch_label": "Đợt 2"
   },
   {
@@ -5359,7 +5344,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án đều đúng.",
     "correct": "2",
     "source": "Câu 0.8 của CĐ Chuyển đổi số cho lãnh đạo chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 348,
+    "id": 347,
     "batch_label": "Đợt 2"
   },
   {
@@ -5374,7 +5359,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tránh xa AI để giữ công việc hiện tại",
     "correct": "3",
     "source": "Slide 21 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 349,
+    "id": 348,
     "batch_label": "Đợt 2"
   },
   {
@@ -5389,7 +5374,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đều đúng.",
     "correct": "1",
     "source": "Câu 0.6 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 350,
+    "id": 349,
     "batch_label": "Đợt 2"
   },
   {
@@ -5404,7 +5389,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Câu 0.8 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 351,
+    "id": 350,
     "batch_label": "Đợt 2"
   },
   {
@@ -5419,7 +5404,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Chuyên đề 3: Đạo đức và bảo mật trong sử dụng AI\n- Mục: Rủi ro AI (Slide 31 & 32 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC DÀNH CHO QLCP Năm 2026",
-    "id": 352,
+    "id": 351,
     "batch_label": "Đợt 2"
   },
   {
@@ -5434,7 +5419,7 @@ window.QUESTIONS_DATA = [
     "a4": "Vượt trội",
     "correct": "3",
     "source": "Câu 0.8 của CĐ Quản lý chất lượng dịch vụ; Chương trình đào tạo Quản lý loại II",
-    "id": 353,
+    "id": 352,
     "batch_label": "Đợt 2"
   },
   {
@@ -5449,7 +5434,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sử dụng tên giả nhưng giữ nguyên số CCCD và số tài khoản",
     "correct": "3",
     "source": "Chuyên đề 3: Đạo đức và bảo mật trong sử dụng AI\n- Mục: Ví dụ thực tế (Slide 39 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC DÀNH CHO QLCP Năm 2026",
-    "id": 354,
+    "id": 353,
     "batch_label": "Đợt 2"
   },
   {
@@ -5464,7 +5449,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đánh gía và hoàn thiện dịch vụ",
     "correct": "3",
     "source": "Câu 0.4 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 355,
+    "id": 354,
     "batch_label": "Đợt 2"
   },
   {
@@ -5479,7 +5464,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hệ thống AI Agent đa tác tử",
     "correct": "2",
     "source": "Chuyên đề 1: Giới thiệu và trải nghiệm các công cụ AI phổ biến\n- Mục: Công cụ AI -Slide 8 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC DÀNH CHO QLCP Năm 2026",
-    "id": 356,
+    "id": 355,
     "batch_label": "Đợt 2"
   },
   {
@@ -5494,7 +5479,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lên phương án nhân sự để thực hiện công việc",
     "correct": "1",
     "source": "Câu 0.3 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 357,
+    "id": 356,
     "batch_label": "Đợt 2"
   },
   {
@@ -5509,7 +5494,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giảm tính cạnh tranh trên thị trường.",
     "correct": "3",
     "source": "Câu 0.3 của CĐ Quản lý chất lượng dịch vụ; Chương trình đào tạo Quản lý loại II",
-    "id": 358,
+    "id": 357,
     "batch_label": "Đợt 2"
   },
   {
@@ -5524,7 +5509,7 @@ window.QUESTIONS_DATA = [
     "a4": "Một công nghệ kết nối các thiết bị vật lý với Internet",
     "correct": "2",
     "source": "Câu 0.11 của CĐ Chuyển đổi số cho lãnh đạo chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 359,
+    "id": 358,
     "batch_label": "Đợt 2"
   },
   {
@@ -5539,7 +5524,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phân tích bối cảnh (SWOT, khách hàng, đối thủ)",
     "correct": "4",
     "source": "Câu 0.9 của CĐ Quản lý truyền thông và phát triển thương hiệu; Chương trình đào tạo Quản lý loại II",
-    "id": 360,
+    "id": 359,
     "batch_label": "Đợt 2"
   },
   {
@@ -5554,7 +5539,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phương tiện hữu hình (Tangibles)",
     "correct": "1",
     "source": "Câu 0.4 của CĐ Quản lý chất lượng dịch vụ; Chương trình đào tạo Quản lý loại II",
-    "id": 361,
+    "id": 360,
     "batch_label": "Đợt 2"
   },
   {
@@ -5569,7 +5554,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ngừng các hoạt động cộng đồng",
     "correct": "1",
     "source": "Câu 0.10 của CĐ Quản lý truyền thông và phát triển thương hiệu; Chương trình đào tạo Quản lý loại II",
-    "id": 362,
+    "id": 361,
     "batch_label": "Đợt 2"
   },
   {
@@ -5584,7 +5569,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cắt giảm chi phí hoạt động",
     "correct": "3",
     "source": "Câu 0.1 của CĐ Quản lý truyền thông và phát triển thương hiệu; Chương trình đào tạo Quản lý loại II",
-    "id": 363,
+    "id": 362,
     "batch_label": "Đợt 2"
   },
   {
@@ -5599,7 +5584,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chỉ cung cấp thông tin cho một số tờ báo thân thiết",
     "correct": "2",
     "source": "Câu 0.4 của CĐ Quản lý truyền thông và phát triển thương hiệu; Chương trình đào tạo Quản lý loại II",
-    "id": 364,
+    "id": 363,
     "batch_label": "Đợt 2"
   },
   {
@@ -5614,7 +5599,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tập trung vào kế hoạch, dự báo và đánh giá",
     "correct": "3",
     "source": "Slide 25 Lập và triển khai KH, ứng dụng Agile dành cho QLCP  Năm 2026",
-    "id": 365,
+    "id": 364,
     "batch_label": "Đợt 2"
   },
   {
@@ -5629,7 +5614,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xây dựng kế hoạch kinh doanh",
     "correct": "2",
     "source": "Câu 0.11 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 366,
+    "id": 365,
     "batch_label": "Đợt 2"
   },
   {
@@ -5644,7 +5629,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hệ thống bảo mật tường lửa ngăn chặn rò rỉ thông tin của ngân hàng",
     "correct": "2",
     "source": "Chuyên đề 2: Kỹ năng Prompt cơ bản\n- Mục: Khái niệm nền tảng Slide 18 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC DÀNH CHO QLCP Năm 2026",
-    "id": 367,
+    "id": 366,
     "batch_label": "Đợt 2"
   },
   {
@@ -5659,7 +5644,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 nguyên nhân trên",
     "correct": "4",
     "source": "Câu 0.9 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 368,
+    "id": 367,
     "batch_label": "Đợt 2"
   },
   {
@@ -5674,7 +5659,7 @@ window.QUESTIONS_DATA = [
     "a4": "Rủi ro tối thiểu (Không yêu cầu kiểm soát đặc biệt)",
     "correct": "2",
     "source": "Chuyên đề 3: Đạo đức và bảo mật trong sử dụng AI\n (Slide 34 & 35:  AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC DÀNH CHO QLCP Năm 2026",
-    "id": 369,
+    "id": 368,
     "batch_label": "Đợt 2"
   },
   {
@@ -5689,7 +5674,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là cách làm việc khai thác tính tất yếu của sự thay đổi",
     "correct": "4",
     "source": "Slide 24; Lập và triển khai KH, ứng dụng Agile dành cho QLCP  Năm 2026",
-    "id": 370,
+    "id": 369,
     "batch_label": "Đợt 2"
   },
   {
@@ -5704,7 +5689,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khuôn khổ pháp lý thay đổi",
     "correct": "3",
     "source": "Câu 0.15 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 371,
+    "id": 370,
     "batch_label": "Đợt 2"
   },
   {
@@ -5719,7 +5704,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giữ nguyên hiện trạng để đảm bảo sự an toàn tuyệt đối",
     "correct": "2",
     "source": "Slide 81 - 83 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 372,
+    "id": 371,
     "batch_label": "Đợt 2"
   },
   {
@@ -5734,7 +5719,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thay đổi tổ chức: Sáp nhập, tái cấu trúc, thay đổi quy trình làm việc.",
     "correct": "2",
     "source": "Câu 0.11 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 373,
+    "id": 372,
     "batch_label": "Đợt 2"
   },
   {
@@ -5749,7 +5734,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chuẩn hóa sản phẩm theo một mẫu chung",
     "correct": "2",
     "source": "Câu 0.10 của CĐ Chuyển đổi số cho lãnh đạo chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 374,
+    "id": 373,
     "batch_label": "Đợt 2"
   },
   {
@@ -5764,7 +5749,7 @@ window.QUESTIONS_DATA = [
     "a4": "AI làm tự động hoàn toàn, giải phóng con người khỏi công việc",
     "correct": "3",
     "source": "Slide 115 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 375,
+    "id": 374,
     "batch_label": "Đợt 2"
   },
   {
@@ -5779,7 +5764,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tạo cơ chế giải quyết xung đột",
     "correct": "1",
     "source": "Câu 0.5 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 376,
+    "id": 375,
     "batch_label": "Đợt 2"
   },
   {
@@ -5794,7 +5779,7 @@ window.QUESTIONS_DATA = [
     "a4": "1 và 2 sai",
     "correct": "3",
     "source": "Câu 0.7 của CĐ Kỹ năng quản lý chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 377,
+    "id": 376,
     "batch_label": "Đợt 2"
   },
   {
@@ -5809,7 +5794,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không tin tưởng ai hết, tự mình ra quyết định là tốt nhất",
     "correct": "3",
     "source": "Slide 28 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 378,
+    "id": 377,
     "batch_label": "Đợt 2"
   },
   {
@@ -5824,7 +5809,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hạn chế thăng tiến",
     "correct": "1",
     "source": "Câu 0.15 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 379,
+    "id": 378,
     "batch_label": "Đợt 2"
   },
   {
@@ -5839,7 +5824,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bê nguyên các công cụ Agile vào ngân hàng mà không cần chỉnh sửa.",
     "correct": "3",
     "source": "Slide 135 Lập và triển khai KH, ứng dụng Agile dành cho QLCP  Năm 2026",
-    "id": 380,
+    "id": 379,
     "batch_label": "Đợt 2"
   },
   {
@@ -5854,7 +5839,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agile tăng cường tương tác với khách hàng và đội ngũ",
     "correct": "1",
     "source": "Slide 137 Lập và triển khai KH, ứng dụng Agile dành cho QLCP  Năm 2026",
-    "id": 381,
+    "id": 380,
     "batch_label": "Đợt 2"
   },
   {
@@ -5869,7 +5854,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả ba phương án đều chính xác",
     "correct": "2",
     "source": "Câu 0.5 của CĐ Chuyển đổi số cho lãnh đạo chi nhánh; Chương trình đào tạo Quản lý loại II",
-    "id": 382,
+    "id": 381,
     "batch_label": "Đợt 2"
   },
   {
@@ -5884,7 +5869,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các phương án trên",
     "correct": "4",
     "source": "Slide 71 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 383,
+    "id": 382,
     "batch_label": "Đợt 2"
   },
   {
@@ -5899,7 +5884,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chỉ thực hiện công việc khi có chỉ thị chi tiết từ cấp trên",
     "correct": "3",
     "source": "Slide 18 AI NÂNG CAO HIỆU SUẤT CÔNG VIỆC VÀ TƯ DUY LINH HOẠT (AGILE) Năm 2026",
-    "id": 384,
+    "id": 383,
     "batch_label": "Đợt 2"
   },
   {
@@ -5914,7 +5899,7 @@ window.QUESTIONS_DATA = [
     "a4": "Luôn lắng nghe và thấu hiểu vấn đề của khách hàng.",
     "correct": "3",
     "source": "Câu 0.15 của CĐ Quản lý chất lượng dịch vụ; Chương trình đào tạo Quản lý loại II",
-    "id": 385,
+    "id": 384,
     "batch_label": "Đợt 2"
   },
   {
@@ -5929,7 +5914,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sự cạnh tranh giữa nhân viên",
     "correct": "3",
     "source": "Câu 0.13 của CĐ Quản lý nhân sự; Chương trình đào tạo Quản lý loại II",
-    "id": 386,
+    "id": 385,
     "batch_label": "Đợt 2"
   },
   {
@@ -5944,7 +5929,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tính không chuyển quyền sở hữu",
     "correct": "1",
     "source": "Câu 0.1 của CĐ Quản lý chất lượng dịch vụ; Chương trình đào tạo Quản lý loại II",
-    "id": 387,
+    "id": 386,
     "batch_label": "Đợt 2"
   },
   {
@@ -5959,7 +5944,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 388,
+    "id": 387,
     "batch_label": "Đợt 1"
   },
   {
@@ -5975,7 +5960,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Khoản 2 Điều 1 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 389,
+    "id": 388,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -5991,7 +5976,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm o Khoản 3 Điều 4 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 390,
+    "id": 389,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6007,7 +5992,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3",
     "correct": "2",
     "source": "Điểm p Khoản 3 Điều 4 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 391,
+    "id": 390,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6023,7 +6008,7 @@ window.QUESTIONS_DATA = [
     "a4": "Biển hiệu tại cây ATM không bị che khuất, biển sạch sẽ, không phai màu, nứt vỡ",
     "correct": "2",
     "source": "Điểm a Khoản 2 Điều 4 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 392,
+    "id": 391,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6039,7 +6024,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đề xuất thuê bên thứ ba độc lập tổ chức kiểm tra việc tuân thủ Quy định 999/QyĐ-NHNo-TTh tại đơn vị",
     "correct": "3",
     "source": "Khoản 3 Điều 8 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 393,
+    "id": 392,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6055,7 +6040,7 @@ window.QUESTIONS_DATA = [
     "a4": "20 phút",
     "correct": "2",
     "source": "Khoản 3, tiết 3.2, Điều 7 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 394,
+    "id": 393,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6071,7 +6056,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhắc nhở khách hàng kiểm tra lại tiền, giấy tờ (nếu có) trước khi rời quầy giao dịch. Cảm ơn  khách hàng",
     "correct": "3",
     "source": "Khoản 8 Điều 5 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 395,
+    "id": 394,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6087,7 +6072,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 3 Điều 8 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 396,
+    "id": 395,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6103,7 +6088,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Khoản 2 Điều 5 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 397,
+    "id": 396,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -6118,7 +6103,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy định 999/QyĐ-NHNo-TTh ngày 27/4/2023",
-    "id": 398,
+    "id": 397,
     "batch_label": "Đợt 2"
   },
   {
@@ -6133,7 +6118,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số dư nợ gốc khách hành nhận nợ bắt buộc đó là chuyển  sang xử lý rủi ro.",
     "correct": "1",
     "source": "Khoản 31 Điều 1 QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QĐ 2268/QyĐ-NHNo-TD",
-    "id": 399,
+    "id": 398,
     "batch_label": "Đợt 1"
   },
   {
@@ -6148,7 +6133,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thời gian xử lý tài sản bảo đảm theo dự kiến dưới 01 năm kể từ khi Agribank nơi cấp tín dụng có quyền thực hiện xử lý tài sản bảo đảm",
     "correct": "2",
     "source": "Khoản 4 Điều 9  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 400,
+    "id": 399,
     "batch_label": "Đợt 1"
   },
   {
@@ -6163,7 +6148,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 30 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 401,
+    "id": 400,
     "batch_label": "Đợt 1"
   },
   {
@@ -6178,7 +6163,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 61 QyĐ 2268/QyĐ-NHNo-TD được sửa đổi , bổ sung tại QyĐ 4466/QyĐ-NHNo-TD",
-    "id": 402,
+    "id": 401,
     "batch_label": "Đợt 1"
   },
   {
@@ -6193,7 +6178,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.3",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 403,
+    "id": 402,
     "batch_label": "Đợt 1"
   },
   {
@@ -6208,7 +6193,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bộ phận tín dụng",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 1205/QC-HĐTV-RRTD ngày 29/12/2023",
-    "id": 404,
+    "id": 403,
     "batch_label": "Đợt 1"
   },
   {
@@ -6223,7 +6208,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và Khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 405,
+    "id": 404,
     "batch_label": "Đợt 1"
   },
   {
@@ -6238,7 +6223,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các khoản nợ quá hạn từ nhóm 2 đến nhóm 5 và Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn (nhóm 1).",
     "correct": "3",
     "source": "Khoản 9 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 406,
+    "id": 405,
     "batch_label": "Đợt 1"
   },
   {
@@ -6253,7 +6238,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 407,
+    "id": 406,
     "batch_label": "Đợt 1"
   },
   {
@@ -6268,7 +6253,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 408,
+    "id": 407,
     "batch_label": "Đợt 1"
   },
   {
@@ -6283,7 +6268,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thế chấp tài sản, Cầm cố tài sản, Ký quỹ, Bảo lãnh",
     "correct": "3",
     "source": "Khoản 31, 32, 33, 34, 35 Điều 3 Quy chế 879/QC-HĐTV-TD",
-    "id": 409,
+    "id": 408,
     "batch_label": "Đợt 1"
   },
   {
@@ -6298,7 +6283,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 410,
+    "id": 409,
     "batch_label": "Đợt 1"
   },
   {
@@ -6313,7 +6298,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án đều đúng",
     "correct": "1",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 411,
+    "id": 410,
     "batch_label": "Đợt 1"
   },
   {
@@ -6328,7 +6313,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sau khi Khách hàng đã giải ngân vốn đối ứng bằng tỷ lệ tối thiểu theo quy định là 25%, việc giải ngân vốn vay và phần còn lại vốn đối ứng do Tổng Giám đốc Agribank quyết định.",
     "correct": "2",
     "source": "Khoản 1 Điều 56 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 412,
+    "id": 411,
     "batch_label": "Đợt 1"
   },
   {
@@ -6343,7 +6328,7 @@ window.QUESTIONS_DATA = [
     "a4": "5,8 tỷ đồng",
     "correct": "3",
     "source": "Tiết ii Điểm b Khoản 2 Điều 21 QC 656/QC-HĐTV-TD",
-    "id": 413,
+    "id": 412,
     "batch_label": "Đợt 1"
   },
   {
@@ -6358,7 +6343,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "2",
     "source": "Tiết i Điểm b Khoản 2 Điều 21 QC 656/QC-HĐTV-TD",
-    "id": 414,
+    "id": 413,
     "batch_label": "Đợt 1"
   },
   {
@@ -6373,7 +6358,7 @@ window.QUESTIONS_DATA = [
     "a4": "4,75 tỷ đồng.",
     "correct": "3",
     "source": "Tiết i điểm b Khoản 2 Điều 21 QC 656/QC-NHNo- TD",
-    "id": 415,
+    "id": 414,
     "batch_label": "Đợt 1"
   },
   {
@@ -6388,7 +6373,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thứ tự thu nợ được thực hiện  theo chỉ đạo của Giám đốc Agribank nơi cho vay",
     "correct": "2",
     "source": "Điểm a, Khoản 2 Điều 60 Quy Định số 2268/QyĐ- NHNo-TD ngày 19/9/2023",
-    "id": 416,
+    "id": 415,
     "batch_label": "Đợt 1"
   },
   {
@@ -6403,7 +6388,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc chi nhánh loại I, loại II, phòng giao dịch",
     "correct": "1",
     "source": "Khoản 2 Điều 21 QC 346/QC-HĐTV-TD",
-    "id": 417,
+    "id": 416,
     "batch_label": "Đợt 1"
   },
   {
@@ -6418,7 +6403,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 66 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 418,
+    "id": 417,
     "batch_label": "Đợt 1"
   },
   {
@@ -6433,22 +6418,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 64 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 419,
-    "batch_label": "Đợt 1"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 1"
-    ],
-    "question": "Giám đốc chi nhánh loại II được quyết định cấp bảo lãnh đối với  loại bảo lãnh nào?",
-    "a1": "Bảo lãnh dự thầu.",
-    "a2": "Bảo lãnh thực hiện nghĩa vụ ký quỹ để bảo đảm thực hiện dự án đầu tư.",
-    "a3": "Bảo lãnh nhà ở hình thành trong tương lai.",
-    "a4": "Đáp án 1 và 2.",
-    "correct": "4",
-    "source": "Tiết (i), (vii) Điểm c Khoản 5 Điều 21 QC 346/QC-HĐTV-TD",
-    "id": 420,
+    "id": 418,
     "batch_label": "Đợt 1"
   },
   {
@@ -6463,7 +6433,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kiểm tra một năm ít nhất 01 (một) lần.",
     "correct": "4",
     "source": "Điểm a Khoản 2 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 421,
+    "id": 419,
     "batch_label": "Đợt 1"
   },
   {
@@ -6478,7 +6448,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hạn mức RRTD là giá trị tối thiểu và tối đa của các chỉ số RRTD do Agribank thiết lập cho các đối tượng khách hàng, ngành, lĩnh vực kinh tế",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 422,
+    "id": 420,
     "batch_label": "Đợt 1"
   },
   {
@@ -6493,7 +6463,7 @@ window.QUESTIONS_DATA = [
     "a4": "Mỗi lần giải ngân vốn vay, Agribank nơi cho vay phải rà soát, đánh giá nhu cầu vay vốn, hồ sơ giải ngân đáp ứng các điều kiện theo quy định hiện hành.",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 423,
+    "id": 421,
     "batch_label": "Đợt 1"
   },
   {
@@ -6508,7 +6478,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 2 Điều 5 Quy chế 1548/QC-HĐTV-TD",
-    "id": 424,
+    "id": 422,
     "batch_label": "Đợt 1"
   },
   {
@@ -6523,7 +6493,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 15 QC 656/QC-HĐTV-TD",
-    "id": 425,
+    "id": 423,
     "batch_label": "Đợt 1"
   },
   {
@@ -6538,7 +6508,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Mục 2 PL số 02/TCMB-QĐ theo QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 426,
+    "id": 424,
     "batch_label": "Đợt 1"
   },
   {
@@ -6553,7 +6523,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a, b, c Khoản 2 Điều 35 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 427,
+    "id": 425,
     "batch_label": "Đợt 1"
   },
   {
@@ -6568,7 +6538,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 3 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 428,
+    "id": 426,
     "batch_label": "Đợt 1"
   },
   {
@@ -6583,7 +6553,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hồ sơ cơ cấu lại thời hạn trả nợ, biên bản kiểm tra tài sản bảo đảm khách hàng.",
     "correct": "1",
     "source": "Tiết i Điểm c Khoản 1 Điều 61 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 429,
+    "id": 427,
     "batch_label": "Đợt 1"
   },
   {
@@ -6598,7 +6568,7 @@ window.QUESTIONS_DATA = [
     "a4": "05 lần",
     "correct": "1",
     "source": "Khoản 3  Điều 44 QC 656/QC-HĐTV-TD; sửa đổi, bổ sung tại QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 430,
+    "id": 428,
     "batch_label": "Đợt 1"
   },
   {
@@ -6613,7 +6583,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ý kiến đề xuất của Người quan hệ khách hàng, Người thẩm định, Báo cáo thẩm định lại của Người thẩm định lại (nếu có), Biên bản họp/Bảng tổng hợp ý kiến Hội đồng tín dụng (nếu có).",
     "correct": "1",
     "source": "Khoản 15 Điều 1 QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 431,
+    "id": 429,
     "batch_label": "Đợt 1"
   },
   {
@@ -6628,7 +6598,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điều 16 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 432,
+    "id": 430,
     "batch_label": "Đợt 1"
   },
   {
@@ -6643,7 +6613,7 @@ window.QUESTIONS_DATA = [
     "a4": "95%-100%",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy định 2980/QyĐ-NHNo-RRTD",
-    "id": 433,
+    "id": 431,
     "batch_label": "Đợt 1"
   },
   {
@@ -6658,7 +6628,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu ý kiến đề xuất phê duyệt/không phê duyệt vượt thẩm quyền (trường hợp không đồng ý phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người thẩm định lại trên Báo cáo thẩm định lại.",
     "correct": "4",
     "source": "Khoản 4 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 434,
+    "id": 432,
     "batch_label": "Đợt 1"
   },
   {
@@ -6673,7 +6643,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quyết định cấp tín dụng đối với một khách hàng, một khách hàng và người có liên quan có tổng mức dư nợ cấp tín dụng thuộc thẩm quyền của HĐTD Chi nhánh loại I; quyết định cơ cấu lại thời hạn trả nợ/gia hạn thời gian duy trì hạn mức/thay đổi nội dung phê duyệt đối với khoản cấp tín dụng đã được HĐTD Chi nhánh loại I quyết định cấp tín dụng",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 4 Quy chế 1548/QC-HĐTV-TD",
-    "id": 435,
+    "id": 433,
     "batch_label": "Đợt 1"
   },
   {
@@ -6688,7 +6658,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "3",
     "source": "Điều 11 Quy chế 1205/QC-HĐTV-RRTD ngày 29/12/2023",
-    "id": 436,
+    "id": 434,
     "batch_label": "Đợt 1"
   },
   {
@@ -6703,7 +6673,7 @@ window.QUESTIONS_DATA = [
     "a4": "Dư nợ vay, số lãi phải trả đến ngày kiểm tra; Tình hình tài chính; đánh giá tiến độ và khả năng trả nợ; Biện pháp tổ chức triển khai và tiến độ thực hiện dự án, phương án; đánh giá phương án sử dụng vốn và khả năng trả nợ của khách hàng; Thu thập thông tin xếp hạng khách hàng theo quy định của Agribank; Các nội dung khác (nếu có).",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 437,
+    "id": 435,
     "batch_label": "Đợt 1"
   },
   {
@@ -6718,7 +6688,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cá nhân, đơn vị triển khai hoạt động tín dụng tuân thủ quy định của pháp luật, NHNN, quy định này và quy định nội bộ có liên quan",
     "correct": "1",
     "source": "Khoản 4 Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 438,
+    "id": 436,
     "batch_label": "Đợt 1"
   },
   {
@@ -6733,7 +6703,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.8",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 439,
+    "id": 437,
     "batch_label": "Đợt 1"
   },
   {
@@ -6748,7 +6718,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cho vay được quyền giải ngân theo Thỏa thuận cho vay đã ký.",
     "correct": "3",
     "source": "Khoản 3 Điều 30 QC 656/QC-HĐTV-TD",
-    "id": 440,
+    "id": 438,
     "batch_label": "Đợt 1"
   },
   {
@@ -6763,7 +6733,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Điểm d Khoản 3 Điều 8 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 441,
+    "id": 439,
     "batch_label": "Đợt 1"
   },
   {
@@ -6778,7 +6748,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 7 QC 346/QC-HĐTV-TD",
-    "id": 442,
+    "id": 440,
     "batch_label": "Đợt 1"
   },
   {
@@ -6793,7 +6763,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ít nhất 1 lần trong vòng 12 tháng kể từ ngày kiểm tra gần nhất.",
     "correct": "4",
     "source": "Tiết ii Điểm b Khoản 1 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 443,
+    "id": 441,
     "batch_label": "Đợt 1"
   },
   {
@@ -6808,7 +6778,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bản gốc hoặc bản sao được chứng thực hoặc bản sao quyết định giải thể doanh nghiệp theo quy định của Pháp luật",
     "correct": "2",
     "source": "Mục 2, Điểm 11, Khoản 11, Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 444,
+    "id": 442,
     "batch_label": "Đợt 1"
   },
   {
@@ -6823,7 +6793,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm b, Khoản 4, Điều 1, Quy chế 1546/QC-HĐTV-TD ngày 27/12/2024",
-    "id": 445,
+    "id": 443,
     "batch_label": "Đợt 1"
   },
   {
@@ -6838,7 +6808,7 @@ window.QUESTIONS_DATA = [
     "a4": "Định kỳ hàng năm vào ngày 31/12",
     "correct": "2",
     "source": "Điểm b, Khoản 7, Điều 19 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 446,
+    "id": 444,
     "batch_label": "Đợt 1"
   },
   {
@@ -6853,7 +6823,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phê duyệt phương án bán nợ của Chi nhánh",
     "correct": "2",
     "source": "Khoản 1, Điều 5 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 447,
+    "id": 445,
     "batch_label": "Đợt 1"
   },
   {
@@ -6868,7 +6838,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 28  Quy chế 346/QC-HĐTV-TD",
-    "id": 448,
+    "id": 446,
     "batch_label": "Đợt 1"
   },
   {
@@ -6883,7 +6853,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng/Phó trưởng Phòng Khách hàng, Trưởng/Phó trưởng Ban thuộc Ban TĐPD, Trưởng/Phó trưởng phòng phê duyệt thuộc TTPD.",
     "correct": "3",
     "source": "Khoản 33 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 449,
+    "id": 447,
     "batch_label": "Đợt 1"
   },
   {
@@ -6898,7 +6868,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 32 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 450,
+    "id": 448,
     "batch_label": "Đợt 1"
   },
   {
@@ -6913,7 +6883,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các bên thỏa thuận thu phí bảo lãnh bằng ngoại tệ hoặc quy đổi ra đồng Việt Nam theo tỷ giá bán của Agribank.",
     "correct": "2",
     "source": "Khoản 4 Điều 23 QC 346/QC-HĐTV-TD",
-    "id": 451,
+    "id": 449,
     "batch_label": "Đợt 1"
   },
   {
@@ -6928,7 +6898,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thỏa thuận cấp bảo lãnh.",
     "correct": "1",
     "source": "Khoản 1 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 452,
+    "id": 450,
     "batch_label": "Đợt 1"
   },
   {
@@ -6943,7 +6913,7 @@ window.QUESTIONS_DATA = [
     "a4": "01 bản chính và 03 bản sao y.",
     "correct": "2",
     "source": "Điểm b Khoản 4 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 453,
+    "id": 451,
     "batch_label": "Đợt 1"
   },
   {
@@ -6958,7 +6928,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 33 QC 879/QC-HĐTV-TD",
-    "id": 454,
+    "id": 452,
     "batch_label": "Đợt 1"
   },
   {
@@ -6973,22 +6943,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm chấm dứt Hợp đồng cấp tín dụng.",
     "correct": "4",
     "source": "Khoản 1 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 455,
-    "batch_label": "Đợt 1"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 1"
-    ],
-    "question": "Theo Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và văn bản sửa đổi bổ sung: Trường hợp thành viên HĐXLRR Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì  HĐXLRR Chi nhánh loại I thực hiện như thế nào?",
-    "a1": "Giám đốc Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì phân công cho PGĐ làm chủ tịch Hội đồng để XLRR khoản cấp tín dụng đó",
-    "a2": "Trưởng phòng là người thẩm định/quyết định cấp tín dụng thì Chủ tịch Hội đồng chỉ định một phó phòng hoặc cán bộ (trong trường hợp không có phó phòng) tham gia hội đồng để XLRR khoản cấp tín dụng đó",
-    "a3": "Chủ tịch Hội đồng XLRR quyết định tổ chức họp khuyết thành phần HĐXLRR Chi nhánh loại I",
-    "a4": "Đáp án 1,2",
-    "correct": "4",
-    "source": "Điều16 Q Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 456,
+    "id": 453,
     "batch_label": "Đợt 1"
   },
   {
@@ -7003,7 +6958,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nợ nhóm 5",
     "correct": "4",
     "source": "Điều 6 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 457,
+    "id": 454,
     "batch_label": "Đợt 1"
   },
   {
@@ -7018,7 +6973,7 @@ window.QUESTIONS_DATA = [
     "a4": "Từ D1 đến D12",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 458,
+    "id": 455,
     "batch_label": "Đợt 1"
   },
   {
@@ -7033,7 +6988,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 459,
+    "id": 456,
     "batch_label": "Đợt 1"
   },
   {
@@ -7048,7 +7003,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 460,
+    "id": 457,
     "batch_label": "Đợt 1"
   },
   {
@@ -7063,7 +7018,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "3",
     "source": "Khoản 8 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 461,
+    "id": 458,
     "batch_label": "Đợt 1"
   },
   {
@@ -7078,7 +7033,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nợ cần chú ý, nợ dưới tiêu chuẩn, nợ nghi ngờ, nợ có khả năng mất vốn.",
     "correct": "2",
     "source": "Khoản 9 Điều 3 và khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 462,
+    "id": 459,
     "batch_label": "Đợt 1"
   },
   {
@@ -7093,7 +7048,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 463,
+    "id": 460,
     "batch_label": "Đợt 1"
   },
   {
@@ -7108,7 +7063,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm b Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 464,
+    "id": 461,
     "batch_label": "Đợt 1"
   },
   {
@@ -7123,7 +7078,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hợp đồng bảo đảm không vô hiệu",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 465,
+    "id": 462,
     "batch_label": "Đợt 1"
   },
   {
@@ -7138,7 +7093,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính không quy định thời hạn thực hiện",
     "correct": "1",
     "source": "Khoản 3 Điều 13   Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 466,
+    "id": 463,
     "batch_label": "Đợt 1"
   },
   {
@@ -7153,7 +7108,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 29 Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 467,
+    "id": 464,
     "batch_label": "Đợt 1"
   },
   {
@@ -7168,7 +7123,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối thiểu 06 tháng một lần",
     "correct": "1",
     "source": "Khoản 2, Điều 24  Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 468,
+    "id": 465,
     "batch_label": "Đợt 1"
   },
   {
@@ -7183,7 +7138,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khi khách hàng nợ là người quen của cán bộ ngân hàng",
     "correct": "2",
     "source": "Điểm b, Khoản 2, Điều 16 Quy định số 2766-QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 469,
+    "id": 466,
     "batch_label": "Đợt 1"
   },
   {
@@ -7198,7 +7153,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 5, Điều 3 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 470,
+    "id": 467,
     "batch_label": "Đợt 1"
   },
   {
@@ -7213,7 +7168,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 20 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 471,
+    "id": 468,
     "batch_label": "Đợt 1"
   },
   {
@@ -7228,7 +7183,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 472,
+    "id": 469,
     "batch_label": "Đợt 1"
   },
   {
@@ -7243,7 +7198,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc Phòng Giao dịch có KCTDCVĐ quản lý tại Phòng giao dịch",
     "correct": "1",
     "source": "Căn cứ Khoản 4, Điều 31, Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022 về Quản lý các KCTDCVĐ",
-    "id": 473,
+    "id": 470,
     "batch_label": "Đợt 1"
   },
   {
@@ -7258,7 +7213,7 @@ window.QUESTIONS_DATA = [
     "a4": "25 ngày",
     "correct": "1",
     "source": "Khoản a, điểm 1, điều 21 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 474,
+    "id": 471,
     "batch_label": "Đợt 1"
   },
   {
@@ -7273,7 +7228,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Căn cứ Khoản 4, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 475,
+    "id": 472,
     "batch_label": "Đợt 1"
   },
   {
@@ -7288,7 +7243,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 3, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 476,
+    "id": 473,
     "batch_label": "Đợt 1"
   },
   {
@@ -7303,7 +7258,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ít nhất 09 tháng 1 lần hoặc đột xuất",
     "correct": "1",
     "source": "Căn cứ Khoản 1, Điều 11 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 477,
+    "id": 474,
     "batch_label": "Đợt 1"
   },
   {
@@ -7318,7 +7273,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "2",
     "source": "Tiết i, điểm g, Khoản 1 Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 478,
+    "id": 475,
     "batch_label": "Đợt 1"
   },
   {
@@ -7333,7 +7288,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2028",
-    "id": 479,
+    "id": 476,
     "batch_label": "Đợt 1"
   },
   {
@@ -7348,7 +7303,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Tiết ii, điểm g, Khoản 1, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2026",
-    "id": 480,
+    "id": 477,
     "batch_label": "Đợt 1"
   },
   {
@@ -7363,7 +7318,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2029",
-    "id": 481,
+    "id": 478,
     "batch_label": "Đợt 1"
   },
   {
@@ -7378,7 +7333,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm a Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 482,
+    "id": 479,
     "batch_label": "Đợt 1"
   },
   {
@@ -7393,7 +7348,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm 1, Khoản 7 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 483,
+    "id": 480,
     "batch_label": "Đợt 1"
   },
   {
@@ -7408,7 +7363,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2&3",
     "correct": "4",
     "source": "Khoản 1 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 484,
+    "id": 481,
     "batch_label": "Đợt 1"
   },
   {
@@ -7423,7 +7378,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khi khoản nợ phát sinh nợ xấu",
     "correct": "3",
     "source": "Khoản 4 Điều 30 Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022",
-    "id": 485,
+    "id": 482,
     "batch_label": "Đợt 1"
   },
   {
@@ -7438,7 +7393,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 38 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 486,
+    "id": 483,
     "batch_label": "Đợt 1"
   },
   {
@@ -7453,7 +7408,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Tiết i, ii Điểm a Khoản 3 Điều 30 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 487,
+    "id": 484,
     "batch_label": "Đợt 1"
   },
   {
@@ -7468,7 +7423,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thành viên đoàn thanh tra đang thanh tra tại Agribank.",
     "correct": "3",
     "source": "Khoản 2 Điều 22 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 488,
+    "id": 485,
     "batch_label": "Đợt 1"
   },
   {
@@ -7483,7 +7438,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 489,
+    "id": 486,
     "batch_label": "Đợt 1"
   },
   {
@@ -7498,7 +7453,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 7 QĐ 2268/QyĐ-NHNo-TD",
-    "id": 490,
+    "id": 487,
     "batch_label": "Đợt 1"
   },
   {
@@ -7513,7 +7468,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi phê duyệt cấp tín dụng",
     "correct": "1",
     "source": "Điểm a khoản 1 Điều 42 Quy chế 879/QC-HĐTV-TD",
-    "id": 491,
+    "id": 488,
     "batch_label": "Đợt 1"
   },
   {
@@ -7528,7 +7483,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 492,
+    "id": 489,
     "batch_label": "Đợt 1"
   },
   {
@@ -7543,7 +7498,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 48 tháng.",
     "correct": "3",
     "source": "Khoản 1 Điều 24 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 493,
+    "id": 490,
     "batch_label": "Đợt 1"
   },
   {
@@ -7558,7 +7513,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 5 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 3 ngày làm việc.",
     "correct": "1",
     "source": "Khoản 1 Điều 10 QyĐ 1445 /QyĐ-NHNo-TD",
-    "id": 494,
+    "id": 491,
     "batch_label": "Đợt 1"
   },
   {
@@ -7573,7 +7528,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kiểm tra tối thiểu sau 12 tháng kể từ ngày giải ngân đầu tiên và một năm ít nhất 01 (một) lần đối với các lần kiểm tra tiếp theo.",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 495,
+    "id": 492,
     "batch_label": "Đợt 1"
   },
   {
@@ -7588,7 +7543,7 @@ window.QUESTIONS_DATA = [
     "a4": "10 ngày làm việc",
     "correct": "2",
     "source": "Khoản 3 Điều 44 QC 656/QC-HĐTV-TD",
-    "id": 496,
+    "id": 493,
     "batch_label": "Đợt 1"
   },
   {
@@ -7603,7 +7558,7 @@ window.QUESTIONS_DATA = [
     "a4": "10 ngày",
     "correct": "1",
     "source": "Tiết a Khoản 3 Điều 26 QC 346/QC-HĐTV-TD",
-    "id": 497,
+    "id": 494,
     "batch_label": "Đợt 1"
   },
   {
@@ -7618,7 +7573,7 @@ window.QUESTIONS_DATA = [
     "a4": "Việc khai báo và phê duyệt đơn xin vay trên hệ thống IPCAS được thực hiện tại phòng thẩm định chi nhánh loại II/PGD",
     "correct": "1",
     "source": "Điểm b, Khoản 29 Điều 1 QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 498,
+    "id": 495,
     "batch_label": "Đợt 1"
   },
   {
@@ -7633,7 +7588,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phát hành bảo lãnh bảo đảm chất lượng sản phẩm.",
     "correct": "2",
     "source": "Khoản 1 Điều 18 QC 346/QC-HĐTV-TD",
-    "id": 499,
+    "id": 496,
     "batch_label": "Đợt 1"
   },
   {
@@ -7648,7 +7603,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng có dư nợ từ 06 tỷ đồng trở lên, trừ trường hợp Hội đồng tín dụng Chi nhánh loại I là người quyết định nhận TSBĐ",
     "correct": "2",
     "source": "Điểm c Khoản 2 Điều 39 Quy định 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD",
-    "id": 500,
+    "id": 497,
     "batch_label": "Đợt 1"
   },
   {
@@ -7663,7 +7618,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 lần",
     "correct": "4",
     "source": "Khoản 4 Điều 4 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 501,
+    "id": 498,
     "batch_label": "Đợt 1"
   },
   {
@@ -7678,7 +7633,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a, b  Khoản 1 Điều 29 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 502,
+    "id": 499,
     "batch_label": "Đợt 1"
   },
   {
@@ -7693,7 +7648,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 7 Quy chế 879/QC-HĐTV-TD",
-    "id": 503,
+    "id": 500,
     "batch_label": "Đợt 1"
   },
   {
@@ -7708,7 +7663,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trả thay theo cam kết ngoại bảng",
     "correct": "2",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 504,
+    "id": 501,
     "batch_label": "Đợt 1"
   },
   {
@@ -7723,7 +7678,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thẩm định lại một số nội dung về khoản vay do người có thẩm quyền tại Agribank nơi phê duyệt vượt thẩm quyền quyết định.",
     "correct": "2",
     "source": "Điểm c Khoản 3 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 505,
+    "id": 502,
     "batch_label": "Đợt 1"
   },
   {
@@ -7738,7 +7693,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không vượt quá giá trị của 05 lần khối lượng giao dịch bình quân/ngày của 90 phiên giao dịch gần nhất trước ngày HĐBĐ có hiệu lực.",
     "correct": "2",
     "source": "Tiết i điểm b khoản 3 Điều 26 QyĐ 2929/QyĐ-NHNo-TD",
-    "id": 506,
+    "id": 503,
     "batch_label": "Đợt 1"
   },
   {
@@ -7753,7 +7708,7 @@ window.QUESTIONS_DATA = [
     "a4": "12% vốn tự có đối với một khách hàng; 19% vốn tự có đối với một khách hàng và người có liên quan của khách hàng đó",
     "correct": "1",
     "source": "Điểm b Khoản 1 Điều 25 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 507,
+    "id": 504,
     "batch_label": "Đợt 1"
   },
   {
@@ -7768,7 +7723,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.25",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 508,
+    "id": 505,
     "batch_label": "Đợt 1"
   },
   {
@@ -7783,7 +7738,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc chi nhánh tự quyết định không trình HDDTV, TGĐ",
     "correct": "1",
     "source": "Khoản 26 Điều 1 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại Điểm a Khoản 1 Điều 58 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 509,
+    "id": 506,
     "batch_label": "Đợt 1"
   },
   {
@@ -7798,7 +7753,7 @@ window.QUESTIONS_DATA = [
     "a4": "12 tháng kiểm tra tối thiểu 01 lần",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 43 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 510,
+    "id": 507,
     "batch_label": "Đợt 1"
   },
   {
@@ -7813,7 +7768,7 @@ window.QUESTIONS_DATA = [
     "a4": "HĐTV, NHNN",
     "correct": "4",
     "source": "Khoản 3 Điều 20 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 511,
+    "id": 508,
     "batch_label": "Đợt 1"
   },
   {
@@ -7828,7 +7783,7 @@ window.QUESTIONS_DATA = [
     "a4": "Theo từng lần giải ngân trên Báo cáo đề xuất giải ngân kiêm giấy nhận nợ.",
     "correct": "1",
     "source": "Khoản 2 Điều 24 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 512,
+    "id": 509,
     "batch_label": "Đợt 1"
   },
   {
@@ -7843,7 +7798,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 1 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 513,
+    "id": 510,
     "batch_label": "Đợt 1"
   },
   {
@@ -7858,7 +7813,7 @@ window.QUESTIONS_DATA = [
     "a4": "Văn bản ủy quyền phải được chứng nhận tại cơ quan có chức năng công chứng hoặc chứng thực tại cơ quan có thẩm quyền theo quy định của pháp luật.",
     "correct": "3",
     "source": "Điểm b Khoản 3 Điều 4 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 514,
+    "id": 511,
     "batch_label": "Đợt 1"
   },
   {
@@ -7873,7 +7828,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chi nhánh tiếp tục giải ngân vì nếu dừng giải ngân thì dự án dở dang và thiệt hại có thể xảy ra nhiều hơn.",
     "correct": "2",
     "source": "Điểm a Khoản 27  Điều 1 QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 515,
+    "id": 512,
     "batch_label": "Đợt 1"
   },
   {
@@ -7888,7 +7843,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 13 QC 346/QC-HĐTV-TD",
-    "id": 516,
+    "id": 513,
     "batch_label": "Đợt 1"
   },
   {
@@ -7903,7 +7858,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xác định nguyên nhân rủi ro đã được nhận dạng, bao gồm nguyên nhân bên ngoài (môi trường kinh doanh, pháp lý, điều kiện kinh tế vĩ mô, nguyên nhân nội tại của khách hàng...) và nguyên nhân bên trong (hệ thống văn bản nội bộ, phần mềm/công cụ hỗ trợ, nhân sự…)",
     "correct": "2",
     "source": "Khoản 4 Điều 5 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 517,
+    "id": 514,
     "batch_label": "Đợt 1"
   },
   {
@@ -7918,7 +7873,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 11 Quy chế 879/QC-HĐTV-TD",
-    "id": 518,
+    "id": 515,
     "batch_label": "Đợt 1"
   },
   {
@@ -7933,7 +7888,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 8 QyĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD",
-    "id": 519,
+    "id": 516,
     "batch_label": "Đợt 1"
   },
   {
@@ -7948,7 +7903,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không quá 06 tháng.",
     "correct": "1",
     "source": "Điểm b Khoản 4 Điều 34 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 520,
+    "id": 517,
     "batch_label": "Đợt 1"
   },
   {
@@ -7963,7 +7918,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 2 Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023",
-    "id": 521,
+    "id": 518,
     "batch_label": "Đợt 1"
   },
   {
@@ -7978,7 +7933,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Điểm a khoản 4 điều 16 QC 346/QC-HĐTV-TD",
-    "id": 522,
+    "id": 519,
     "batch_label": "Đợt 1"
   },
   {
@@ -7993,7 +7948,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Điểm c Khoản 2 Điều 20 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 523,
+    "id": 520,
     "batch_label": "Đợt 1"
   },
   {
@@ -8008,7 +7963,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 20 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 524,
+    "id": 521,
     "batch_label": "Đợt 1"
   },
   {
@@ -8023,7 +7978,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 6 Điều 5 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 525,
+    "id": 522,
     "batch_label": "Đợt 1"
   },
   {
@@ -8038,7 +7993,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đồng tiền trả nợ là đồng tiền Chính phủ Việt Nam chấp nhận, cho phép sử dụng trên lãnh thổ Việt Nam.",
     "correct": "1",
     "source": "Khoản 2 Điều 7 QC 656/QC-HĐTV-TD",
-    "id": 526,
+    "id": 523,
     "batch_label": "Đợt 1"
   },
   {
@@ -8054,7 +8009,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 1 Điều 11  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 527,
+    "id": 524,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8070,7 +8025,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "4",
     "source": "Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 528,
+    "id": 525,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8086,7 +8041,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính thực hiện báo có cho Chi nhánh theo quy định",
     "correct": "3",
     "source": "Khoản 3 Điều 13 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 529,
+    "id": 526,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8102,7 +8057,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 2",
     "correct": "1",
     "source": "Tiết (v) Điểm d Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 530,
+    "id": 527,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8118,7 +8073,7 @@ window.QUESTIONS_DATA = [
     "a4": "3.280 triệu đồng",
     "correct": "2",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 531,
+    "id": 528,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8134,7 +8089,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính không quy định thời hạn thực hiện",
     "correct": "1",
     "source": "Khoản 3 Điều 13 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 532,
+    "id": 529,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8150,7 +8105,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chỉ được thiết lập cho rủi ro tín dụng và rủi ro thanh khoản, đảm bảo phù hợp với quy định của NHNN và của Agribank",
     "correct": "2",
     "source": "Khoản 1 Điều 17 Quy chế số 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 533,
+    "id": 530,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8166,7 +8121,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 17  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 534,
+    "id": 531,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8182,7 +8137,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính, Chi nhánh loại I, loại II, phòng giao dịch và cá nhân có liên quan thuộc Agribank; không áp dụng đối với Chi nhánh Agribank ở nước ngoài",
     "correct": "4",
     "source": "Điều 2 Quy trình số 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 535,
+    "id": 532,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8198,7 +8153,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 536,
+    "id": 533,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8214,7 +8169,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hội đồng mua bán nợ",
     "correct": "1",
     "source": "Khoản 4 Điều 17  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 537,
+    "id": 534,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8230,7 +8185,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điều 6 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 538,
+    "id": 535,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8246,7 +8201,23 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "2",
     "source": "Khoản 4 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 539,
+    "id": 536,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Xử lý nợ",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Giám đốc chi nhánh loại II được quyết định cấp bảo lãnh đối với loại bảo lãnh nào?",
+    "a1": "Bảo lãnh dự thầu.",
+    "a2": "Bảo lãnh thực hiện nghĩa vụ ký quỹ để bảo đảm thực hiện dự án đầu tư.",
+    "a3": "Bảo lãnh nhà ở hình thành trong tương lai.",
+    "a4": "Đáp án 1 và 2.",
+    "correct": "4",
+    "source": "Khoản 5 Điều 1 QC 466/QC-HĐTV-TD sửa đổi, bổ sung Tiết (i), (vii) Điểm c Khoản 5 Điều 21 QC 346/QC-HĐTV-TD (khoản 4 điều 21)",
+    "id": 537,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8262,7 +8233,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 2 Điều 13 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 540,
+    "id": 538,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8278,7 +8249,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.01",
     "correct": "3",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 541,
+    "id": 539,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8294,7 +8265,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Điểm d (vi) khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 542,
+    "id": 540,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8310,7 +8281,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "4",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 543,
+    "id": 541,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8326,7 +8297,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 544,
+    "id": 542,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8342,7 +8313,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không phải phân loại nợ",
     "correct": "3",
     "source": "Điểm b Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 545,
+    "id": 543,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8358,7 +8329,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Tiết (ii) Điểm b Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 546,
+    "id": 544,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8374,7 +8345,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "2",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 547,
+    "id": 545,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8390,7 +8361,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các chỉ tiêu về khả năng sinh lời, khả năng thanh toán, tỷ lệ nợ trên vốn, dòng tiền, khả năng trả nợ của KH không thay đổi",
     "correct": "3",
     "source": "Khoản 3 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 548,
+    "id": 546,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8406,7 +8377,7 @@ window.QUESTIONS_DATA = [
     "a4": "0,5% tổng số dư các khoản nợ từ nhóm 1 đến nhóm 4",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 549,
+    "id": 547,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8422,7 +8393,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 4 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Khoản 2 Điều 1 Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024",
-    "id": 550,
+    "id": 548,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8438,7 +8409,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 551,
+    "id": 549,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8454,7 +8425,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tại Trụ sở chính không chi tiết theo từng chi nhánh",
     "correct": "2",
     "source": "Theo khoản 2 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024 và khoản 1 Điều 1 Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024",
-    "id": 552,
+    "id": 550,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8470,7 +8441,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3",
     "correct": "2",
     "source": "Khoản 9 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Điều 17 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 553,
+    "id": 551,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8486,7 +8457,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 1 Điều 15 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 554,
+    "id": 552,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8502,7 +8473,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "1",
     "source": "Tiết (i) Điểm a Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 555,
+    "id": 553,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8518,7 +8489,7 @@ window.QUESTIONS_DATA = [
     "a4": "Việc sử dụng dự phòng để xử lý rủi ro làm thay đổi nghĩa vụ trả nợ của khách hàng đối với khoản nợ được sử dụng dự phòng để xử lý rủi ro.",
     "correct": "4",
     "source": "Khoản 13, 14, 15, 16 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 556,
+    "id": 554,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8534,7 +8505,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 557,
+    "id": 555,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8550,7 +8521,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số tiền thu hồi được từ nợ đã sử dụng dự phòng để xử lý rủi ro, không bao gồm số tiền thu hồi được từ việc xử lý tài sản bảo đảm, được coi là chi phí trong kỳ kế toán của Agribank nơi cấp tín dụng",
     "correct": "1",
     "source": "Điều 21 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 558,
+    "id": 556,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8566,7 +8537,23 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Khoản 2 Điều 7 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024.",
-    "id": 559,
+    "id": 557,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Xử lý nợ",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và văn bản sửa đổi bổ sung: Trường hợp thành viên HĐXLRR Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì HĐXLRR Chi nhánh loại I thực hiện như thế nào?",
+    "a1": "Giám đốc Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì phân công cho PGĐ làm chủ tịch Hội đồng để XLRR khoản cấp tín dụng đó",
+    "a2": "Trưởng phòng là người thẩm định/quyết định cấp tín dụng thì Chủ tịch Hội đồng chỉ định một phó phòng hoặc cán bộ (trong trường hợp không có phó phòng) tham gia hội đồng để XLRR khoản cấp tín dụng đó",
+    "a3": "Chủ tịch Hội đồng XLRR quyết định tổ chức họp khuyết thành phần HĐXLRR Chi nhánh loại I",
+    "a4": "Đáp án 1,2",
+    "correct": "4",
+    "source": "Điều16 Q Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
+    "id": 558,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8582,7 +8569,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 14 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 560,
+    "id": 559,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8598,7 +8585,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 561,
+    "id": 560,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8614,7 +8601,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 562,
+    "id": 561,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8630,7 +8617,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 563,
+    "id": 562,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8646,7 +8633,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 564,
+    "id": 563,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8662,7 +8649,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 565,
+    "id": 564,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8678,7 +8665,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024.",
-    "id": 566,
+    "id": 565,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8694,7 +8681,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 2",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 567,
+    "id": 566,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8710,7 +8697,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 22 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 568,
+    "id": 567,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8726,7 +8713,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 4 Điều 17 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 569,
+    "id": 568,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8742,7 +8729,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3, Điều 20 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 570,
+    "id": 569,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8758,7 +8745,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 100% phí, lãi phạt quá hạn",
     "correct": "4",
     "source": "Điểm a, Khoản 3  Điều 7 Quy chế số 575/HĐTV-TD ngày 29/9/2020",
-    "id": 571,
+    "id": 570,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8774,7 +8761,7 @@ window.QUESTIONS_DATA = [
     "a4": "8 tỷ đồng",
     "correct": "3",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 572,
+    "id": 571,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8790,7 +8777,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "4",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 573,
+    "id": 572,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8806,7 +8793,7 @@ window.QUESTIONS_DATA = [
     "a4": "1 tỷ đồng",
     "correct": "4",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 574,
+    "id": 573,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8822,7 +8809,7 @@ window.QUESTIONS_DATA = [
     "a4": "8 tỷ đồng",
     "correct": "2",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 575,
+    "id": 574,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8838,7 +8825,7 @@ window.QUESTIONS_DATA = [
     "a4": "2 tỷ đồng",
     "correct": "1",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 576,
+    "id": 575,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8854,7 +8841,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 15 Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 577,
+    "id": 576,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8870,7 +8857,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Điểm b(ii) khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 578,
+    "id": 577,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8886,7 +8873,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 2 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 579,
+    "id": 578,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8902,7 +8889,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 20  tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 580,
+    "id": 579,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8918,7 +8905,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 2,5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 581,
+    "id": 580,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8934,7 +8921,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 582,
+    "id": 581,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8950,7 +8937,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 583,
+    "id": 582,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8966,7 +8953,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "2",
     "source": "Tiết i, điểm g, Khoản 1 Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2025",
-    "id": 584,
+    "id": 583,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8982,7 +8969,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết iii, điểm g, Khoản 1, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2027",
-    "id": 585,
+    "id": 584,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8998,7 +8985,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết ii, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2030",
-    "id": 586,
+    "id": 585,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9014,7 +9001,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết iii, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2031",
-    "id": 587,
+    "id": 586,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9030,7 +9017,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 13 và Khoản 1 Điều 16 QC 346/QC-HĐTV-TD",
-    "id": 588,
+    "id": 587,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9046,7 +9033,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điểm c, khoản 1, Điều 14 Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 589,
+    "id": 588,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9062,7 +9049,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Khoản 10 Điều 9 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 590,
+    "id": 589,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9078,7 +9065,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là Agribank chi nhánh loại II có khoản nợ xấu",
     "correct": "2",
     "source": "Khoản 4 Điều 2 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 591,
+    "id": 590,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9094,7 +9081,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ đã xử lý rủi ro; là nợ đã bán cho VAMC thanh toán bằng trái phiếu đặc biệt",
     "correct": "4",
     "source": "Khoản 2 Điều 2 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 592,
+    "id": 591,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9110,7 +9097,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 1 Điều 1 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 593,
+    "id": 592,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9126,7 +9113,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 3",
     "correct": "4",
     "source": "Điều 13 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 594,
+    "id": 593,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9142,7 +9129,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 12 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 595,
+    "id": 594,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9158,7 +9145,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 10 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 596,
+    "id": 595,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9174,7 +9161,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 3",
     "correct": "4",
     "source": "Điều 11 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 597,
+    "id": 596,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9190,7 +9177,7 @@ window.QUESTIONS_DATA = [
     "a4": "20% giá trị thu hồi được của khoản nợ",
     "correct": "2",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 598,
+    "id": 597,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9206,7 +9193,7 @@ window.QUESTIONS_DATA = [
     "a4": "16% giá trị thu hồi được của khoản nợ",
     "correct": "3",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 599,
+    "id": 598,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9222,7 +9209,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Tiết ii Điểm a Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 600,
+    "id": 599,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9238,7 +9225,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Tiết iii Điểm a Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 601,
+    "id": 600,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9254,7 +9241,7 @@ window.QUESTIONS_DATA = [
     "a4": "7% giá trị thu hồi được của khoản nợ",
     "correct": "4",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 602,
+    "id": 601,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9270,7 +9257,7 @@ window.QUESTIONS_DATA = [
     "a4": "15% giá trị thu hồi được của khoản nợ",
     "correct": "1",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 603,
+    "id": 602,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9286,7 +9273,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3",
     "correct": "4",
     "source": "Điểm c, Khoản 2, Văn bản số 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 604,
+    "id": 603,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9302,7 +9289,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Văn bản 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 605,
+    "id": 604,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9318,7 +9305,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Văn bản 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 606,
+    "id": 605,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9334,7 +9321,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là văn bản thỏa thuận giữa Agribank với khách hàng và các bên liên quan khác về việc phát hành bảo lãnh ngân hàng cho khách hàng.",
     "correct": "2",
     "source": "Khoản 26 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 607,
+    "id": 606,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9350,7 +9337,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 608,
+    "id": 607,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9366,7 +9353,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 26 QC 879/QC-HĐTV-TD",
-    "id": 609,
+    "id": 608,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9382,7 +9369,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 610,
+    "id": 609,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9398,7 +9385,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 611,
+    "id": 610,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9414,7 +9401,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm gì cả",
     "correct": "2",
     "source": "Khoản 1 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 612,
+    "id": 611,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9430,7 +9417,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 613,
+    "id": 612,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9446,7 +9433,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phòng Kế hoạch và Quản lý rủi ro hoặc Phòng Khách hàng",
     "correct": "2",
     "source": "Khoản 2  Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 614,
+    "id": 613,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9462,7 +9449,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng phòng Kế hoạch và Quản lý rủi ro",
     "correct": "2",
     "source": "Khoản 4 Điều 3 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 615,
+    "id": 614,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9478,7 +9465,7 @@ window.QUESTIONS_DATA = [
     "a4": "75 tỷ",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 616,
+    "id": 615,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9494,7 +9481,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.4",
     "correct": "2",
     "source": "Khoản 4 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 617,
+    "id": 616,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9510,7 +9497,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.2",
     "correct": "1",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 618,
+    "id": 617,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9526,7 +9513,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 619,
+    "id": 618,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9542,7 +9529,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 620,
+    "id": 619,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9558,7 +9545,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "3",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 621,
+    "id": 620,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9574,7 +9561,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 3 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 622,
+    "id": 621,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9590,7 +9577,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.15",
     "correct": "4",
     "source": "Khoản 5 Điều 3 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 623,
+    "id": 622,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9606,7 +9593,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 624,
+    "id": 623,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9622,7 +9609,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 625,
+    "id": 624,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9638,7 +9625,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số tiền từng kỳ trả nợ đã thỏa thuận ban đầu",
     "correct": "2",
     "source": "Thông tư 31/2024/TT-NHNN",
-    "id": 626,
+    "id": 625,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9654,7 +9641,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thông tư 31/2024/TT-NHNN",
     "correct": "4",
     "source": "Thông tư 31/2024/TT-NHNN",
-    "id": 627,
+    "id": 626,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9670,7 +9657,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là vật trực tiếp phục vụ cho việc khai thác công dụng cho chủ sử dụng.",
     "correct": "3",
     "source": "Điểm a Khoản 14 Điều 3 Quy chế 879/QC-HĐTV-TD",
-    "id": 628,
+    "id": 627,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9686,7 +9673,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 5 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 629,
+    "id": 628,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9702,7 +9689,7 @@ window.QUESTIONS_DATA = [
     "a4": "05/12/2024",
     "correct": "1",
     "source": "Khoản 2 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 630,
+    "id": 629,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9718,7 +9705,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.25",
     "correct": "1",
     "source": "Khoản 1 Điều 5 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 631,
+    "id": 630,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9734,7 +9721,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng là pháp nhân (bao gồm cả khách hàng TCTD) được xếp hạng khách hàng trên Hệ thống xếp hạng tín dụng nội bộ; Khách hàng là cá nhân (bao gồm cả khách hàng chủ doanh nghiệp tư nhân vay vốn cho hoạt động của Doanh nghiệp tư nhân) có dư nợ từ 500 triệu đồng trở lên",
     "correct": "4",
     "source": "Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 632,
+    "id": 631,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9750,7 +9737,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 3 Điều 24 QC 879/QC-HĐTV-TD",
-    "id": 633,
+    "id": 632,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9766,7 +9753,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Tiết (ii) Điểm d Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 634,
+    "id": 633,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9782,7 +9769,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "4",
     "source": "Điểm đ Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 635,
+    "id": 634,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9798,7 +9785,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các điều kiện trên",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 636,
+    "id": 635,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9814,7 +9801,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm b khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 637,
+    "id": 636,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9829,7 +9816,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 31 QC 456/QC-HĐTV-TD",
-    "id": 638,
+    "id": 637,
     "batch_label": "Đợt 2"
   },
   {
@@ -9844,7 +9831,7 @@ window.QUESTIONS_DATA = [
     "a4": "18 tháng.",
     "correct": "3",
     "source": "Điểm a Khoản 3 Điều 13 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 639,
+    "id": 638,
     "batch_label": "Đợt 2"
   },
   {
@@ -9859,7 +9846,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 42 QC 879/QC-HĐTV-TD",
-    "id": 640,
+    "id": 639,
     "batch_label": "Đợt 2"
   },
   {
@@ -9874,7 +9861,7 @@ window.QUESTIONS_DATA = [
     "a4": "12 tháng kiểm tra 01 lần.",
     "correct": "3",
     "source": "Điểm c Khoản 1 Điều 43 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 641,
+    "id": 640,
     "batch_label": "Đợt 2"
   },
   {
@@ -9889,7 +9876,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thời gian xử lý tài sản bảo đảm theo dự kiến dưới 01 năm kể từ khi Agribank nơi cấp tín dụng có quyền thực hiện xử lý tài sản bảo đảm",
     "correct": "2",
     "source": "Khoản 4 Điều 9  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 642,
+    "id": 641,
     "batch_label": "Đợt 2"
   },
   {
@@ -9904,7 +9891,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 4 Điều 28 QC 456/QC-HĐTV-TD",
-    "id": 643,
+    "id": 642,
     "batch_label": "Đợt 2"
   },
   {
@@ -9919,7 +9906,7 @@ window.QUESTIONS_DATA = [
     "a4": "6",
     "correct": "3",
     "source": "Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 644,
+    "id": 643,
     "batch_label": "Đợt 2"
   },
   {
@@ -9934,7 +9921,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 6 Điều 20 QC 456/QC-HĐTV-TD và Điều 1 Quy chế 648/QC-HĐTV-TD",
-    "id": 645,
+    "id": 644,
     "batch_label": "Đợt 2"
   },
   {
@@ -9949,7 +9936,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1, 2 Điều 45 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 646,
+    "id": 645,
     "batch_label": "Đợt 2"
   },
   {
@@ -9964,7 +9951,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.3",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 647,
+    "id": 646,
     "batch_label": "Đợt 2"
   },
   {
@@ -9979,7 +9966,7 @@ window.QUESTIONS_DATA = [
     "a4": "Từ sau ngày bên mua tài sản, bên nhận thay thế tài sản, bên nhận tặng cho tài sản xác lập quyền chiếm hữu đối với tài sản cầm cố.",
     "correct": "1",
     "source": "Điều 28 QC 879/QC-HĐTV-TD",
-    "id": 648,
+    "id": 647,
     "batch_label": "Đợt 2"
   },
   {
@@ -9994,7 +9981,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tùy thuộc vào thỏa thuận giữa các bên.",
     "correct": "2",
     "source": "Khoản 2 Điều 60 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 649,
+    "id": 648,
     "batch_label": "Đợt 2"
   },
   {
@@ -10009,7 +9996,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và Khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 650,
+    "id": 649,
     "batch_label": "Đợt 2"
   },
   {
@@ -10024,7 +10011,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 651,
+    "id": 650,
     "batch_label": "Đợt 2"
   },
   {
@@ -10039,7 +10026,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cấp tín dụng",
     "correct": "1",
     "source": "Khoản 2 Điều 10 Quy định 3286/QyĐ-NHNo-RRTD ngày 15/9/2025",
-    "id": 652,
+    "id": 651,
     "batch_label": "Đợt 2"
   },
   {
@@ -10054,7 +10041,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 4 Hướng dẫn 4611/HD-NHNo-RRTD ngày 31/12/2025",
-    "id": 653,
+    "id": 652,
     "batch_label": "Đợt 2"
   },
   {
@@ -10069,7 +10056,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a Khoản 3 Điều 25 QC 456/QC-HĐTV- TD",
-    "id": 654,
+    "id": 653,
     "batch_label": "Đợt 2"
   },
   {
@@ -10084,22 +10071,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "3",
     "source": "Khoản 1 Điều 6 và Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 655,
-    "batch_label": "Đợt 2"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 2"
-    ],
-    "question": "Giám đốc chi nhánh loại II được quyết định cấp bảo lãnh đối với loại bảo lãnh nào?",
-    "a1": "Bảo lãnh dự thầu.",
-    "a2": "Bảo lãnh thực hiện nghĩa vụ ký quỹ để bảo đảm thực hiện dự án đầu tư.",
-    "a3": "Bảo lãnh nhà ở hình thành trong tương lai.",
-    "a4": "Đáp án 1 và 2.",
-    "correct": "4",
-    "source": "Khoản 5 Điều 1 QC 466/QC-HĐTV-TD sửa đổi, bổ sung Tiết (i), (vii) Điểm c Khoản 5 Điều 21 QC 346/QC-HĐTV-TD (khoản 4 điều 21)",
-    "id": 656,
+    "id": 654,
     "batch_label": "Đợt 2"
   },
   {
@@ -10114,7 +10086,7 @@ window.QUESTIONS_DATA = [
     "a4": "Rà soát tính đầy đủ của hồ sơ trình, Báo cáo đề xuất cấp bảo lãnh, Báo cáo đánh giá khoản bảo lãnh (nếu có) của Chi nhánh loại II.",
     "correct": "2",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Điểm a Khoản 3 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 657,
+    "id": 655,
     "batch_label": "Đợt 2"
   },
   {
@@ -10129,7 +10101,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 15 QC 456/QC-HĐTV-TD",
-    "id": 658,
+    "id": 656,
     "batch_label": "Đợt 2"
   },
   {
@@ -10144,7 +10116,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xác định giá trị theo giá thị trường phù hợp với quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 2 Điều 11 QC 879/QC-HĐTV-TD",
-    "id": 659,
+    "id": 657,
     "batch_label": "Đợt 2"
   },
   {
@@ -10159,7 +10131,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ có số dư nợ gốc, lãi của từng kỳ hạn trả nợ của khoản nợ được cơ cấu lại thời hạn trả nợ đã quá hạn 15 ngày kể từ ngày đến hạn thanh toán, trả nợ đã thỏa thuận",
     "correct": "2",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 660,
+    "id": 658,
     "batch_label": "Đợt 2"
   },
   {
@@ -10174,7 +10146,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "3",
     "source": "Điểm c (v) khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 661,
+    "id": 659,
     "batch_label": "Đợt 2"
   },
   {
@@ -10189,7 +10161,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn trên 360 ngày",
     "correct": "3",
     "source": "Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 662,
+    "id": 660,
     "batch_label": "Đợt 2"
   },
   {
@@ -10204,7 +10176,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3, 4 Điều 19 QC 456/QC-HĐTV-TD",
-    "id": 663,
+    "id": 661,
     "batch_label": "Đợt 2"
   },
   {
@@ -10219,7 +10191,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không giới hạn về số lần cơ cấu lại thời hạn trả nợ",
     "correct": "4",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 664,
+    "id": 662,
     "batch_label": "Đợt 2"
   },
   {
@@ -10234,7 +10206,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Khoản 2 Điều 4 QC 456/QC-HĐTV-TD",
-    "id": 665,
+    "id": 663,
     "batch_label": "Đợt 2"
   },
   {
@@ -10249,7 +10221,7 @@ window.QUESTIONS_DATA = [
     "a4": "70%.",
     "correct": "1",
     "source": "Khoản 2 Điều 6 QĐ số 2929/QyĐ-NHNo-TD",
-    "id": 666,
+    "id": 664,
     "batch_label": "Đợt 2"
   },
   {
@@ -10264,7 +10236,7 @@ window.QUESTIONS_DATA = [
     "a4": "Mức cấp tín dụng tối đa 75% mệnh giá.",
     "correct": "2",
     "source": "Tiết i điểm b Khoản 3 Điều 10 QC 879/QC-HĐTV-TD",
-    "id": 667,
+    "id": 665,
     "batch_label": "Đợt 2"
   },
   {
@@ -10279,7 +10251,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 46 QC 456/QC-HĐTV-TD",
-    "id": 668,
+    "id": 666,
     "batch_label": "Đợt 2"
   },
   {
@@ -10294,7 +10266,7 @@ window.QUESTIONS_DATA = [
     "a4": "95%-100%",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy định 2980/QyĐ-NHNo-RRTD",
-    "id": 669,
+    "id": 667,
     "batch_label": "Đợt 2"
   },
   {
@@ -10309,7 +10281,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 43 QC 456/QC-HĐTV-TD",
-    "id": 670,
+    "id": 668,
     "batch_label": "Đợt 2"
   },
   {
@@ -10324,7 +10296,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy chế 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 671,
+    "id": 669,
     "batch_label": "Đợt 2"
   },
   {
@@ -10339,7 +10311,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 21 QC 456/QC-HĐTV-TD",
-    "id": 672,
+    "id": 670,
     "batch_label": "Đợt 2"
   },
   {
@@ -10354,7 +10326,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Điều 5 QC 879/QC-HĐTV-TD",
-    "id": 673,
+    "id": 671,
     "batch_label": "Đợt 2"
   },
   {
@@ -10369,7 +10341,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 2 Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 674,
+    "id": 672,
     "batch_label": "Đợt 2"
   },
   {
@@ -10384,7 +10356,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 3 QC 456/QC-HĐTV-TD",
-    "id": 675,
+    "id": 673,
     "batch_label": "Đợt 2"
   },
   {
@@ -10399,7 +10371,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cho vay được quyền giải ngân theo Thỏa thuận cho vay đã ký.",
     "correct": "3",
     "source": "Khoản 3 Điều 27 QC 456/QC-HĐTV-TD",
-    "id": 676,
+    "id": 674,
     "batch_label": "Đợt 2"
   },
   {
@@ -10414,7 +10386,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quản lý rủi ro là việc nhận dạng, theo dõi rủi ro trong hoạt động của Agribank",
     "correct": "2",
     "source": "Khoản 6 Điều 3 Quy chế 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 677,
+    "id": 675,
     "batch_label": "Đợt 2"
   },
   {
@@ -10429,7 +10401,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Theo điều 23 Quy chế số 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 678,
+    "id": 676,
     "batch_label": "Đợt 2"
   },
   {
@@ -10444,7 +10416,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xây dựng",
     "correct": "2",
     "source": "Mục II Phần A Phụ lục I Hướng dẫn cách xác định các chỉ tiêu, thông tin XHKH kèm theo Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 679,
+    "id": 677,
     "batch_label": "Đợt 2"
   },
   {
@@ -10459,7 +10431,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng/Phó trưởng Phòng Khách hàng, Trưởng/Phó trưởng Ban thuộc Ban TĐPD, Trưởng/Phó trưởng phòng phê duyệt thuộc TTPD.",
     "correct": "3",
     "source": "Điểm d khoản 1 Điều 1 QC 466/QC-HĐTV-TD sửa đổi, bổ sung Khoản 33 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 680,
+    "id": 678,
     "batch_label": "Đợt 2"
   },
   {
@@ -10474,7 +10446,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 28  Quy chế 346/QC-HĐTV-TD",
-    "id": 681,
+    "id": 679,
     "batch_label": "Đợt 2"
   },
   {
@@ -10489,7 +10461,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các bên thỏa thuận thu phí bảo lãnh bằng ngoại tệ hoặc quy đổi ra đồng Việt Nam theo tỷ giá bán của Agribank.",
     "correct": "2",
     "source": "Khoản 4 Điều 23 QC 346/QC-HĐTV-TD",
-    "id": 682,
+    "id": 680,
     "batch_label": "Đợt 2"
   },
   {
@@ -10504,7 +10476,7 @@ window.QUESTIONS_DATA = [
     "a4": "01 bản chính và 03 bản sao y.",
     "correct": "2",
     "source": "Điểm b Khoản 4 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 683,
+    "id": 681,
     "batch_label": "Đợt 2"
   },
   {
@@ -10519,7 +10491,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 33 QC 879/QĐ-HĐTV-TD",
-    "id": 684,
+    "id": 682,
     "batch_label": "Đợt 2"
   },
   {
@@ -10534,7 +10506,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 1 Điều 10 QC 879/QC-HĐTV-TD",
-    "id": 685,
+    "id": 683,
     "batch_label": "Đợt 2"
   },
   {
@@ -10549,7 +10521,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; Tài sản khác theo quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 5 Điều 3 QC 879/QC-HĐTV -TD",
-    "id": 686,
+    "id": 684,
     "batch_label": "Đợt 2"
   },
   {
@@ -10564,7 +10536,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cổ phiếu, trái phiếu, hối phiếu, kỳ phiếu, tín phiếu, chứng chỉ tiền gửi, séc, chứng chỉ quỹ, giấy tờ có giá khác theo quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 17 Điều 3 QC 879/QC-HĐTV-TD",
-    "id": 687,
+    "id": 685,
     "batch_label": "Đợt 2"
   },
   {
@@ -10579,7 +10551,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm chấm dứt Hợp đồng cấp tín dụng.",
     "correct": "4",
     "source": "Khoản 1 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 688,
+    "id": 686,
     "batch_label": "Đợt 2"
   },
   {
@@ -10594,7 +10566,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 3 Điều 11 QC 879/QC-HĐTV-TD",
-    "id": 689,
+    "id": 687,
     "batch_label": "Đợt 2"
   },
   {
@@ -10609,7 +10581,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 8 QC 879/QC-HĐTV-TD",
-    "id": 690,
+    "id": 688,
     "batch_label": "Đợt 2"
   },
   {
@@ -10624,7 +10596,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 691,
+    "id": 689,
     "batch_label": "Đợt 2"
   },
   {
@@ -10639,22 +10611,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 692,
-    "batch_label": "Đợt 2"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 2"
-    ],
-    "question": "Theo Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và văn bản sửa đổi bổ sung: Trường hợp thành viên HĐXLRR Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì HĐXLRR Chi nhánh loại I thực hiện như thế nào?",
-    "a1": "Giám đốc Chi nhánh loại I là người thẩm định/quyết định cấp tín dụng thì phân công cho PGĐ làm chủ tịch Hội đồng để XLRR khoản cấp tín dụng đó",
-    "a2": "Trưởng phòng là người thẩm định/quyết định cấp tín dụng thì Chủ tịch Hội đồng chỉ định một phó phòng hoặc cán bộ (trong trường hợp không có phó phòng) tham gia hội đồng để XLRR khoản cấp tín dụng đó",
-    "a3": "Chủ tịch Hội đồng XLRR quyết định tổ chức họp khuyết thành phần HĐXLRR Chi nhánh loại I",
-    "a4": "Đáp án 1,2",
-    "correct": "4",
-    "source": "Điều16 Q Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 693,
+    "id": 690,
     "batch_label": "Đợt 2"
   },
   {
@@ -10669,7 +10626,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn từ 181 đến 360 ngày",
     "correct": "1",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 694,
+    "id": 691,
     "batch_label": "Đợt 2"
   },
   {
@@ -10684,7 +10641,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 695,
+    "id": 692,
     "batch_label": "Đợt 2"
   },
   {
@@ -10699,7 +10656,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn từ 91 ngày đến 180 ngày",
     "correct": "1",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 696,
+    "id": 693,
     "batch_label": "Đợt 2"
   },
   {
@@ -10714,7 +10671,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điểm a, Khoản 2 Điều 6 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 697,
+    "id": 694,
     "batch_label": "Đợt 2"
   },
   {
@@ -10729,7 +10686,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điều 12 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 698,
+    "id": 695,
     "batch_label": "Đợt 2"
   },
   {
@@ -10744,7 +10701,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điều 23 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 699,
+    "id": 696,
     "batch_label": "Đợt 2"
   },
   {
@@ -10759,7 +10716,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1, Điều 8, Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 700,
+    "id": 697,
     "batch_label": "Đợt 2"
   },
   {
@@ -10774,7 +10731,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "2",
     "source": "Khoản 2 Điều 9 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 701,
+    "id": 698,
     "batch_label": "Đợt 2"
   },
   {
@@ -10789,7 +10746,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 2 Điều 9 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 702,
+    "id": 699,
     "batch_label": "Đợt 2"
   },
   {
@@ -10804,7 +10761,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người quản lý nợ cho vay, người kiểm soát khoản vay, người quyết định cấp tín dụng không tham gia quá trình xử lý rủi ro của khoản cấp tín dụng đó.",
     "correct": "2",
     "source": "Khoản 4 Điều 17 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 703,
+    "id": 700,
     "batch_label": "Đợt 2"
   },
   {
@@ -10819,7 +10776,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm b, Khoản 2, Điều 6, QC 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 704,
+    "id": 701,
     "batch_label": "Đợt 2"
   },
   {
@@ -10834,7 +10791,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 705,
+    "id": 702,
     "batch_label": "Đợt 2"
   },
   {
@@ -10849,7 +10806,7 @@ window.QUESTIONS_DATA = [
     "a4": "Vào nhóm nợ có mức độ rủi ro thấp hơn nhóm nợ mà khoản nợ đó đã được phân loại tại thời điểm phân loại nợ gần nhất trước khi mua",
     "correct": "3",
     "source": "Khoản 8 Điều 5 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 706,
+    "id": 703,
     "batch_label": "Đợt 2"
   },
   {
@@ -10864,7 +10821,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 2 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 707,
+    "id": 704,
     "batch_label": "Đợt 2"
   },
   {
@@ -10879,7 +10836,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 40 QC 879/QC-HĐTV-TD",
-    "id": 708,
+    "id": 705,
     "batch_label": "Đợt 2"
   },
   {
@@ -10894,7 +10851,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3.",
     "correct": "4",
     "source": "Khoản 1 Điều 17 Quy chế số 879/QC-HĐTV-TD",
-    "id": 709,
+    "id": 706,
     "batch_label": "Đợt 2"
   },
   {
@@ -10909,7 +10866,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 3 Điều 13   Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 710,
+    "id": 707,
     "batch_label": "Đợt 2"
   },
   {
@@ -10924,7 +10881,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 4 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 711,
+    "id": 708,
     "batch_label": "Đợt 2"
   },
   {
@@ -10939,7 +10896,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 6 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 712,
+    "id": 709,
     "batch_label": "Đợt 2"
   },
   {
@@ -10954,7 +10911,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm c, Khoản 3 Điều 4 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 713,
+    "id": 710,
     "batch_label": "Đợt 2"
   },
   {
@@ -10969,7 +10926,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trường hợp TSBĐ đấu giá 3 lần mà không thành.",
     "correct": "2",
     "source": "Điểm c Khoản 1 Điều 57 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 714,
+    "id": 711,
     "batch_label": "Đợt 2"
   },
   {
@@ -10984,7 +10941,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 3 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 715,
+    "id": 712,
     "batch_label": "Đợt 2"
   },
   {
@@ -10999,7 +10956,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sau khi Bản án có hiệu lực pháp luật, trường hợp Bên bảo đảm không tự nguyện thi hành án Agribank nơi cấp tín dụng yêu cầu cơ quan thi hành án dân sự có thẩm quyền ra quyết định thi hành án. Thời hiệu yêu cầu thi hành án là 2 năm.",
     "correct": "1",
     "source": "Điểm a Khoản 2 Điều 57 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 716,
+    "id": 713,
     "batch_label": "Đợt 2"
   },
   {
@@ -11014,7 +10971,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 1, 2 Điều 36 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung bởi QĐ 3838/QyĐ-NHNo-TD",
-    "id": 717,
+    "id": 714,
     "batch_label": "Đợt 2"
   },
   {
@@ -11029,7 +10986,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc/Phó giám đốc; Trưởng phòng Kế toán và ngân quỹ; Trưởng phòng kiểm tra nội bộ/Cán bộ kiểm soát (nếu có); cán bộ phụ trách pháp chế (nếu có); Giám đốc Phòng Giao dịch.",
     "correct": "1",
     "source": "Khoản 2 Điều 55 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 718,
+    "id": 715,
     "batch_label": "Đợt 2"
   },
   {
@@ -11044,7 +11001,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chi nhánh loại II, Phòng giao dịch không được ủy quyền đăng ký kỳ hạn trả nợ",
     "correct": "4",
     "source": "Khoản 1 Điều 5  QT số 1779/QTr-NHNo-RRTD ngày 26/6/2025.",
-    "id": 719,
+    "id": 716,
     "batch_label": "Đợt 2"
   },
   {
@@ -11059,7 +11016,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Tiết i, ii Điểm a Khoản 3 Điều 30 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 720,
+    "id": 717,
     "batch_label": "Đợt 2"
   },
   {
@@ -11074,7 +11031,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thành viên HĐXLTSBĐ tại Agribank nơi cấp tín dụng không phải là người quyết định và thẩm định cấp tín dụng của khoản nợ được XLTSBĐ.",
     "correct": "4",
     "source": "Khoản 2 Điều 55 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 721,
+    "id": 718,
     "batch_label": "Đợt 2"
   },
   {
@@ -11089,7 +11046,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "1",
     "source": "Khoản 3 Điều 37 QC 456/QC-NHNo-TD",
-    "id": 722,
+    "id": 719,
     "batch_label": "Đợt 2"
   },
   {
@@ -11104,7 +11061,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 723,
+    "id": 720,
     "batch_label": "Đợt 2"
   },
   {
@@ -11119,7 +11076,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a, b, c Khoản 2 Điều 32 QC 456/QC-HĐTV-TD",
-    "id": 724,
+    "id": 721,
     "batch_label": "Đợt 2"
   },
   {
@@ -11134,7 +11091,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 33 QC 456/QC-HĐTV-TD",
-    "id": 725,
+    "id": 722,
     "batch_label": "Đợt 2"
   },
   {
@@ -11149,7 +11106,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 47 QC 456/QC-HĐTV-TD",
-    "id": 726,
+    "id": 723,
     "batch_label": "Đợt 2"
   },
   {
@@ -11164,7 +11121,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 18 Điều 3 QC 879/QC-HĐTV-TD",
-    "id": 727,
+    "id": 724,
     "batch_label": "Đợt 2"
   },
   {
@@ -11179,7 +11136,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quy mô, ngành nghề\n kinh doanh và thời gian hoạt động của KHPN, DNTN",
     "correct": "3",
     "source": "Khoản 1, Điều 5, Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 728,
+    "id": 725,
     "batch_label": "Đợt 2"
   },
   {
@@ -11194,7 +11151,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "3",
     "source": "Khoản 2, Điều 10, Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 729,
+    "id": 726,
     "batch_label": "Đợt 2"
   },
   {
@@ -11209,7 +11166,7 @@ window.QUESTIONS_DATA = [
     "a4": "Có ít nhất 2/3 tổng số thành viên hội đồng đồng ý hoặc cho ý kiến đồng ý bằng văn bản, trong đó phải có ý kiến đồng ý của Chủ tịch hội đồng",
     "correct": "4",
     "source": "Điểm b Khoản 5 (Điều 5b) Quy định số 1859/QyĐ-NHNo-TD ngày 30/6/2026 về sửa đổi, bổ sung một số điều của Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 730,
+    "id": 727,
     "batch_label": "Đợt 2"
   },
   {
@@ -11224,7 +11181,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3, điều 17 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 731,
+    "id": 728,
     "batch_label": "Đợt 2"
   },
   {
@@ -11239,7 +11196,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Khoản 1 Điều 10 Quy trình số 1779/QTr-NHNo-RRTD ngày 26/6/2025",
-    "id": 732,
+    "id": 729,
     "batch_label": "Đợt 2"
   },
   {
@@ -11254,7 +11211,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người có thẩm quyền quyết định GDBĐ và ký kết HĐBĐ là chủ sở hữu, sử dụng tài sản hoặc người thừa kế của chủ sở hữu, sử dụng tài sản.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 33 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 733,
+    "id": 730,
     "batch_label": "Đợt 2"
   },
   {
@@ -11269,7 +11226,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi phê duyệt cấp tín dụng.",
     "correct": "1",
     "source": "Điểm a khoản 1 Điều 42 QC 879/QC-HĐTV-TD",
-    "id": 734,
+    "id": 731,
     "batch_label": "Đợt 2"
   },
   {
@@ -11284,7 +11241,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thỏa thuận cho vay được ký kết bởi người đại diện của Agribank và khách hàng.",
     "correct": "2",
     "source": "Khoản 1 Điều 17 QC 456/QC-HĐTV-TD",
-    "id": 735,
+    "id": 732,
     "batch_label": "Đợt 2"
   },
   {
@@ -11299,7 +11256,7 @@ window.QUESTIONS_DATA = [
     "a4": "09 tháng kể từ ngày đến hạn của từng số dư nợ gốc, lãi được cơ cấu lại thời hạn trả nợ",
     "correct": "3",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 736,
+    "id": 733,
     "batch_label": "Đợt 2"
   },
   {
@@ -11314,7 +11271,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được cơ cấu",
     "correct": "3",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 737,
+    "id": 734,
     "batch_label": "Đợt 2"
   },
   {
@@ -11329,7 +11286,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không quá 12 tháng.",
     "correct": "2",
     "source": "Điểm c Khoản 3 Điều 13 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 738,
+    "id": 735,
     "batch_label": "Đợt 2"
   },
   {
@@ -11344,7 +11301,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng không có khả năng trả nợ gốc và/hoặc lãi đúng hạn do gặp khó khăn do nguyên nhân khách quan, bất khả kháng cụ thể và đáp ứng các quy định tại Điều 9 Quy định 515/QĐ-HĐTV-HSX ngày 31/7/2015",
     "correct": "4",
     "source": "Khoản 8 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 739,
+    "id": 736,
     "batch_label": "Đợt 2"
   },
   {
@@ -11359,7 +11316,7 @@ window.QUESTIONS_DATA = [
     "a4": "04 lần.",
     "correct": "2",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Khoản 2 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 740,
+    "id": 737,
     "batch_label": "Đợt 2"
   },
   {
@@ -11374,7 +11331,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 8 QC 456/QC-HĐTV-TD",
-    "id": 741,
+    "id": 738,
     "batch_label": "Đợt 2"
   },
   {
@@ -11389,7 +11346,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Điều 16 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 742,
+    "id": 739,
     "batch_label": "Đợt 2"
   },
   {
@@ -11404,7 +11361,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được trước 07 ngày làm việc đối với động sản hoặc 15 ngày làm việc đối với bất động sản (trừ tài sản có nguy cơ bị mất giá trị hoặc giảm sút giá trị; quyền đòi nợ; giấy tờ có giá, thẻ tiết kiệm; vận đơn).",
     "correct": "3",
     "source": "Khoản 4 Điều 46 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 743,
+    "id": 740,
     "batch_label": "Đợt 2"
   },
   {
@@ -11419,7 +11376,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phát hành bảo lãnh bảo đảm chất lượng sản phẩm.",
     "correct": "2",
     "source": "Khoản 1 Điều 18 QC 346/QC-HĐTV-TD",
-    "id": 744,
+    "id": 741,
     "batch_label": "Đợt 2"
   },
   {
@@ -11434,7 +11391,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank thỏa thuận với Bên bảo đảm/khách hàng, Agribank có quyền (nhưng không có nghĩa vụ) trích tài khoản.",
     "correct": "3",
     "source": "Khoản 4 Điều 4 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 745,
+    "id": 742,
     "batch_label": "Đợt 2"
   },
   {
@@ -11449,7 +11406,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 lần",
     "correct": "4",
     "source": "Khoản 4 Điều 4 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 746,
+    "id": 743,
     "batch_label": "Đợt 2"
   },
   {
@@ -11464,7 +11421,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a, b  Khoản 1 Điều 29 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 747,
+    "id": 744,
     "batch_label": "Đợt 2"
   },
   {
@@ -11479,7 +11436,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trả thay theo cam kết ngoại bảng (bao gồm khoản trả thay nghĩa vụ của khách hàng trong hoạt động bảo lãnh, nghiệp vụ thư tín dụng (trừ các trường hợp quy định tại điểm n khoản 2 của Quy chế này) và các khoản trả thay khác theo cam kết ngoại bảng)",
     "correct": "2",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 748,
+    "id": 745,
     "batch_label": "Đợt 2"
   },
   {
@@ -11494,7 +11451,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 02 (hai) người do lãnh đạo bộ phận Thẩm định/Phòng Thẩm định cử.",
     "correct": "2",
     "source": "Điểm e Khoản 1 Điều 15 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 749,
+    "id": 746,
     "batch_label": "Đợt 2"
   },
   {
@@ -11509,7 +11466,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 02 (hai) người trong đó có lãnh đạo Phòng Khách hàng.",
     "correct": "2",
     "source": "Khoản 10 Điều 14 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 750,
+    "id": 747,
     "batch_label": "Đợt 2"
   },
   {
@@ -11524,7 +11481,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.85",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 751,
+    "id": 748,
     "batch_label": "Đợt 2"
   },
   {
@@ -11539,7 +11496,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Điểm b Khoản 10 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025 và điểm đ khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 752,
+    "id": 749,
     "batch_label": "Đợt 2"
   },
   {
@@ -11554,7 +11511,7 @@ window.QUESTIONS_DATA = [
     "a4": "HĐTV, NHNN",
     "correct": "4",
     "source": "Khoản 3 Điều 20 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 753,
+    "id": 750,
     "batch_label": "Đợt 2"
   },
   {
@@ -11569,7 +11526,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 56 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 754,
+    "id": 751,
     "batch_label": "Đợt 2"
   },
   {
@@ -11584,7 +11541,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lý do xử lý TSBĐ; Nghĩa vụ được bảo đảm; Mô tả tài sản; Thời gian, địa điểm xử lý tài sản bảo đảm.",
     "correct": "3",
     "source": "Khoản 1 Điều 46 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 755,
+    "id": 752,
     "batch_label": "Đợt 2"
   },
   {
@@ -11599,7 +11556,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 13 QC 346/QC-HĐTV-TD",
-    "id": 756,
+    "id": 753,
     "batch_label": "Đợt 2"
   },
   {
@@ -11614,7 +11571,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a Khoản 1 Điều 10 QC 456/QC-HĐTV-TD",
-    "id": 757,
+    "id": 754,
     "batch_label": "Đợt 2"
   },
   {
@@ -11629,7 +11586,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3.",
     "correct": "2",
     "source": "Khoản 1 Điều 14 QyĐ1445 /QyĐ-NHNo-TD",
-    "id": 758,
+    "id": 755,
     "batch_label": "Đợt 2"
   },
   {
@@ -11644,7 +11601,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất, ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
     "correct": "3",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Khoản 4 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 759,
+    "id": 756,
     "batch_label": "Đợt 2"
   },
   {
@@ -11659,7 +11616,7 @@ window.QUESTIONS_DATA = [
     "a4": "Niên hạn sử dụng còn lại tối thiểu bằng thời gian cấp tín dụng cộng thêm 04 năm.",
     "correct": "1",
     "source": "Điểm b Khoản 1 Điều 13 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 760,
+    "id": 757,
     "batch_label": "Đợt 2"
   },
   {
@@ -11674,7 +11631,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 8 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD (Khoản 4 Điều 1)",
-    "id": 761,
+    "id": 758,
     "batch_label": "Đợt 2"
   },
   {
@@ -11689,7 +11646,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng đang có hoặc đang đặt quan hệ cấp tín dụng/cấp hạn mức giao dịch với Agribank (không bao gồm khách hàng của Chi nhánh Agribank ở nước ngoài)",
     "correct": "4",
     "source": "Khoản 2 Điều 1 Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 762,
+    "id": 759,
     "batch_label": "Đợt 2"
   },
   {
@@ -11704,7 +11661,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 1 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 763,
+    "id": 760,
     "batch_label": "Đợt 2"
   },
   {
@@ -11719,7 +11676,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Điểm a khoản 4 điều 16 QC 346/QC-HĐTV-TD",
-    "id": 764,
+    "id": 761,
     "batch_label": "Đợt 2"
   },
   {
@@ -11734,7 +11691,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "3",
     "source": "Khoản 3 Điều 34  QC 456/QC-HĐTV-TD",
-    "id": 765,
+    "id": 762,
     "batch_label": "Đợt 2"
   },
   {
@@ -11749,7 +11706,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 4 Điều 3 Quy định 3286/QyĐ-NHNo-RRTD ngày 15/9/2025",
-    "id": 766,
+    "id": 763,
     "batch_label": "Đợt 2"
   }
 ];

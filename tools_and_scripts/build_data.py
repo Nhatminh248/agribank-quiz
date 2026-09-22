@@ -14,6 +14,7 @@ Features:
 
 import sys
 import os
+import re
 import json
 import csv
 import zipfile
@@ -266,6 +267,21 @@ def category_batch_label(cat, batch):
     return f"{cat} - {batch}"
 
 
+def normalize_q_key(text):
+    """Normalizes question text for robust deduplication across files:
+    - Lowercase
+    - Collapses multiple whitespace to single space
+    - Normalizes missing spaces after punctuation (e.g. '2023,Trường' -> '2023, trường')
+    """
+    if not text:
+        return ""
+    s = text.lower().strip()
+    s = re.sub(r'\s+', ' ', s)
+    s = re.sub(r'([,;:\.\?!])([^\s0-9])', r'\1 \2', s)
+    s = re.sub(r'\s+', ' ', s)
+    return s.strip()
+
+
 def merge_and_build(incoming_questions):
     """Merges questions, tracks batch tags, deduplicates, and assigns IDs."""
     questions_map = {}
@@ -280,7 +296,7 @@ def merge_and_build(incoming_questions):
         if not q_text or len(q_text) < 8:
             continue
 
-        q_key = q_text.lower().strip()
+        q_key = normalize_q_key(q_text)
         batch = item.get('batch') or 'Đợt 1'
         batches = item.get('batches') or [batch]
         cat = item.get('category') or 'Kiến thức chung'
