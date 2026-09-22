@@ -120,6 +120,8 @@ def detect_batch_and_category(file_name, sheet_name, first_few_rows):
         category = "Xử lý nợ"
     elif "kiến thức chung" in sheet_clean or "kien thuc chung" in sheet_clean or "kiến thức chung" in text_corpus:
         category = "Kiến thức chung"
+    elif any(k in sheet_clean for k in ("văn thư", "van thu", "lễ tân", "le tan")) or "văn thư" in text_corpus or "van thu" in text_corpus:
+        category = "Văn thư"
     else:
         category = sheet_name
 

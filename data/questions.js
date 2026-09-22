@@ -6107,6 +6107,3561 @@ window.QUESTIONS_DATA = [
     "batch_label": "Đợt 2"
   },
   {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "\"Dự án là văn bản trình bày có hệ thống về dự kiến cách thức thực hiện các mục tiêu nhất định trong giới hạn về nguồn lực, kinh phí, thời gian đã xác định trước để triển khai chương trình, đề án, kế hoạch, nhiệm vụ đã đề ra.\" đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Căn cứ Điều 3 Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 398,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "\"Kho lưu trữ tập trung\" được hiểu là gì?",
+    "a1": "Kho tạm của các phòng ban",
+    "a2": "Kho thuê bên ngoài",
+    "a3": "Là nơi lưu trữ tập trung hồ sơ, tài liệu của các đơn vị thuộc Agribank trên địa bàn một tỉnh/thành phố được Agribank đầu tư xây dựng bảo đảm tiêu chí, tiêu chuẩn theo Đề án lưu trữ tập trung và được cấp có thẩm quyền chấp thuận sử dụng phục vụ công tác lưu trữ tập trung.",
+    "a4": "",
+    "correct": "3",
+    "source": "Khoản 1 Điều 2 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 399,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Anh/chị xử lý thế nào trong trường hợp KHÔNG có đủ danh thiếp cho tất cả thành viên trong đoàn làm việc của đối tác?",
+    "a1": "Trao danh thiếp cho một số người ở gần.",
+    "a2": "Trao hết số danh thiếp mình có và xin lỗi những người không được nhận.",
+    "a3": "Chỉ cần đưa danh thiếp cho người dẫn đầu đoàn đối tác kèm theo lời tự giới thiệu.",
+    "a4": "",
+    "correct": "3",
+    "source": "Chuẩn mực trong giới thiệu và tự giới thiệu – Cẩm nang văn hóa Agribank",
+    "id": 400,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Bộ chuẩn mực đạo đức nghề nghiệp và Quy tắc ứng xử của cán bộ ngân hàng của HHNH áp dụng cho đối tượng nào?",
+    "a1": "Tổ chức hội viên thuộc Hiệp hội ngân hàng VN",
+    "a2": "Tất cả các ngân hàng hoạt động tại VN",
+    "a3": "Tất cả các nhân viên ngân hàng",
+    "a4": "Agribank",
+    "correct": "1",
+    "source": "Điều 1 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 401,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Các chuẩn mực đạo đức nghề nghiệp của cán bộ ngân hàng, bao gồm?",
+    "a1": "Tính tuân thủ; Sự cẩn trọng; Ý thức bảo mật thông tin",
+    "a2": "Sự liêm chính; Sự tận tâm và chuyên cần; Tính chủ động, sáng tạo, thích ứng.",
+    "a3": "Tính tuân thủ; Sự cẩn trọng; Sự liêm chính; Sự tận tâm và chuyên cần; Tính chủ động, sáng tạo, thích ứng; Ý thức bảo mật thông tin",
+    "a4": "Sự cẩn trọng; Sự liêm chính; Sự tận tâm và chuyên cần; Ý thức bảo mật thông tin, Ý thức giữ gìn thương hiệu của ngân hàng",
+    "correct": "3",
+    "source": "Điều 4 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 402,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Cách ứng xử nào KHÔNG đúng sau khi nhận danh thiếp?",
+    "a1": "Sử dụng 2 tay khi nhận danh thiếp",
+    "a2": "Đọc những thông tin cơ bản ghi trên danh thiếp.",
+    "a3": "Cẩn thận cất ngay vào túi áo ngực.",
+    "a4": "",
+    "correct": "3",
+    "source": "Chuẩn mực trong giới thiệu và tự giới thiệu – Cẩm nang văn hóa Agribank",
+    "id": 403,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Hành vi nào bị nghiêm cấm theo quy định tại Quy chế Con dấu Agribank số 989/QC-HĐTV-PC ngày 15/12/2023?",
+    "a1": "Làm giả con dấu, sử dụng con dấu giả",
+    "a2": "Cố ý làm biến dạng con dấu, làm con dấu không đúng mẫu quy định tại Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "a3": "Người giữ con dấu tuân thủ nghiêm túc các quy định của pháp luật và Agribank về quản lý, sử dụng con dấu",
+    "a4": "Cả 1 và 2 đều đúng",
+    "correct": "4",
+    "source": "Khoản 1 và 2 Điều 4 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 404,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Khi ban hành 606/QC-HĐTV-PC ngày 30/06/2025 thì các nội dung khác tại Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023 của HĐTV về con dấu của Agribank hết hiệu lực thi hành. Đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 2 Quy chế 606/QC-HĐTV-PC ngày 30/6/2025",
+    "id": 405,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Khi bắt tay, cán bộ Agribank phải ứng xử như thế nào?",
+    "a1": "Cấp trên chủ động bắt tay cấp dưới.",
+    "a2": "Người ít tuổi chủ động bắt tay người lớn tuổi hơn.",
+    "a3": "Bắt tay từ người có chức vụ thấp đến người có chức vụ cao.",
+    "a4": "",
+    "correct": "1",
+    "source": "Chuẩn mực trong Chào hỏi – Cẩm nang văn hóa Agribank",
+    "id": 406,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Quy chế sửa đổi một số điều của Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023 của Hội đồng thành viên về con dấu của Agribank là số văn bản nào?",
+    "a1": "606/QC-HĐTV-PC Ngày 30/06/2025",
+    "a2": "606/QĐ-HĐTV-PC ngày 30/6/2025",
+    "a3": "989/QC-HĐTV-PC ngày 15/12/2023",
+    "a4": "",
+    "correct": "1",
+    "source": "Theo VB 606/QC-HĐTV-PC Ngày 30/06/2025",
+    "id": 407,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Quy định 238/QĐ-HĐTV-TTh, vào các ngày mùng 8/3 và 20/10 hàng năm, cán bộ nữ Agribank có bắt buộc mặc trang phục áo dài không?",
+    "a1": "Có",
+    "a2": "Không",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 6, Điều 7 Quy định 238/QĐ-HĐTV-TTh",
+    "id": 408,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Quy định 238/QĐ-HĐTV-TTh, đối với người lao động trong thời gian học việc, thử việc có bắt buộc sử dụng đồng phục theo quy định chung của Agribank không?",
+    "a1": "Có",
+    "a2": "Không",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 3, Điều 7 Quy định 238/QĐ-HĐTV-TTh",
+    "id": 409,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Quy định về hoạt động lưu trữ được ban hành kèm theo Quyết định số nào?",
+    "a1": "Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026",
+    "a2": "Quyết định số 425/QyĐ-HĐTV-VP ngày 22/6/2026",
+    "a3": "Quyết định số 426/QyĐ-HĐTV-VP ngày 22/6/2026",
+    "a4": "",
+    "correct": "1",
+    "source": "Phần số, ký hiệu và ngày ban hành Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 1)",
+    "id": 410,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 606/QC-HĐTV-PC ngày 30/6/2025, kích thước và nội dung con dấu của chi nhánh sau khi sắp xếp đơn vị hành chính được quy định như thế nào?",
+    "a1": "Đường kính 34 mm. Vành ngoài phía dưới con dấu là tên đơn vị hành chính cấp tỉnh nơi đặt trụ sở của Chi nhánh; giữa con dấu là tên Chi nhánh.",
+    "a2": "Đường kính 36 cm. Vành ngoài phía dưới con dấu: tên đơn vị hành chính cấp tỉnh nơi đặt trụ sở của Agribank",
+    "a3": "Đường kính 36 cm. Vành ngoài phía trên con dấu là tên đơn vị hành chính cấp tỉnh nơi đặt trụ sở của Chi nhánh, giữa con dấu là Tên Chi nhánh",
+    "a4": "Không thay đổi gì",
+    "correct": "1",
+    "source": "Khoản 3 Điều 1 Quy chế 606/QC-HĐTV-PC ngày 30/6/2025; kích thước dẫn chiếu Quy chế 989/QC-HĐTV-PC",
+    "id": 411,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 989/QC-HĐTV-PC ngày 15/12/2023, ai là người có thẩm quyền giao giữ con dấu tại Văn phòng đại diện, Chi nhánh, Đơn vị sự nghiệp và Đơn vị\nkhác có con dấu riêng?",
+    "a1": "Là người đứng đầu đơn vị",
+    "a2": "Chánh Văn Phòng",
+    "a3": "Giám đốc chi nhánh",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm 2 điều 12 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 412,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 989/QC-HĐTV-PC ngày 15/12/2023, các đơn vị có con dấu có được phép có thêm một con dấu đồng nhất với mẫu của con dấu đang sử dụng để sử dụng tại Điểm giao dịch lưu động hay không?",
+    "a1": "Có",
+    "a2": "Không",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 5 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 413,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 989/QC-HĐTV-PC ngày 15/12/2023, khi đóng dấu, đóng trùm lên toàn bộ chữ ký của Lãnh đạo. Đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 13 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 414,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 989/QC-HĐTV-PC ngày 15/12/2023, niêm phong con dấu là:",
+    "a1": "Việc thực hiện các biện pháp đóng kín và sử dụng giấy niêm phong hoặc kẹp chì trên hộp/tủ/túi đã được đóng kín, đảm bảo giữ được con dấu nguyên vẹn, đầy đủ",
+    "a2": "Việc gỡ giấy niêm phong hoặc tháo kẹp chì và mở hộp/tủ/túi chứa con dấu nhằm đưa con dấu ra sử dụng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm 9 điều 2 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 415,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế 989/QC-HĐTV-PC ngày 15/12/2023, đóng dấu giáp lai là hình thức đóng dấu vào khoảng giữa mép phải của văn bản và trùm lên một phần các tờ văn bản, đối với các văn bản có từ 02 tờ trở lên, mỗi dấu đóng tối đa:",
+    "a1": "5 tờ",
+    "a2": "10 tờ",
+    "a3": "5 trang",
+    "a4": "Đóng một dấu tất cả các trang",
+    "correct": "1",
+    "source": "Điều 13 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 416,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021, Các trường hợp tạm hoãn thực hiện Hợp đồng lao động gồm:",
+    "a1": "Người lao động thực hiện nghĩa vụ quân sự, nghĩa vụ tham gia dân quân tự vệ",
+    "a2": "Người lao động bị tạm giữ, tạm giam, theo quy định của pháp luật tố tụng hình sự",
+    "a3": "Người lao động phải chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở cai nghiện bắt buộc hoặc cơ sở giáo dục bắt buộc",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 19, Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021",
+    "id": 417,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021, Thỏa ước lao động tập thể được ký bao nhiêu năm 1 lần (không tính đến thời điểm có sự thay đổi các quy định của pháp luật)?",
+    "a1": "01 năm",
+    "a2": "02 năm",
+    "a3": "03 năm",
+    "a4": "04 năm",
+    "correct": "3",
+    "source": "Khoản 4, Điều 22, Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021",
+    "id": 418,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021, các trường hợp chấm dứt Hợp đồng lao động gồm:",
+    "a1": "Người lao động bị kết án phạt tù nhưng không được hưởng án treo hoặc không thuộc trường hợp được trả tự do theo quy định của Bộ luật Tố tụng hình sự, tử hình hoặc cấm làm công việc ghi trong Hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật;",
+    "a2": "Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật, quyết định của cơ quan nhà nước có thẩm quyền;",
+    "a3": "Người lao động chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 20, Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021",
+    "id": 419,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035 là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 1, Điều 25, Quy chế số 919/QC-HĐTV-TCTL ngày 31/12/2021",
+    "id": 420,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, các trường hợp nào được làm mới con dấu?",
+    "a1": "Đơn vị mới thành lập được sử dụng con dấu riêng",
+    "a2": "Đơn vị tự khắc con dấu và sử dụng theo thiết kế, sáng tạo của mình",
+    "a3": "Cả 1 và 2 đều đúng",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm a khoản 1 Điều 17 và khoản 4 Điều 5 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 421,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, hiện nay, số lượng con dấu đồng nhất mẫu con dấu pháp nhân Agribank là bao nhiêu?",
+    "a1": "1",
+    "a2": "2",
+    "a3": "3",
+    "a4": "4",
+    "correct": "2",
+    "source": "Khoản 1 Điều 5 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 422,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, hình thức đóng dấu bao gồm:",
+    "a1": "Đóng dấu trực tiếp lên chữ kí",
+    "a2": "Đóng dấu treo",
+    "a3": "Đóng dấu giáp lai",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 13 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 423,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, màu mực con dấu trong hệ thống Agribank là màu nào?",
+    "a1": "Xanh",
+    "a2": "Tím",
+    "a3": "Đỏ",
+    "a4": "Vàng",
+    "correct": "3",
+    "source": "Khoản 3 Điều 6 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 424,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, một trong các nguyên tắc chung trong việc quản lý, sử dụng con dấu Agribank là gì?",
+    "a1": "Chỉ được sử dụng một con dấu",
+    "a2": "Việc quản lý, sử dụng, tổ chức làm và hủy con dấu phải tuân thủ quy định của pháp luật, Quy chế này và các quy định khác của Agribank liên quan",
+    "a3": "Xác định rõ trách nhiệm cá nhân của người đứng đầu đơn vị trong việc bảo quản con dấu",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 3 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 425,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, ngôn ngữ trên con dấu trong hệ thống Agribank được quy định như thế nào?",
+    "a1": "Ngôn ngữ trên con dấu bằng tiếng Việt, chữ trong con dấu là chữ in hoa có đầy đủ dấu, thống nhất kiểu chữ, phông chữ và được trình bày cân đối",
+    "a2": "Ngôn ngữ trên con dấu bằng tiếng Việt, chữ trong con dấu là chữ in hoa có đầy đủ dấu.",
+    "a3": "Ngôn ngữ trên con dấu bằng chữ viết tắt tên NHNo trong con dấu là chữ in hoa có đầy đủ dấu, thống nhất kiểu chữ.",
+    "a4": "Ngôn ngữ trên con dấu bằng tiếng Việt hoặc tiếng Anh, chữ trong con dấu là chữ in hoa có đầy đủ dấu, thống nhất kiểu chữ, phông chữ và được trình bày cân đối",
+    "correct": "1",
+    "source": "Khoản 1 Điều 6 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 426,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, tiêu chuẩn của người giữ con dấu là:",
+    "a1": "Người lao động đã ký hợp đồng không xác định thời hạn",
+    "a2": "Người lao động đã ký hợp đồng lao động xác định thời hạn từ đủ 12 tháng trở lên",
+    "a3": "Người lao động đã ký hợp đồng lao động xác định thời hạn từ đủ 06 tháng trở lên",
+    "a4": "Cả 1 và 2 đều đúng",
+    "correct": "4",
+    "source": "Điểm a khoản 1 Điều 12 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 427,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, việc giao nhiệm vụ Người giữ con dấu thể hiện bằng hình thức nào?",
+    "a1": "Lập thành văn bản",
+    "a2": "Bằng lời nói",
+    "a3": "Tùy từng trường hợp cụ thể do Người có thẩm quyền giao giữ con dấu quyết định",
+    "a4": "Bằng hành vi",
+    "correct": "1",
+    "source": "Khoản 3 Điều 12 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 428,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023, đóng dấu giáp lai là gì?",
+    "a1": "Là hình thức đóng dấu vào khoảng giữa mép phải của văn bản và trùm lên một phần các tờ văn bản, đối với các văn bản có từ 02 tờ trở lên, mỗi dấu đóng tối đa 05 tờ, sử dụng đối với các văn bản được đóng dấu trực tiếp lên chữ ký, đóng dấu treo.",
+    "a2": "Là hình thức đóng dấu vào khoảng giữa mép phải của văn bản và trùm lên một phần các tờ văn bản, đối với các văn bản chỉ gồm 01 tờ",
+    "a3": "Là hình thức đóng dấu vào khoảng giữa mép phải của văn bản và trùm lên một phần các tờ văn bản, đối với các văn bản có từ 02 tờ trở lên, mỗi dấu đóng tối đa 10 tờ, sử dụng đối với các văn bản được đóng dấu trực tiếp lên chữ ký, đóng dấu treo.",
+    "a4": "Là hình thức đóng dấu vào khoảng giữa mép trái của văn bản và trùm lên một phần các tờ văn bản, đối với các văn bản có từ 02 tờ trở lên.",
+    "correct": "1",
+    "source": "Khoản 3 Điều 13 Quy chế số 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 429,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, Hồ sơ nào phải giao nộp vào Lưu trữ cơ quan?",
+    "a1": "Hồ sơ nguyên tắc",
+    "a2": "Hồ sơ công việc chưa giải quyết xong",
+    "a3": "Hồ sơ công việc đã kết thúc (riêng đối với hồ sơ cấp tín dụng là những hồ sơ tài liệu đã được cấp có thẩm quyền phê duyệt, đối với hồ sơ, tài liệu xây dựng cơ bản là những công trình đã được quyết toán) và được quy định trong bảng thời hạn bảo quản hồ sơ tài liệu lưu trữ trong hệ thống Agribank.",
+    "a4": "",
+    "correct": "3",
+    "source": "Điều 5 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 430,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, Người quản lý kho được ra vào kho lưu trữ trong trường hợp nào?",
+    "a1": "Thực hiện theo lệnh, chỉ đạo của cấp trên có thẩm quyền,\nThực hiện công việc của người quản lý kho trong việc xuất, nhập hồ sơ, tài liệu;",
+    "a2": "Kiểm tra, kiểm kê tài sản trong kho theo định kỳ hoặc đột xuất,\nVệ sinh kho, bốc dỡ, kê xếp giá tài liệu;",
+    "a3": "Sửa chữa, bảo dưỡng, lắp đặt trang thiết bị trong kho;\nCác trường hợp khẩn cấp khác.",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 17 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 431,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, ai là người lập phiếu yêu cầu khai thác, sử dụng hồ sơ, tài liệu?",
+    "a1": "Người quản lý kho",
+    "a2": "Người khai thác",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 22 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 432,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, ai là người phải lập hồ sơ?",
+    "a1": "Cán bộ được giao giải quyết công việc",
+    "a2": "Cán bộ văn thư",
+    "a3": "Lãnh đạo cơ quan",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 4 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 433,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, các hình thức khai thác sử dụng hồ sơ, tài liệu lưu trữ gồm:",
+    "a1": "Tại chỗ (phòng đọc); mượn về nơi làm việc; sao chụp; chứng thực.",
+    "a2": "Tại chỗ (phòng đọc); Mượn về nơi làm việc; Sao chụp.",
+    "a3": "Mượn về nơi làm việc; Sao chụp; Chứng thực",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 21 Mục 3 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 434,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, cán bộ được giao giải quyết công việc mở hồ sơ khi nào?",
+    "a1": "Ngay khi được giao giải quyết công việc",
+    "a2": "Khi công việc kết thúc",
+    "a3": "Trong thời gian giải quyết công việc",
+    "a4": "",
+    "correct": "1",
+    "source": "Bước 1, Khoản 2, Điều 4 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 435,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, hồ sơ, tài liệu nào không phải giao nộp?",
+    "a1": "Các hồ sơ nguyên tắc (tập văn bản chỉ đạo của Đảng, văn bản quy phạm pháp luật...)",
+    "a2": "Hồ sơ công việc chưa giải quyết xong.",
+    "a3": "Các văn bản, tài liệu khác được gửi để biết, để tham khảo hoặc để phối hợp thực hiện nhưng không thuộc trách nhiệm lập hồ sơ của đơn vị và đã được lưu trong hồ sơ của đơn vị chủ trì giải quyết.",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 436,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, người đến khai thác phải cung cấp thông tin nội dung liên quan nào về hồ sơ tài liệu cần khai thác?",
+    "a1": "Số, ký hiệu, ngày, tháng, năm",
+    "a2": "Trích yếu văn bản, thời gian",
+    "a3": "Mục đích sử dụng tài liệu",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 4 Điều 21 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 437,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, nội dung của lập hồ sơ gồm những bước nào?",
+    "a1": "Mở hồ sơ; Thu thập văn bản, tài liệu vào hồ sơ.",
+    "a2": "Thu thập văn bản, tài liệu vào hồ sơ.\nSắp xếp văn bản, tài liệu vào hồ sơ.",
+    "a3": "Kết thúc và biên mục hồ sơ; Hoàn thiện bìa hồ sơ.",
+    "a4": "Mở hồ sơ;\nThu thập văn bản, tài liệu vào hồ sơ;\nSắp xếp văn bản, tài liệu vào hồ sơ;\nKết thúc và biên mục hồ sơ; Hoàn thiện bìa hồ sơ.",
+    "correct": "4",
+    "source": "Điều 4 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 438,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, nội dung việc chỉnh lý hồ sơ, tài liệu gồm:",
+    "a1": "Tiếp nhận hồ sơ, tài liệu",
+    "a2": "Vận chuyển hồ sơ, tài liệu về địa điểm chỉnh lý",
+    "a3": "Vệ sinh sơ bộ hồ sơ, tài liệu",
+    "a4": "Tất cả đáp án trên",
+    "correct": "4",
+    "source": "Điều 6 Quy trình 999/QĐ-NHNo-TTLT ngày 31/7/2015",
+    "id": 439,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, Đơn vị bảo quản là gì?",
+    "a1": "Là đơn vị thống kê trong nghiệp vụ lưu trữ, đồng thời dùng để quản lý, tra tìm tài liệu. Độ dày của mỗi đơn vị bảo quản không quá độ dày của một hộp hồ sơ.",
+    "a2": "Nếu một hồ sơ có ít văn bản, tài liệu thì lập một đơn vị bảo quản. Nếu một hồ sơ có nhiều văn bản, tài liệu thì được chia thành nhiều tập và mỗi tập trong hồ sơ đó là một đơn vị bảo quản.",
+    "a3": "Cả đáp án 1 và 2.",
+    "a4": "",
+    "correct": "3",
+    "source": "(Quy trình 999 - Phần I – Điều 3 Giải thích từ ngữ)",
+    "id": 440,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, đối với tài liệu là quyển thì việc đánh số tờ như thế nào?",
+    "a1": "Đánh hết số tờ trong quyển.",
+    "a2": "Đánh số tờ tương đương với 01 tờ tài liệu.",
+    "a3": "Không đánh số tờ",
+    "a4": "",
+    "correct": "2",
+    "source": "Bước 4 Điều 4 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "id": 441,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/7/2015, biên mục hồ sơ bao gồm những công việc nào?",
+    "a1": "Đánh số tờ, ghi mục lục hồ sơ.",
+    "a2": "Đánh số tờ, ghi mục lục hồ sơ, viết tờ kết thúc.",
+    "a3": "Ghi mục lục hồ sơ, viết tờ kết thúc.",
+    "a4": "Đánh số tờ, ghi mục lục hồ sơ, ghi ngày mở hồ sơ và kết thúc hồ sơ.",
+    "correct": "2",
+    "source": "(Quy trình 999 - Phần I – Điều 3 Giải thích từ ngữ)",
+    "id": 442,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026, đối với hội nghị do Trụ sở chính tổ chức tại thành phố trực thuộc trung ương, mức chi tiền nước uống, ăn nhẹ giữa giờ tối đa là bao nhiêu?",
+    "a1": "Tối đa 200.000 đồng/ngày/người",
+    "a2": "Tối đa 55.000đ/ngày/người",
+    "a3": "Tối đa 60.000đ/ngày/người",
+    "a4": "Tối đa 65.000đ/ngày/người",
+    "correct": "1",
+    "source": "Tiết c khoản 5 Điều 1 Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026",
+    "id": 443,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026, đối với hội nghị do Văn phòng đại diện, đơn vị sự nghiệp hoặc chi nhánh loại I tổ chức tại thành phố trực thuộc trung ương, mức chi tiền nước uống, ăn nhẹ giữa giờ tối đa là bao nhiêu?",
+    "a1": "Tối đa 160.000 đồng/ngày/người",
+    "a2": "Tối đa 150.000đ/ngày/người",
+    "a3": "Tối đa 55.000đ/ngày/người",
+    "a4": "Tối đa 60.000đ/ngày/người",
+    "correct": "1",
+    "source": "Tiết c khoản 5 Điều 1 Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026",
+    "id": 444,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026, đối với hội nghị do chi nhánh loại II tổ chức tại thành phố trực thuộc trung ương, mức chi tiền nước uống, ăn nhẹ giữa giờ tối đa là bao nhiêu?",
+    "a1": "Tối đa 100.000 đồng/ngày/người",
+    "a2": "Tối đa 50.000đ/ngày/người",
+    "a3": "Tối đa 55.000đ/ngày/người",
+    "a4": "Tối đa 60.000đ/ngày/người",
+    "correct": "1",
+    "source": "Tiết c khoản 5 Điều 1 Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026",
+    "id": 445,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026, đối với hội nghị do chi nhánh loại II tổ chức tại thành phố trực thuộc trung ương, mức chi tiền ăn tối đa là bao nhiêu?",
+    "a1": "Tối đa 500.000 đồng/ngày/người",
+    "a2": "Tối đa 250.000đ/ngày/người",
+    "a3": "Tối đa 300.000đ/ngày/người",
+    "a4": "Tối đa 350.000đ/ngày/ người",
+    "correct": "1",
+    "source": "Tiết c khoản 5 Điều 1 Quy định 1138/QĐ-NHNo-TCKT ngày 17/4/2026",
+    "id": 446,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 238/QĐ-HĐTV-TTh, người lao động của Agribank sử dụng đồng phục theo quy định từ ngày thứ 2 đến ngày thứ 5 là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 1, Điều 7 Quy định 238/QĐ-HĐTV-TTh",
+    "id": 447,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, Mức chi mua quà tặng cho tập thể khi đi công tác ở nước ngoài là:",
+    "a1": "5.000.000 đồng/đối tác",
+    "a2": "3.000.000 đồng/đối tác",
+    "a3": "4.000.000 đồng/đối tác",
+    "a4": "1.000.000 đồng/đối tác",
+    "correct": "1",
+    "source": "mục 7 Điều 5, VB 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 448,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, Tiền tổng kết, đánh giá cuối khóa học đối với khóa học có 05 ngày đào tạo trở lên là:",
+    "a1": "Tối đa 200.000 đồng/người",
+    "a2": "Tối đa 300.000 đồng/người",
+    "a3": "Tối đa 400.000 đồng/người",
+    "a4": "Tối đa 100.000 đồng/người",
+    "correct": "1",
+    "source": "căn cứ điểm d) mục 4 điều 7 của Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 449,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, nhận định sau đây là đúng hay sai: \"Chi phí quản lý sử dụng điện thoại cơ quan bao gồm: Chi phí lắp đặt, hòa mạng, Chi mua máy điện thoại và Cước phí điện thoại.\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 9, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 450,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, nhận định sau đây là đúng hay sai? \"Mức chi phúc lợi đối với đám hỷ cho con của cán bộ Agribank (con đẻ, con nuôi hợp pháp) tối đa là 3.000.000đ/người?\"",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 451,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, nhận định sau đây là đúng hay sai? \"Mức chi phúc lợi đối với đám hỷ của cán bộ Agribank tối đa là 3.000.000đ/người?\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 452,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, tiền thuê Hội trường phục vụ Hội nghị được chi theo giá cả thực tế tại nơi tổ chức Hội nghị là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 3, Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 453,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, tiền thuê phương tiện đưa đón đại biểu từ nơi nghỉ đến nơi tổ chức hội nghị trong trường hợp cơ quan, đơn vị không có phương tiện hoặc có nhưng không đáp ứng được số lượng đại biểu có thuộc chi phí tổ chức Hội nghị không?",
+    "a1": "Có",
+    "a2": "Không",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 3, Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 454,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, tiền ăn, giải khát giữa giờ của đại biểu có thuộc chi phí tổ chức Hội nghị không?",
+    "a1": "Có",
+    "a2": "Không",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 3, Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 455,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019, Đối tượng được chi cho hoạt động sáng kiến là:",
+    "a1": "Các tác giả sáng kiến được Hội đồng sáng kiến hoặc Hội đồng khoa học quyết định công nhận/chứng nhận sáng kiến",
+    "a2": "Các tác giả sáng kiến được công nhận/chứng nhận sáng kiến",
+    "a3": "Các tác giả sáng kiến được Tổng Giám đốc hoặc Phó Tổng Giám đốc quyết định công nhận/chứng nhận sáng kiến",
+    "a4": "Các tác giả sáng kiến được Tổng Giám đốc quyết định công nhận/chứng nhận sáng kiến",
+    "correct": "1",
+    "source": "Mục 4 Điều 8 Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 456,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019,Trường hợp lồng ghép, kết hợp các nội dung sơ kết, tổng kết với tập huấn nghiệp vụ thì thời gian của hội nghị được tối đa bao nhiêu ngày?",
+    "a1": "04 ngày cho 01 lần tổ chức",
+    "a2": "05 ngày cho 01 lần tổ chức",
+    "a3": "06 ngày cho 01 lần tổ chức",
+    "a4": "07 ngày cho 01 lần tổ chức",
+    "correct": "3",
+    "source": "căn cứ mục 2 điều 6 của Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 457,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 2668/QĐ-NHNo-TCKT, mức chi bồi dưỡng tiêu hủy ấn chỉ quan trọng, chứng từ đối với Thành viên Hội đồng tiêu hủy và bộ phận giúp việc (nếu có) là:",
+    "a1": "Tối đa 100.000đ/ngày/người",
+    "a2": "Tối đa 50.000đ/ngày/người",
+    "a3": "Tối đa 70.000đ/ngày/người",
+    "a4": "Tối đa 200.000đ/ngày/ người",
+    "correct": "1",
+    "source": "Khoản 5, điều 13, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 458,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Giấy giới thiệu\" được viết tắt như thế nào?",
+    "a1": "GGT",
+    "a2": "Ggt",
+    "a3": "GT",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 459,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Giấy mời\" được viết tắt như thế nào?",
+    "a1": "GM",
+    "a2": "Gm",
+    "a3": "TM",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 460,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Hướng dẫn\" được viết tắt như thế nào?",
+    "a1": "HD",
+    "a2": "Hd",
+    "a3": "Hda",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 461,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Quy định\" được viết tắt như thế nào?",
+    "a1": "QyĐ",
+    "a2": "QĐ",
+    "a3": "Qđ",
+    "a4": "QĐịnh",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 462,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Tờ trình\" được viết tắt như thế nào?",
+    "a1": "TTr",
+    "a2": "TT",
+    "a3": "Ttr",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 463,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"quy chế\" được viết tắt như thế nào?",
+    "a1": "QC",
+    "a2": "QyC",
+    "a3": "Qc",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 464,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 của Tổng Giám đốc, loại văn bản định chế \"Đơn xin nghỉ phép\" được viết tắt như thế nào?",
+    "a1": "ĐNP",
+    "a2": "ĐXNP",
+    "a3": "NP",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 465,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, bản sao y (SY) là:",
+    "a1": "Bản sao đầy đủ nội dung của bản gốc hoặc bản chính của văn bản",
+    "a2": "Bản sao chính xác nội dung của bản gốc hoặc bản chính của văn bản",
+    "a3": "Bản sao được trình bày theo thể thức và kỹ thuật quy định",
+    "a4": "Tất cả các phương án nêu trên",
+    "correct": "4",
+    "source": "Điều 18 Quy định 979/QyĐ-NHNo-PC",
+    "id": 466,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, quy định về nơi nhận văn bản gồm:",
+    "a1": "Nơi nhận để thực hiện",
+    "a2": "Nơi nhận để kiểm tra, giám sát, báo cáo, trao đổi công việc, để biết",
+    "a3": "Nơi nhận để lưu văn bản",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 15 Quy định 979/QyĐ-NHNo-PC",
+    "id": 467,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, số trang của Phụ lục được đánh số theo văn bản là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 2 Điều 6 Quy định 979/QyĐ-NHNo-PC",
+    "id": 468,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, trường hợp ký thay mặt tập thể thì phải ghi chữ viết tắt nào vào trước tên tập thể lãnh đạo hoặc đơn vị?",
+    "a1": "TM.",
+    "a2": "T/M",
+    "a3": "TM",
+    "a4": "ThM",
+    "correct": "1",
+    "source": "K2 Điều 13 Quy định 979/QyĐ-NHNo-PC",
+    "id": 469,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, trường hợp ký thừa lệnh thì ghi chữ viết tắt nào vào trước chức vụ của người đứng đầu đơn vị?",
+    "a1": "TL.",
+    "a2": "T/L",
+    "a3": "TL",
+    "a4": "ThL",
+    "correct": "1",
+    "source": "K2 Điều 13 Quy định 979/QyĐ-NHNo-PC",
+    "id": 470,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, trường hợp ký thừa ủy quyền thì phải ghi chữ viết tắt nào vào trước chức vụ của người đứng đầu đơn vị?",
+    "a1": "TUQ.",
+    "a2": "TUQ",
+    "a3": "TL.",
+    "a4": "UQ.",
+    "correct": "1",
+    "source": "K2 Điều 13 Quy định 979/QyĐ-NHNo-PC",
+    "id": 471,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, trường hợp được giao quyền cấp trưởng thì phải ghi chữ viết \"TUQ\" vào trước chức vụ của người đứng đầu đơn vị là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "K2 Điều 13 Quy định 979/QyĐ-NHNo-PC",
+    "id": 472,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản, trường hợp được giao quyền cấp trưởng thì phải ghi chữ viết nào vào trước chức vụ của người đứng đầu đơn vị?",
+    "a1": "Q.",
+    "a2": "TUQ.",
+    "a3": "KT.",
+    "a4": "TL.",
+    "correct": "1",
+    "source": "K2 Điều 13 Quy định 979/QyĐ-NHNo-PC",
+    "id": 473,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, Phần, mục phải có tiêu đề đối với các loại văn bản được bố cục theo:",
+    "a1": "Phần, chương, mục, tiểu mục, điều",
+    "a2": "Phần, mục, khoản, điểm",
+    "a3": "Mục, khoản, điểm",
+    "a4": "Khoản, điểm",
+    "correct": "1",
+    "source": "Điểm a khoản 5 Điều 12 Văn bản số 979/NHNo-PC",
+    "id": 474,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, Quốc hiệu \"CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\" được trình bày như nào?",
+    "a1": "Bằng chữ in hoa, cỡ chữ từ 12 đến 13",
+    "a2": "Kiểu chữ đứng, đậm",
+    "a3": "Hàng chữ ở phía trên cùng, bên phải trang đầu tiên của văn bản",
+    "a4": "Tất cả các đáp án  trên",
+    "correct": "4",
+    "source": "Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023 về thể thức và kỹ thuật trình bày văn bản trong hệ thống Agribank",
+    "id": 475,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, hai dòng Quốc hiệu và Tiêu ngữ trên văn bản được trình bày giống nhau là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Quy định 979/QyĐ-NHNo-PC",
+    "id": 476,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, loại văn bản nào không bắt buộc phải có phần căn cứ?",
+    "a1": "Quyết định",
+    "a2": "Quy chế",
+    "a3": "Quy định",
+    "a4": "Hướng dẫn",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 477,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, nơi nhận văn bản gồm những đơn vị nào?",
+    "a1": "Nơi nhận để thực hiện",
+    "a2": "Nơi nhận để kiểm tra, giám sát, báo cáo, trao đổi công việc, để biết",
+    "a3": "Nơi nhận để lưu văn bản",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 478,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, thành phần chính của văn bản định chế, văn bản xử lý công việc cụ thể gồm:",
+    "a1": "Tên loại và trích yếu nội dung văn bản",
+    "a2": "Tên đơn vị ban hành văn bản",
+    "a3": "Chức vụ, họ tên và chữ ký của người có thẩm quyền",
+    "a4": "Tất cả các thành phần trên",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 479,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, thể thức văn bản định chế, văn bản xử lý các công việc cụ thể gồm các thành phần chính nào sau đây?",
+    "a1": "Quốc hiệu và tiêu ngữ",
+    "a2": "Tên đơn vị ban hành văn bản",
+    "a3": "Số, ký hiệu của văn bản",
+    "a4": "Tất cả các thành phần trên",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 480,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trong công tác soạn thảo văn bản, Tiêu ngữ được trình bày với cỡ chữ bao nhiêu?",
+    "a1": "13-14",
+    "a2": "13",
+    "a3": "14",
+    "a4": "15",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 481,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trong soạn thảo văn bản, Quốc hiệu \"CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\" được trình bày bằng chữ in hoa với cỡ chữ là bao nhiêu?",
+    "a1": "12 đến 13",
+    "a2": "13",
+    "a3": "13 đến 14",
+    "a4": "14",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 482,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trong soạn thảo văn bản, Tiêu ngữ \"Độc lập - Tự do - Hạnh phúc\" được trình bày bằng chữ in thường với cỡ chữ là bao nhiêu?",
+    "a1": "13.5",
+    "a2": "13",
+    "a3": "13 đến 14",
+    "a4": "14",
+    "correct": "3",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 483,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trong văn bản nào được ghi học hàm, học vị trước họ tên của người ký?",
+    "a1": "Không ghi học hàm, học vị trong tất cả văn bản",
+    "a2": "Trong tất cả văn bản, nếu người ký có học hàm, học vị",
+    "a3": "Chỉ trong các văn bản giao dịch về lĩnh vực đào tạo, khoa học",
+    "a4": "Trong tất cả văn bản về lĩnh vực đào tạo, khoa học",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 484,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trách nhiệm ký tắt văn bản do Chủ tịch HĐTV, Thành viên HĐTV, Tổng Giám đốc, Phó Tổng Giám đốc ký là của ai?",
+    "a1": "Người đứng đầu đơn vị soạn thảo ký tắt vào văn bản do đơn vị mình soạn thảo để xác nhận kiểm soát về nội dung, thẩm quyền, thể thức, thủ tục ban hành",
+    "a2": "Trưởng Ban Pháp chế ký tắt để xác nhận kiểm về mặt pháp lý đối với văn bản ký kết với các tổ chức, cá nhân trong nước và nước ngoài (hợp đồng, thỏa thuận…) khi có yêu cầu",
+    "a3": "Trưởng ban Định chế tài chính ký tắt để xác nhận kiểm soát về tính chính xác và khớp đúng của văn bản bằng tiếng nước ngoài so với bản dịch tiếng Việt khi có yêu cầu",
+    "a4": "Tất cả các phương án nêu trên",
+    "correct": "4",
+    "source": "Điều 17 Quy định 979/QyĐ-NHNo-PC",
+    "id": 485,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, trường hợp cấp phó được giao phụ trách hoặc điều hành khi ký văn bản thì thực hiện ký như nào?",
+    "a1": "Ký thừa lệnh cấp trưởng (TL)",
+    "a2": "Ký thay cấp trưởng (KT)",
+    "a3": "Ký thay mặt cấp trưởng (TM)",
+    "a4": "Ký thừa ủy quyền cấp trưởng (TUQ)",
+    "correct": "2",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 486,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, văn bản định chế, văn bản xử lý các công việc cụ thể được kết cấu bởi các thành phần chính nào?",
+    "a1": "Nội dung văn bản",
+    "a2": "Dấu đơn vị",
+    "a3": "Nơi nhận",
+    "a4": "Tất cả các thành phần trên",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 487,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, đâu là phông chữ đúng được sử dụng trong soạn thảo văn bản theo quy định của Agribank?",
+    "a1": "Phông chữ tiếng Việt Time New Roman, bộ mã ký tự Unicode theo TCVN 6909:2001, màu đen",
+    "a2": "Phông chữ tiếng Việt Time New Roman, bộ mã ký tự VNI theo TCVN 6909:2001, màu đen",
+    "a3": "Phông chữ tiếng Việt Time New Roman, bộ mã ký tự TCVN(3)ABC theo TCVN 6909:2001, màu đen",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 488,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, địa danh ghi trên văn bản được xác định như nào?",
+    "a1": "Là tên địa phương nơi đơn vị ban hành văn bản đóng trụ sở",
+    "a2": "Là địa bàn hoạt động của đơn vị ban hành văn bản",
+    "a3": "Là tên gọi chính thức của đơn vị hành chính nơi đơn vị ban hành văn bản đóng trụ sở, phù hợp với phạm vi hoạt động của đơn vị ban hành",
+    "a4": "Là tên địa phương - nơi đơn vị trực tiếp quản lý của đơn vị ban hành văn bản đóng trụ sở, phù hợp với phạm vi hoạt động của đơn vị ban hành",
+    "correct": "3",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 489,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định 979/QyĐ-NHNo-PC ngày 25/4/2023, định lề trang trong văn bản được quy định:",
+    "a1": "Cách mép trên và mép dưới 20-25mm, cách mép trái 30-35mm, cách mép phải 15-20mm",
+    "a2": "Cách mép trên và mép dưới 25mm, cách mép trái 30mm, cách mép phải 15-20mm",
+    "a3": "Cách mép trên và mép dưới 25-30mm, cách mép trái 25-30mm, cách mép phải 15-20mm",
+    "a4": "",
+    "correct": "1",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 490,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, người lao động của Agribank sử dụng đồng phục từ ngày thứ 2 đến thứ 4 là:",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 1 Điều 7 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 491,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, những trang phục nào không được sử dụng trong thời gian làm việc đối với người quản lý, người lao động là nam của Agribank?",
+    "a1": "Áo phông không cổ, quần sooc",
+    "a2": "Quần áo màu sắc sặc sỡ",
+    "a3": "Cả đáp án 1 và 2",
+    "a4": "",
+    "correct": "3",
+    "source": "Khoản 1 Điều 6 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 492,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, những trang phục nào không được sử dụng trong thời gian làm việc đối với người quản lý, người lao động là nữ của Agribank?",
+    "a1": "Quần áo quá bó, cổ áo quá rộng",
+    "a2": "Chân váy quá ngắn, xẻ quá cao",
+    "a3": "Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức",
+    "a4": "Cả đáp án 1 và 2",
+    "correct": "4",
+    "source": "Khoản 2 Điều 4 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 493,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, Đồng phục đối với nam được quy định thế nào?",
+    "a1": "Quần âu màu đen hoặc xanh đen. Giày công sở hoặc dép có quai hậu màu đen; thắt lưng màu đen",
+    "a2": "Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức, áo bỏ trong quần. Áo vest màu đen hoặc xanh đen cùng màu với màu quần. Caravat màu đỏ booc đô",
+    "a3": "Quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức, áo bỏ trong quần. Áo vest màu đen hoặc xanh đen cùng màu với màu quần. Caravat màu đỏ booc đô. Giày công sở hoặc dép có quai hậu màu đen; thắt lưng màu đen",
+    "a4": "Quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức, áo bỏ ngoài quần. Áo vest màu đen hoặc xanh đen cùng màu với màu quần. Caravat màu đỏ. Giày công sở hoặc dép có quai hậu màu đen; thắt lưng màu đen.",
+    "correct": "3",
+    "source": "Điểm a Khoản 1 Điều 4 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 494,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, đối tượng nào sau đây được sử dụng trang phục tự chọn lịch sự, trang nhã, phù hợp với công sở vào ngày làm việc thứ 6 hàng tuần theo quy định của Thủ trưởng đơn vị?",
+    "a1": "Người lao động tại các bộ phận không trực tiếp giao dịch với khách hàng",
+    "a2": "Người lao động tại các bộ phận trực tiếp giao dịch với khách hàng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 1 Điều 7 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 495,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, đồng phục làm việc đối với nữ lao động trong thời gian mang thai tại Agribank được quy định như thế nào?",
+    "a1": "Chân váy ngang gối trở xuống hoặc quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay",
+    "a2": "Váy liền: phần thân trên áo màu trắng trơn, dài hoặc ngắn tay; phần thân dưới (chân váy) ngang gối trở xuống màu đen hoặc xanh đen",
+    "a3": "Chân váy ngang gối trở lên hoặc quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay",
+    "a4": "Cả đáp án 1 và 2",
+    "correct": "4",
+    "source": "Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 496,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, đồng phục đối với nam được quy định thế nào trong Quy định về trang phục trong hệ thống Agribank?",
+    "a1": "Quần âu màu đen hoặc xanh đen. Giày công sở hoặc dép có quai hậu màu đen; thắt lưng màu đen",
+    "a2": "Caravat màu đỏ booc đô",
+    "a3": "Cả đáp án 1 và 2",
+    "a4": "",
+    "correct": "3",
+    "source": "Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 497,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021, đồng phục đối với nữ được quy định thế nào trong Quy định về trang phục trong hệ thống Agribank?",
+    "a1": "Chân váy ngang gối trở lên hoặc quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức, áo bỏ trong chân váy/quần.",
+    "a2": "Chân váy ngang gối trở xuống hoặc quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay, cổ Đức, áo bỏ trong chân váy/quần.",
+    "a3": "Chân váy ngang gối trở lên hoặc quần âu màu đen hoặc xanh đen. Áo sơ mi trắng trơn, dài hoặc ngắn tay.",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm b Khoản 1 Điều 4 Quy định số 238/QĐ-HĐTV-TTh ngày 07/5/2021",
+    "id": 498,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023, quy cách đánh số trang văn bản là:",
+    "a1": "Trang văn bản được đánh từ số 1, bằng chữ số Ả rập,",
+    "a2": "Cỡ chữ 13 đến 14, kiểu chữ đứng,",
+    "a3": "Chữ được đặt canh giữa theo chiều ngang trong phần lề trên của văn bản, không hiển thị số trang thứ nhất",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023 của TGĐ",
+    "id": 499,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, Quy tắc \"Lành mạnh\" ứng xử trên mạng xã hội là:",
+    "a1": "Hành vi, ứng xử trên mạng xã hội phù hợp với các giá trị đạo đức, văn hóa, truyền thống tốt đẹp của dân tộc Việt Nam.",
+    "a2": "Hành vi, ứng xử trên mạng xã hội phù hợp với truyền thống của dân tộc Việt Nam.",
+    "a3": "Hành vi, ứng xử trên mạng xã hội phù hợp tập quán dân tộc Việt Nam.",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 3, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 500,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, mục đích của việc ban hành Bộ quy tắc ứng xử trên mạng xã hội?",
+    "a1": "Nhằm tạo điều kiện phát triển lành mạnh mạng xã hội tại Việt Nam",
+    "a2": "Đảm bảo quyền tự do cá nhân, quyền tự do kinh doanh, không phân biệt đối xử nhà cung cấp dịch vụ trong và ngoài nước, phù hợp với chuẩn mực, thông lệ và các điều ước quốc tế mà Việt Nam đã tham gia",
+    "a3": "Giáo dục ý thức, tạo thói quen tích cực trong các hành vi ứng xử của người dùng trên mạng xã hội, góp phần xây dựng môi trường mạng an toàn, lành mạnh tại Việt Nam.",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 1, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 501,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, nội dung nào không phải là mục đích của việc ban hành Bộ quy tắc ứng xử trên mạng xã hội?",
+    "a1": "Nhằm đảm bảo môi trường kinh doanh online an toàn, hiệu quả",
+    "a2": "Nhằm tạo điều kiện phát triển lành mạnh mạng xã hội tại Việt Nam",
+    "a3": "Xây dựng chuẩn mực đạo đức về hành vi, ứng xử trên mạng xã hội",
+    "a4": "Giáo dục ý thức, tạo thói quen tích cực trong các hành vi ứng xử của người dùng trên mạng xã hội",
+    "correct": "1",
+    "source": "Điều 1, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 502,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, quy tắc nào không thuộc Quy tắc ứng xử chung trên mạng xã hội?",
+    "a1": "Tôn trọng",
+    "a2": "Lành mạnh",
+    "a3": "Trách nhiệm",
+    "a4": "Công bằng",
+    "correct": "4",
+    "source": "Điều 3, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 503,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, quy tắc ứng xử chung trên mạng xã hội bao gồm?",
+    "a1": "Tôn trọng; Lành mạnh; An toàn, bảo mật thông tin; Trách nhiệm.",
+    "a2": "Tôn trọng; Lành mạnh; An toàn; Trách nhiệm.",
+    "a3": "Tôn trọng; Lành mạnh; Bảo mật thông tin; Trách nhiệm.",
+    "a4": "Tôn trọng; Lành mạnh; An toàn, bảo mật thông tin; Trách nhiệm. Công bằng",
+    "correct": "1",
+    "source": "Điều 3, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 504,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, Đối tượng nào áp dụng tại Bộ quy tắc ứng xử trên mạng xã hội?",
+    "a1": "Cơ quan nhà nước, cán bộ, công chức, viên chức, người lao động trong cơ quan nhà nước sử dụng mạng xã hội",
+    "a2": "Cán bộ, công chức, viên chức, người lao động trong cơ quan nhà nước sử dụng mạng xã hộ",
+    "a3": "Tổ chức, cá nhân khác sử dụng mạng xã hội",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 2, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 505,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/06/2021, đâu là quy tắc ứng xử đối với các cơ quan nhà nước trên mạng xã hội?",
+    "a1": "Công bố rõ ràng các điều khoản sử dụng dịch vụ, bao gồm tất cả các quyền và nghĩa vụ của nhà cung cấp dịch vụ và người sử dụng.",
+    "a2": "Ban hành và công khai các biện pháp phát hiện, thông báo và phối hợp với các cơ quan chức năng để xử lý, ngăn chặn và loại bỏ các nội dung thông tin vi phạm bản quyền, vi phạm pháp luật",
+    "a3": "Cung cấp thông tin trên mạng xã hội đồng bộ, thống nhất với thông tin đã được cung cấp trên các phương tiện truyền thông chính thống khác.",
+    "a4": "Tôn trọng quyền được bảo vệ thông tin của người sử dụng, không thu thập thông tin cá nhân và cung cấp thông tin của người sử dụng dịch vụ cho bên thứ ba",
+    "correct": "3",
+    "source": "Điều 6, QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 506,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định 874/QĐ-BTTTT ngày 17/6/2021, hành vi nào được khuyến khích khi sử dụng mạng xã hội?",
+    "a1": "Chia sẻ những thông tin có nguồn chính thống, đáng tin cậy.",
+    "a2": "Sử dụng mạng xã hội để tuyên truyền, quảng bá về đất nước - con người, văn hóa tốt đẹp của Việt Nam, chia sẻ thông tin tích cực, những tấm gương người tốt, việc tốt.",
+    "a3": "Đáp án 1 và 2.",
+    "a4": "Cung cấp, chia sẻ đường dẫn đến thông tin trên mạng có nội dung bị cấm",
+    "correct": "2",
+    "source": "Điều 4 QĐ số 874/QĐ-BTTTT về Quy tắc ứng xử trên mạng xã hội",
+    "id": 507,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, hệ thống tự động xóa sau bao nhiêu ngày kể từ ngày hết hạn đọc tài liệu lưu trữ số của người dùng?",
+    "a1": "5 ngày",
+    "a2": "10 ngày",
+    "a3": "15 ngày",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm đ khoản 2 Điều 31 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 19)",
+    "id": 508,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, không số hóa tài liệu thuộc danh mục bí mật khi chưa được giải mật là đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm b khoản 2 Điều 22 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 14)",
+    "id": 509,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, lập mục lục văn bản đối với hồ sơ lưu trữ vĩnh viễn và những hồ sơ có thời hạn bảo quản khi được người có thẩm quyền quy định là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm c khoản 2 Điều 6 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 5)",
+    "id": 510,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, thời hạn nộp hồ sơ, tài liệu số vào lưu trữ hiện hành trên hệ thống trong thời gian bao nhiêu ngày kể từ ngày kết thúc công việc?",
+    "a1": "80 ngày",
+    "a2": "70 ngày",
+    "a3": "60 ngày",
+    "a4": "",
+    "correct": "3",
+    "source": "Khoản 1 Điều 24 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 511,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, tài liệu lưu trữ số hóa từ tài liệu lưu trữ giấy yêu cầu độ phân giải bao nhiêu dpi đối với tài liệu bản đồ, bản vẽ?",
+    "a1": "400 dpi",
+    "a2": "500dpi",
+    "a3": "300 dpi",
+    "a4": "",
+    "correct": "3",
+    "source": "Điểm a khoản 2 Điều 23 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 512,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, tài liệu lưu trữ số hóa từ tài liệu lưu trữ giấy yêu cầu độ phân giải bao nhiêu dpi đối với tài liệu hành chính?",
+    "a1": "200 dpi",
+    "a2": "300 dpi",
+    "a3": "400 dpi",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm a khoản 2 Điều 23 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 513,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, tài liệu lưu trữ số hóa từ tài liệu lưu trữ giấy: định dạng PDF/A hai lớp và độ sâu màu tối thiểu bao nhiêu bit?",
+    "a1": "25 bit",
+    "a2": "24 bit",
+    "a3": "26 bit",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm a khoản 2 Điều 23 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 514,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, tài liệu lưu trữ số hóa từ tài liệu lưu trữ ảnh (dương bản) hoặc phim âm bản có định dạng độ phân giải tối thiểu bao nhiêu dpi?",
+    "a1": "400 dpi",
+    "a2": "300 dpi",
+    "a3": "200 dpi",
+    "a4": "",
+    "correct": "3",
+    "source": "Điểm b khoản 2 Điều 23 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 515,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026, tài liệu lưu trữ số và cơ sở dữ liệu tài liệu lưu trữ phải được sao lưu ít nhất bao nhiêu bộ?",
+    "a1": "4 bộ",
+    "a2": "2 bộ",
+    "a3": "3 bộ",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 1 Điều 27 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 16)",
+    "id": 516,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, Quy tắc ứng xử của cán bộ ngân hàng với khách hàng và đối tác được quy định như nào?",
+    "a1": "Phong cách giao dịch chuyên nghiệp, thân thiện; tác phong nhanh nhẹn, chu đáo, thái độ niềm nở, tận tình, tạo ấn tượng tích cực, sự tin tưởng đối với khách hàng và đối tác",
+    "a2": "Trang phục gọn gàng, lịch sự, có thái độ nghiêm túc, đúng mực trong lúc làm việc, tôn trọng và đối xử công bằng với đối tác và khách hàng, giải quyết công việc đúng nguyên tắc, có lý, có tình",
+    "a3": "Không thiên vị, không gây phiền hà, nhũng nhiễu khách hàng và đối tác, tránh các hành động dẫn đến xung đột lợi ích, ảnh hưởng không tốt đến quan hệ với khách hàng và đối tác",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 517,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, tính đặc thù của hoạt động ngân hàng đòi hỏi cán bộ ngân hàng phải có?",
+    "a1": "Phẩm chất đạo đức tốt",
+    "a2": "Bản lĩnh vững vàng trước mọi cám dỗ",
+    "a3": "Trách nhiệm cao để giữ được sự tín nhiệm và lòng tin của khách hàng, đối tác, uy tín của ngân hàng mình và của ngành ngân hàng đối với xã hội",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 3 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 518,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, đâu không phải là chuẩn mực đạo đức nghề nghiệp của cán bộ ngân hàng?",
+    "a1": "Sự cẩn trọng",
+    "a2": "Sự liêm chính",
+    "a3": "Sự tận tâm và chuyên cần",
+    "a4": "Sự trung thành",
+    "correct": "4",
+    "source": "Điều 4 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 519,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, ứng xử của cán bộ cấp dưới với cấp trên phải đảm bảo nguyên tắc nào?",
+    "a1": "Phải chấp hành nghiêm sự phân công nhiệm vụ, tôn trọng và ứng xử đúng mực đối với cấp trên",
+    "a2": "Thực hiện đúng phận sự, không được có những hành vi gây tổn hại đến uy tín của cấp trên",
+    "a3": "Mạnh dạn bày tỏ chính kiến, tham mưu, thuyết phục cấp trên khi cần thiết để tránh sai sót, rủi ro trong quá trình xử lý công việc",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 520,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, ứng xử của cán bộ cấp trên với cấp dưới phải đảm bảo nguyên tắc nào?",
+    "a1": "Cần tôn trọng, lắng nghe, khuyến khích cấp dưới bày tỏ quan điểm, ý kiến; luôn gương mẫu trong cư xử, tạo không khí hòa đồng, cởi mở, động viên, khích lệ, đối xử công bằng, bình đẳng đối với cấp dưới",
+    "a2": "Chủ động hỗ trợ cấp dưới giải quyết khó khăn, vướng mắc; bảo vệ quyền lợi chính đáng của cấp dưới; không trù dập, phân biệt đối xử, làm tổn hại đến danh dự của cấp dưới",
+    "a3": "Không lợi dụng chức vụ, địa vị sử dụng thông tin, bí quyết, cơ hội kinh doanh và tài sản của ngân hàng để thu lợi cá nhân hoặc làm tổn hại đến lợi ích của ngân hàng",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 521,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo QĐ 11/QĐ-HHNH ngày 25/02/2019, ứng xử của cán bộ đồng cấp phải thực hiện theo nguyên tắc nào?",
+    "a1": "Cần giữ gìn đoàn kết nội bộ, có tinh thần tập thể, tôn trọng, tin cậy, hỗ trợ, giúp đỡ lẫn nhau.",
+    "a2": "Lắng nghe ý kiến của đồng nghiệp, khiêm nhường tiếp thu học hỏi kinh nghiệm của đồng nghiệp; góp ý, phân tích trên tinh thần xây dựng",
+    "a3": "Không lợi dụng quan hệ cá nhân đồng nghiệp để thực hiện hành vi gian lận.",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 522,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Agribank chi hỗ trợ cho cán bộ điều trị bệnh, chấn thương do tai nạn gồm:",
+    "a1": "Bệnh thuộc danh mục bệnh hiểm nghèo quy định tại Nghị định số 134/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu",
+    "a2": "Bệnh thuộc danh mục bệnh cần chữa trị dài ngày theo Thông tư số 46/2016/TT-BYT ngày 30/12/2016 của Bộ Y tế về ban hành danh mục bệnh cần chữa trị dài ngày;",
+    "a3": "Bệnh cấp tính, phẫu thuật, chấn thương do tai nạn",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 3, điều 19,Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 523,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Agribank không chi ăn giữa ca trong các trường hợp nào sau đây?",
+    "a1": "Ngày không làm việc, ngày làm việc không đủ số giờ làm việc tiêu chuẩn (dưới 50% số giờ làm việc bình thường của ngày làm việc)",
+    "a2": "Nghỉ phép, nghỉ bù, nghỉ không hưởng lương, nghỉ hưởng Bảo hiểm xã hội khác",
+    "a3": "Tham dự các lớp đào tạo tập trung của Agribank (hoặc đơn vị ngoài Agribank mà chi phí tham dự đã bao gồm tiền ăn trưa) có thời gian trên 05 ngày đào tạo",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 1, điều 15, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 524,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Cán bộ được Agribank cử đi học tập, công tác ngắn hạn ở nước ngoài có thời gian ở nước ngoài là bao nhiêu ngày cho một đợt công tác?",
+    "a1": "Tối đa 180 ngày",
+    "a2": "Tối đa 190 ngày",
+    "a3": "Tối đa 200 ngày",
+    "a4": "Tối đa 210 ngày",
+    "correct": "1",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 525,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Công tác phí là khoản chi phí trả cho cán bộ đi công tác, bao gồm các khoản nào sau đây?",
+    "a1": "Tiền phương tiện đi lại, bao gồm cả cước hành lý, tài liệu mang theo để làm việc (nếu có)",
+    "a2": "Phụ cấp lưu trú",
+    "a3": "Tiền thuê phòng nghỉ nơi đến công tác",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 526,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Hồ sơ thanh toán văn phòng phẩm dùng chung cho đơn vị gồm:",
+    "a1": "Giấy đề nghị thanh toán",
+    "a2": "Bảng tổng hợp kèm đề nghị/dự trù của các bộ phận",
+    "a3": "Hóa đơn, chứng từ và hồ sơ, tài liệu khác có liên quan (nếu có)",
+    "a4": "Tất cả các hồ sơ trên",
+    "correct": "4",
+    "source": "Mục 1.5 Điều 12, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 527,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Hồ sơ thanh toán văn phòng phẩm khoán bao gồm:",
+    "a1": "Giấy đề nghị thanh toán kèm danh sách cán bộ, bộ phận được khoán của bộ phận hành chính",
+    "a2": "Danh sách chi tiền (có ký nhận nếu chi bằng tiền mặt)",
+    "a3": "Tất cả các hồ sơ trên",
+    "a4": "",
+    "correct": "3",
+    "source": "Mục 1.5 Điều 12, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 528,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Khi mua hàng hóa, dịch vụ có giá trị từ bao nhiêu trở lên mỗi lần phải có hóa đơn theo quy định của Bộ Tài chính?",
+    "a1": "400.000đ",
+    "a2": "200.000đ",
+    "a3": "250.000đ",
+    "a4": "300.000đ",
+    "correct": "2",
+    "source": "Tiết a, điểm 2.2, K2 Điều 3 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 529,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Mức chi phúc lợi đối với đám hiếu của người thân cán bộ Agribank (gồm: vợ (hoặc chồng), con, bố mẹ (tứ thân phụ mẫu) tối đa là 2.000.000đ/người là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 530,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Nhận định sau đây là đúng hay sai: \"Khoản chi mua hàng hóa, dịch vụ từng lần phải có giá trị từ 30 triệu đồng trở lên (đã bao gồm thuế giá trị gia tăng) thì đơn vị phải ký Hợp đồng và thực hiện thanh toán không dùng tiền mặt?\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Tiết b, điểm 2.2, K2, Điều 3 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 531,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Nhận định sau đây là đúng hay sai? \"Cán bộ được thanh toán công tác phí đối với những ngày làm việc riêng trong thời gian đi công tác\"",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 532,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Trong thời gian đi công tác, chi phí y tế phát sinh trong quá trình điều trị do hậu quả của ốm đau, bệnh tất hay tai nạn bất ngờ (loại trừ các bệnh có sẵn) không nằm trong các khoản thanh toán công tác phí là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 533,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, chi bồi dưỡng tiêu hủy ấn chỉ quan trọng, chứng từ theo quy định là mức nào?",
+    "a1": "Tối đa 100.000 đồng/ngày/người",
+    "a2": "200.000 đồng/ngày/người",
+    "a3": "300.000 đồng/ngày/người",
+    "a4": "400.000 đồng/ngày/người",
+    "correct": "1",
+    "source": "Điều 13 khoản 5, Vb 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 534,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, cá nhân đi công tác nước ngoài được thanh toán các khoản nào sau đây?",
+    "a1": "Lệ phí thị thực, lệ phí cấp hộ chiếu",
+    "a2": "Lệ phí sân bay trong và ngoài nước (nếu có)",
+    "a3": "Tiền đóng góp tham gia (tham dự) hội nghị, hội thảo (bao gồm cả tiền mua tài liệu nếu có)",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Điều 5 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 535,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, các khoản nào sau đây không được thanh toán cho cá nhân đi công tác nước ngoài?",
+    "a1": "Tiền bảo hiểm y tế (chăm sóc sức khỏe)",
+    "a2": "Tiền chờ đợi tại sân bay",
+    "a3": "Tiền thuê phương tiện từ sân bay, ga tàu, bến xe, cửa khẩu khi nhập cảnh đến nơi ở nước đến công tác và ngược lại khi xuất cảnh",
+    "a4": "Tiền đi du lịch vào ngày nghỉ",
+    "correct": "4",
+    "source": "Điều 4, Điều 5 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 536,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, các khoản nào sau đây được thanh toán cho cá nhân đi công tác nước ngoài?",
+    "a1": "Tiền thuê phòng nghỉ ở nước đến công tác",
+    "a2": "Tiền ăn và tiêu vặt ở nước đến công tác",
+    "a3": "Lệ phí sân bay trong và ngoài nước (nếu có)",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Điều 5 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 537,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, các khoản thanh toán chung cho đoàn công tác nước ngoài gồm:",
+    "a1": "Tiền cước hành lý, tài liệu mang theo phục vụ cho đoàn công tác",
+    "a2": "Tiền điện thoại, fax, internet",
+    "a3": "Tiền thuê dịch thuật: chỉ thực hiện trong trường hợp Agribank không bố trí được cán bộ làm phiên dịch, dịch tài liệu",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 538,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, các nội dung nào sau đây thuộc chi phí tổ chức Hội nghị?",
+    "a1": "Tiền thuê hội trường, thiết bị trực tiếp phục vụ Hội nghị",
+    "a2": "Chi tiền ăn, tiền thuê phòng nghỉ, phương tiện đi lại cho đại biểu là khách mời ngoại ngành",
+    "a3": "Chi thù lao cho giảng viên, chi bồi dưỡng cho báo cáo viên, chi bồi dưỡng người có báo cáo tham luận trình bày tại Hội nghị",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 3, Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 539,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, các trường hợp nào sau đây KHÔNG được thanh toán công tác phí?",
+    "a1": "Thời gian điều trị tại bệnh viện",
+    "a2": "Những ngày làm việc riêng trong thời gian đi công tác",
+    "a3": "Những ngày đi du lịch kết hợp trong chuyến công tác",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 540,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, cán bộ nghỉ không hưởng lương dài ngày (cả năm) không được chi trang phục giao dịch, phương tiện làm việc cá nhân là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 3.3, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 541,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, căn cứ tính chất công việc, yêu cầu đối ngoại, mức chi mua quà tặng cho cá nhân là 2.000.000đồng/người (đối với lãnh đạo) là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 542,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, căn cứ tính chất công việc, yêu cầu đối ngoại, mức chi mua quà tặng cho cá nhân là 2.000.000đồng/người (đối với đối tượng khác, không phải là lãnh đạo đơn vị) là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 543,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, căn cứ tính chất công việc, yêu cầu đối ngoại, mức chi mua quà tặng cho tập thể là 6.000.000đồng/đối tác là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 544,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, căn cứ xây dựng định mức khoán văn phòng phẩm là:",
+    "a1": "Yêu cầu sử dụng của từng đối tượng cán bộ, tính chất nghiệp vụ của từng bộ phận",
+    "a2": "Đơn giá từng loại văn phòng phẩm tại địa phương",
+    "a3": "Chi phí thực tế phát sinh hàng tháng/quý/năm cho các đối tượng cá nhân, phòng/ban hoặc dùng chung cho cơ quan trong năm trước liền kề",
+    "a4": "Tất cả các căn cứ trên",
+    "correct": "4",
+    "source": "Điều 12, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 545,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, hồ sơ quyết toán chi phí tổ chức Hội nghị cần có giấy tờ nào sau đây?",
+    "a1": "Giấy đề nghị thanh toán;",
+    "a2": "Tờ trình hoặc văn bản (kế hoạch) tổ chức hội nghị của đơn vị chuyên môn được người có thẩm quyền phê duyệt nêu rõ sự cần thiết, nội dung hội nghị, địa điểm tổ chức, thời gian tổ chức, số lượng đại biểu tham gia….",
+    "a3": "Bảng Tổng hợp quyết toán chi phí",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 4, Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 546,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, khoản chi mua hàng hóa, dịch vụ từng lần có giá trị từ bao nhiêu trở lên (đã bao gồm thuế giá trị gia tăng) thì đơn vị phải ký Hợp đồng và thực hiện thanh toán không dùng tiền mặt?",
+    "a1": "20 triệu đồng",
+    "a2": "30 triệu đồng",
+    "a3": "40 triệu đồng",
+    "a4": "50 triệu đồng",
+    "correct": "1",
+    "source": "Tiết b, điểm 2.2, K2, Điều 3 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 547,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi bảo hộ lao động trong công tác kiểm ngân, kho quỹ là:",
+    "a1": "Tối đa 2.000.000đ/người/ năm",
+    "a2": "Tối đa 1.500.000đ/người/năm",
+    "a3": "Tối đa 1.000.000đ/người/ năm",
+    "a4": "Tối đa 500.000đ/ người/ năm",
+    "correct": "1",
+    "source": "Khoản 2, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 548,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi cho trang phục giao dịch hàng ngày của cán bộ thuộc hệ thống Agribank tối đa là bao nhiêu?",
+    "a1": "6.000.000đ/người/ năm",
+    "a2": "Tối đa 5.000.000đ/người/năm",
+    "a3": "7.000.000đ/người/ năm",
+    "a4": "8.000.000đ/người/ năm",
+    "correct": "2",
+    "source": "Điều 14, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 549,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi cho trang phục theo hình thức lễ phục (vest, comple, áo dài…) của cán bộ thuộc hệ thống Agribank tối đa là bao nhiêu?",
+    "a1": "Tối đa 12.000.000đ/người/3 năm",
+    "a2": "Tối đa 15.000.000đ/người/ 3 năm",
+    "a3": "Tối đa 12.000.000đ/người/ năm",
+    "a4": "Tối đa 10.000.000đ/người/năm",
+    "correct": "1",
+    "source": "Điều 14, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 550,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi khám sức khỏe định kỳ hàng năm cho cán bộ là nam giới dưới 55 tuổi (không thuộc đối tượng  công việc nặng nhọc, độc hại, người khuyết tật) tối đa là bao nhiêu?",
+    "a1": "Tối đa 4.000.000đ/người/ năm",
+    "a2": "Tối đa 5.000.000đ/người/ năm",
+    "a3": "Tối đa 6.000.000đ/người/ năm",
+    "a4": "Tối đa 5.500.000đ/người/ năm",
+    "correct": "1",
+    "source": "Điều 16, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 551,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi phúc lợi đối với đám hiếu của cán bộ Agribank tối đa là bao nhiêu?",
+    "a1": "Tối đa 4.000.000đ/người",
+    "a2": "Tối đa 3.000.000đ/người",
+    "a3": "Tối đa 2.000.000đ/người",
+    "a4": "Tối đa 5.000.000đ/người",
+    "correct": "3",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 552,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi phúc lợi đối với đám hiếu của người thân cán bộ Agribank (gồm: vợ (hoặc chồng), con, bố mẹ (tứ thân phụ mẫu) tối đa là bao nhiêu?",
+    "a1": "Tối đa 4.000.000đ/người",
+    "a2": "Tối đa 3.000.000đ/người",
+    "a3": "Tối đa 2.000.000đ/người",
+    "a4": "Tối đa 1.000.000đ/người",
+    "correct": "4",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 553,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi phúc lợi đối với đám hỷ của cán bộ Agribank là 4.000.000đ/người là đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 554,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi trang cấp cho cán bộ y tế cơ quan tối đa là 1.000.000d/người/năm là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 14, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 555,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi trang cấp cặp tài liệu cho cán bộ làm công tác tín dụng là:",
+    "a1": "Tối đa 500.000đ/người/2 năm",
+    "a2": "Tối đa 500.000đ/người/năm",
+    "a3": "Tối đa 350.000đ/người/năm",
+    "a4": "Tối đa 250.000đ/ người/ năm",
+    "correct": "1",
+    "source": "Khoản 2, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 556,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi trang cấp mũ bảo hiểm xe máy cho cán bộ làm công tác tín dụng là:",
+    "a1": "Tối đa 500.000đ/người/2 năm",
+    "a2": "Tối đa 500.000đ/người/năm",
+    "a3": "Tối đa 350.000đ/người/năm",
+    "a4": "Tối đa 350.000đ/ người/2 năm",
+    "correct": "4",
+    "source": "Khoản 2, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 557,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi trang cấp quần, áo đi mưa cho cán bộ làm công tác tín dụng là:",
+    "a1": "Tối đa 150.000đ/người/năm",
+    "a2": "Tối đa 200.000đ/người/năm",
+    "a3": "Tối đa 250.000đ/người/năm",
+    "a4": "Tối đa 350.000đ/ người/ năm",
+    "correct": "1",
+    "source": "Khoản 2, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 558,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi trang trí hội trường, thuê thiết bị, phương tiện phục vụ (nếu có) khi tổ chức Hội nghị là:",
+    "a1": "Dưới 10.000.000đ/hội nghị",
+    "a2": "8.000.000đ/hội nghị",
+    "a3": "5.000.000đ/hội nghị",
+    "a4": "Thanh toán theo thực tế phát sinh",
+    "correct": "4",
+    "source": "Khoản 3, Điều 6, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 559,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi tối đa hỗ trợ gia đình cán bộ bị ảnh hưởng bởi tai nạn, ốm đau là:",
+    "a1": "Tối đa 1.000.000đ/năm/người thân của cán bộ",
+    "a2": "Tối đa 2.000.000đ/năm/người thân của cán bộ",
+    "a3": "Tối đa 5.000.000đ/gia đình/năm",
+    "a4": "Tối đa 3.000.000đ/ người/ năm",
+    "correct": "1",
+    "source": "Khoản 4, điều 19, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 560,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức chi tối đa hỗ trợ gia đình cán bộ bị ảnh hưởng bởi thiên tai, địch họa là:",
+    "a1": "Tối đa 10.000.000đ/gia đình/năm",
+    "a2": "Tối đa 5.000.000đ/người/năm",
+    "a3": "Tối đa 5.000.000đ/gia đình/năm",
+    "a4": "Tối đa 7.000.000đ/gia đình/năm",
+    "correct": "1",
+    "source": "Khoản 4, điều 19, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 561,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, mức phụ cấp lưu trú tối đa đối với cán bộ ở đất liền được cử đi công tác tại đơn vị trên đảo hoặc cán bộ ở đảo đi công tác về đất liền thì được hưởng mức phụ cấp lưu trú tối đa là bao nhiêu?",
+    "a1": "450.000đ/người/ngày",
+    "a2": "500.000đ/người/ngày",
+    "a3": "350.000đ/người/ngày",
+    "a4": "400.000đ/người/ ngày",
+    "correct": "3",
+    "source": "Khoản 5.2, Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 562,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nguyên tắc chi lễ tân khánh tiết (bao gồm các khoản chi phí phục vụ cho việc tiếp khách của Agribank) là:",
+    "a1": "Việc tiếp khách chỉ thực hiện khi có phê duyệt chủ trương của người có thẩm quyền",
+    "a2": "Các đơn vị phải thực hành tiết kiệm trong việc chi tiếp khách, việc tổ chức tiếp khách phải đơn giản, không phô trương, không hình thức",
+    "a3": "Mọi khoản chi tiếp khách phải đúng chế độ, đúng tiêu chuẩn theo quy định, đảm bảo công khai, minh bạch",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 3, Điều 12, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 563,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, người đi công tác được thanh toán tiền thuê phương tiện đi lại nào sau đây?",
+    "a1": "Chi phí chiều đi và về từ trụ sở cơ quan đến sân bay, ga tàu, bến xe",
+    "a2": "Chi phí vé máy bay, vé tàu, xe vận tải công cộng đến nơi công tác và theo chiều ngược lại",
+    "a3": "Chi phí đi lại tại địa phương nơi đến công tác",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 564,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nhận định sau đây là đúng hay sai: \"Mức chi cho trang phục theo hình thức lễ phục (vest, comple, áo dài…) của cán bộ thuộc hệ thống Agribank tối đa là 10.000.000đ/người/3 năm?\"",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 14, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 565,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nhận định sau đây là đúng hay sai? \"Khi mua hàng hóa, dịch vụ có giá trị từ 190.000 đồng - dưới 200.000 đồng, mỗi lần phải có hóa đơn theo quy định của Bộ Tài chính\"?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Tiết a, điểm 2.2, K2 Điều 3 Văn bản 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 566,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nhận định sau đây là đúng hay sai? \"Mức chi cho trang phục giao dịch hàng ngày của cán bộ thuộc hệ thống Agribank tối đa là 7.000.000đ/người/năm?\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 14, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 567,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nhận định sau đây là đúng hay sai? \"Định kỳ 04 năm, cá nhân được thanh lý điện thoại di động cũ, đồng thời được trang cấp điện thoại di động mới nếu điện thoại cũ không còn khả năng sử dụng hoặc không phù hợp với yêu cầu nhiệm vụ\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Điều 9, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 568,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, nội dung khám sức khỏe định kỳ hàng năm cho cán bộ gồm:",
+    "a1": "Khám chuyên khoa (nội, mắt, tai mũi họng, răng hàm mặt, da liễu, phụ sản)",
+    "a2": "Siêu âm",
+    "a3": "Chụp X-quang",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 2, Điều 16, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 569,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, phương thức chi nghỉ mát cho cán bộ Agribank là:",
+    "a1": "Đơn vị tổ chức đoàn nghỉ mát cho cán bộ",
+    "a2": "Thanh toán bằng tiền mặt cho cán bộ tự tổ chức nghỉ mát",
+    "a3": "Cả đáp án 1 và 2",
+    "a4": "",
+    "correct": "3",
+    "source": "Điều 19, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 570,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, phương thức tổ chức Hội nghị gồm:",
+    "a1": "Tập trung họp trực tiếp hoặc tổ chức họp trực tuyến, đảm bảo phù hợp với yêu cầu riêng từng cuộc họp",
+    "a2": "Thời gian tổ chức hội nghị bao gồm thời gian tổ chức tại hội trường và thời gian khảo sát thực tế (nếu có)",
+    "a3": "Việc phân bổ thời gian Hội nghị phải đảm bảo nguyên tắc năng suất lao động, tiết kiệm thời gian và hiệu quả. Tuyệt đối không kết hợp hội nghị để tổ chức tham quan, nghỉ mát hoặc lợi dụng, lấy danh nghĩa tổ chức hội nghị để tổ chức tham quan, nghỉ mát",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 6, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 571,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, thời gian tổ chức 01 Hội nghị tối đa không quá bao nhiêu ngày làm việc?",
+    "a1": "Không quá 3,5 ngày",
+    "a2": "Không quá 02 ngày",
+    "a3": "Không quá 2,5 ngày",
+    "a4": "Không quá 03 ngày",
+    "correct": "2",
+    "source": "Điều 6, Quy định 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 572,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, thủ tục thanh toán chi phí trang cấp điện thoại gồm:",
+    "a1": "Giấy đề nghị thanh toán",
+    "a2": "Hóa đơn, chứng từ mua sắm, trang cấp điện thoại",
+    "a3": "Hồ sơ, chứng từ khác có liên quan (nếu có)",
+    "a4": "Tất cả các phương án trên",
+    "correct": "4",
+    "source": "Điều 9, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 573,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, trang cấp Điện thoại di động theo định mức chi phí công cụ dụng cụ được sử dụng trong thời hạn bao lâu?",
+    "a1": "06 năm",
+    "a2": "03 năm",
+    "a3": "04 năm",
+    "a4": "05 năm",
+    "correct": "2",
+    "source": "Điều 9, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 574,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, trong vòng bao nhiêu ngày kể từ khi về nước, thì đoàn đi công tác nước ngoài phải gửi báo cáo quyết toán của đoàn kèm theo đầy đủ chứng từ hợp pháp, hợp lệ để thanh toán tạm ứng?",
+    "a1": "15 ngày",
+    "a2": "20 ngày",
+    "a3": "25 ngày",
+    "a4": "30 ngày",
+    "correct": "1",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 575,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, trường hợp hội nghị có nội dung về thi đua khen thưởng, tuyên truyền quảng cáo, tiếp thị…, đơn vị được quyết toán các khoản chi phí này vào chi phí tổ chức hội nghị là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 3, Điều 6, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 576,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, văn phòng phẩm dùng chung cho đơn vị được cấp phát theo thực tế sử dụng gồm:",
+    "a1": "Mực máy photocopy",
+    "a2": "Mực máy fax",
+    "a3": "Mực máy in",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 12 Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 577,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, Đơn vị phải ký Hợp đồng và thực hiện thanh toán không dùng tiền mặt đối với khoản chi mua hàng hóa, dịch vụ từng lần có giá trị bao nhiêu (đã bao gồm thuế giá trị gia tăng)?",
+    "a1": "20 triệu đồng",
+    "a2": "30 triệu đồng",
+    "a3": "40 triệu đồng",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Tiết b, điểm 2.2, K2, Điều 3 Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 578,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, điều kiện thanh toán công tác phí nước ngoài gồm:",
+    "a1": "Quyết định cử đi công tác của Agribank",
+    "a2": "Thực hiện đúng lịch trình, nhiệm vụ được giao",
+    "a3": "Có đủ các chứng từ hợp pháp, hợp lệ",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 5, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 579,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, điều kiện để thanh toán công tác phí là:",
+    "a1": "Có Quyết định cử đi công tác của Agribank",
+    "a2": "Thực hiện đúng lịch trình, nhiệm vụ được giao",
+    "a3": "Có đủ các chứng từ hợp pháp, hợp lệ",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Điều 4, Văn bản 2668/QĐ-NHNo-TCKT",
+    "id": 580,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, đối tượng chi bảo hộ lao động trong công tác kiểm ngân, kho quỹ là:",
+    "a1": "Cán bộ là thủ quỹ, thủ kho tiền, kiểm ngân chuyên trách tại các chi nhánh loại I, loại II",
+    "a2": "Cán bộ là thủ quỹ, thủ kho tiền, kiểm ngân chuyên trách tại các phòng Giao dịch",
+    "a3": "Các cán bộ trong Ban quản lý kho",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 2, điều 14, Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 581,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 2668/QĐ-NHNo-TCKT, đối với những loại văn phòng phẩm chuyên dùng hoặc cần đảm bảo tính đồng bộ, thể hiện thương hiệu của Agribank: Bìa trình ký, bút viết để ở quầy giao dịch khách hàng… đơn vị khoán cho cán bộ tự mua là đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 12 Quy định 2668/QĐ-NHNo-TCKT",
+    "id": 582,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, Cước phí điện thoại hàng tháng của người giữ chìa khóa, mã khóa két sắt (có 03 ổ khóa) tại các phòng giao dịch không có kho tiền trên cơ sở yêu cầu công việc thực hiện theo quyết định của người có thẩm quyền là 300.000đồng/tháng là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Phụ lục, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 583,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, Mức chi khám sức khỏe bổ sung lần 2 cho cán bộ nữ, cán bộ làm công việc nặng nhọc, độc hại hàng năm tối đa là 4.000.000đ/người/năm là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 584,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, chi hỗ trợ chi phí đi lại ngày lễ, tết bao gồm các dịp nào sau đây?",
+    "a1": "Tết Dương lịch (01/01) và Tết Âm lịch",
+    "a2": "Ngày Quốc tế lao động (01/5)",
+    "a3": "Ngày Quốc khánh (02/9)",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 585,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, các chức danh nào sau đây có tiêu chuẩn mua vé máy bay hạng ghế phổ thông?",
+    "a1": "Thành viên Ủy ban, Phó Trưởng ban",
+    "a2": "Phó Chánh Văn phòng Trụ sở chính/ Phó trưởng văn phòng đại diện",
+    "a3": "Phó Giám đốc Trung tâm, các chức danh tương đương Phó Trưởng ban chuyên môn, Phó giám đốc các đơn vị sự nghiệp, chi nhánh loại I",
+    "a4": "Tất cả các chức danh trên",
+    "correct": "4",
+    "source": "Khoản 1, điều 1 Quy định số 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 586,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, cán bộ có thời gian làm việc trong năm dưới 06 (sáu) tháng được hưởng mức chi nghỉ mát bằng bao nhiêu % mức quy định nếu thanh toán bằng tiền mặt\"?",
+    "a1": "20%",
+    "a2": "30%",
+    "a3": "40%",
+    "a4": "50%",
+    "correct": "4",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 587,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, cước phí điện thoại hàng tháng của cán bộ thường xuyên đi công tác lưu động (từ 10 ngày trong tháng trở lên) là 500.000đồng/tháng là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Phụ lục, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 588,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi cho khám sức khỏe định kỳ hàng năm cho cán bộ tối đa là 5.000.000đ/người/năm là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 7 Điều 1 Quy định 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 589,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi cước phí điện thoại hàng tháng của lái xe tại VP đại diện, đơn vị sự nghiệp, chi nhánh loại I tối đa là bao nhiêu",
+    "a1": "300.000 đồng/tháng",
+    "a2": "400.000 đồng/tháng",
+    "a3": "500.000 đồng/tháng",
+    "a4": "",
+    "correct": "1",
+    "source": "Phụ lục Văn bản 3456/QyĐ-NHNo-TCKT",
+    "id": 590,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi hỗ trợ chi phí đi lại cho cán bộ các đợt nghỉ lễ, tết: bao gồm: Tết Dương lịch (01/01), Tết âm lịch, ngày Quốc tế lao động (1/5), ngày Quốc Khánh (02/9) tối đa là bao nhiêu?",
+    "a1": "Tối đa 3.000.000đ/người/đợt nghỉ lễ, tết",
+    "a2": "Tối đa 2.000.000đ/người/đợt nghỉ lễ, tết",
+    "a3": "Tối đa 2.500.000đ/người/đợt nghỉ lễ, tết",
+    "a4": "Tối đa 1.500.000đ/người/ đợt nghỉ lễ, tết",
+    "correct": "4",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 591,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi hỗ trợ một phần chi phí gửi trẻ tại nhà trẻ, lớp mẫu giáo cho con của cán bộ (con đẻ, con nuôi hợp pháp) trong độ tuổi gửi trẻ, mẫu giáo (từ 6 tháng tuổi đến 6 tuổi) là:",
+    "a1": "1.000.000đ/con/năm",
+    "a2": "2.000.000đ/con/năm",
+    "a3": "1.500.000đ/con/năm",
+    "a4": "2.500.000đ/con/năm",
+    "correct": "1",
+    "source": "Tiết d điểm 5.4 Điều 1 Văn bản 3 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 592,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi khám sức khỏe bổ sung lần 2 hàng năm cho cán bộ nữ, cán bộ làm công việc nặng nhọc, độc hại tối đa là bao nhiêu?",
+    "a1": "2.000.000đồng/người",
+    "a2": "3.000.000đồng/người",
+    "a3": "4.000.000đồng/người",
+    "a4": "5.000.000đồng/người",
+    "correct": "3",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 593,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi nghỉ mát cho cán bộ Agribank có thời gian công tác trong năm từ 06 tháng trở lên là bao nhiêu?",
+    "a1": "Tối đa 6.000.000đ/người/ năm",
+    "a2": "Tối đa 7.000.000đ/người/năm",
+    "a3": "Tối đa 9.000.000đ/người/ năm",
+    "a4": "Tối đa 8.000.000đ/người/ năm",
+    "correct": "1",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 594,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức chi phúc lợi để tổ chức sinh nhật cho cán bộ, chia tay cán bộ nghỉ hưu là:",
+    "a1": "Tối đa 3.000.000 đồng/người/lần",
+    "a2": "Tối đa 2.500.000 đồng/ người/lần",
+    "a3": "Tối đa 2.000.000 đồng/ người/ lần",
+    "a4": "Tối đa 2.800.000 đồng/ người/ lần",
+    "correct": "3",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 595,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, mức hỗ trợ chi phí đi lại ngày lễ, tết đối với cán bộ là người địa phương khác công tác ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo có hệ số phụ cấp khu vực từ mức 0.5 trở lên và người ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo có hệ số phụ cấp khu vực từ mức 0.5 trở lên công tác ở địa phương khác là:",
+    "a1": "3.500.000 đồng/người/đợt nghỉ lễ, tết",
+    "a2": "4.000.000 đồng/người/đợt nghỉ lễ, tết",
+    "a3": "3.000.000 đồng/người/đợt nghỉ lễ, tết",
+    "a4": "5.000.000 đồng/người/đợt nghỉ lễ, tết",
+    "correct": "3",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 596,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, nhận định sau đây là đúng hay sai: \"Mức chi phúc lợi cho cán bộ nhân dịp Tết Nguyên đán là 2.000.000đồng/người/năm\"",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 597,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, nhận định sau đây là đúng hay sai: \"Mức chi phúc lợi cho cán bộ nhân dịp Tết Nguyên đán là 3.000.000đồng/người/năm",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 598,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, nhận định sau đây là đúng hay sai? \"Cán bộ có thời gian làm việc trong năm dưới 06 (sáu) tháng được hưởng mức chi nghỉ mát bằng 50% mức quy định nếu thanh toán bằng tiền mặt\"?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 599,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023, nhận định sau đây là đúng hay sai? \"khoản chi hỗ trợ chi phí đi lại cho cán bộ các đợt nghỉ lễ, tết, bao gồm: Tết âm lịch, ngày Quốc tế lao động (1/5), ngày Quốc Khánh (02/9)\"",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 7, điều 1, Văn bản 3456/QyĐ-NHNo-TCKT ngày 29/12/2023",
+    "id": 600,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, Văn bản hợp nhất (VBHN) là văn bản được hình thành sau khi hợp nhất văn bản sửa đổi, bổ sung với văn bản được sửa đổi, bổ sung. Đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "căn cứ điều 3 Quy định 979/QĐ-NHNo-PC ngày 25/4/2023",
+    "id": 601,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, Văn bản định chế là:",
+    "a1": "Văn bản của Agribank có chứa quy tắc xử sự chung; có hiệu lực bắt buộc chung, được áp dụng lặp đi lặp lại nhiều lần đối với các đơn vị, cá nhân trong toàn hệ thống Agribank hoặc các đơn vị, cá nhân nhất định, do cấp thẩm quyền ban hành theo quy định của Agribank về ban hành và quản lý văn bản định chế.",
+    "a2": "Văn bản thể hiện quyết định xử lý một vấn đề cụ thể của người có thẩm quyền; đối tượng áp dụng thường trong phạm vi hẹp, gồm những người có liên quan trực tiếp.",
+    "a3": "Văn bản thể hiện thông báo thực hiện một công việc cụ thể",
+    "a4": "Văn bản thể hiện nội dung đề xuất thực hiện một vấn đề phát sinh",
+    "correct": "1",
+    "source": "Điều 2 VB 979 /QyĐ-NHNo-PC",
+    "id": 602,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, ai là người quy định ký hiệu đối với các phòng, bộ phận thuộc đơn vị?",
+    "a1": "Người đứng đầu đơn vị Trụ sở chính, Văn phòng đại diện, Đơn vị sự nghiệp",
+    "a2": "Tổng Giám đốc",
+    "a3": "Trưởng Ban Pháp chế",
+    "a4": "Trưởng Ban Kiểm soát",
+    "correct": "1",
+    "source": "căn cứ Điều 9 Quy định số 979/QĐ-NHNo-PC ngày 25/4/2023",
+    "id": 603,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, cách đánh số thứ tự các điểm nào dưới đây là không đúng?",
+    "a1": "a), b), c).",
+    "a2": "a), b), c), d), đ).",
+    "a3": "a), b), c), d).",
+    "a4": "a), b), c), d), e).",
+    "correct": "4",
+    "source": "Điểm b khoản 5 Điều 12 Văn bản số 979/NHNo-PC",
+    "id": 604,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, ký thừa ủy quyền là gì ?",
+    "a1": "Là việc người đứng đầu đơn vị ủy quyền cho người đứng đầu đơn vị thuộc cơ cấu tổ chức của mình ký thừa ủy quyền một số văn bản mà mình phải ký.",
+    "a2": "Là việc người đứng đầu thay mặt tập thể lãnh đạo ký các văn bản của đơn vị.",
+    "a3": "Là việc người đứng đầu đơn vị giao cấp phó ký thay các văn bản thuộc lĩnh vực được phân công phụ trách và một số văn bản thuộc thẩm quyền của người đứng đầu.",
+    "a4": "Là việc người đứng đầu đơn vị giao người đứng đầu đơn vị thuộc cơ cấu tổ chức của mình ký thừa lệnh một số loại văn bản.",
+    "correct": "1",
+    "source": "căn cứ Điều 2 Quy định số 979/QĐ-NHNo-PC ngày 25/4/2023",
+    "id": 605,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, loại văn bản nào không phải ghi tên loại?",
+    "a1": "Thư công tác",
+    "a2": "Báo cáo",
+    "a3": "Thông báo",
+    "a4": "Công văn",
+    "correct": "4",
+    "source": "Mẫu 08 văn bản số 979/NHNo-PC",
+    "id": 606,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, tiêu đề trong trình bày văn bản là:",
+    "a1": "Cụm từ chỉ nội dung chính của phần, chương, mục, tiểu mục, điều",
+    "a2": "Cụm từ tóm tắt mục tiêu, động lực hoặc ý định chung của một cá nhân, gia đình, nhóm xã hội hoặc tổ chức",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Căn cứ Điều 12 Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 607,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, trường hợp các hội đồng, tổ, ban... là “đơn vị ban hành văn bản” và được sử dụng con dấu của đơn vị để ban hành văn bản thì phải lấy hệ thống số riêng. Đúng hay sai?",
+    "a1": "Sai",
+    "a2": "Đúng",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Căn cứ Điều 9 Quy định số 979/QyĐ-NHNo-PC ngày 25/4/2023",
+    "id": 608,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, văn bản do người đứng đầu đơn vị Agribank ký (bao gồm cả trường hợp ký thừa lệnh, thừa ủy quyền): người soạn thảo/người đứng đầu phòng, bộ phận soạn thảo ký tắt vào vị trí nào?",
+    "a1": "Ký tắt vào cuối phần nội dung tại từng trang văn bản",
+    "a2": "Ký tắt vào trang cuối cùng",
+    "a3": "Ký tắt vào nơi nhận",
+    "a4": "Ký tắt vào trang đầu tiên",
+    "correct": "1",
+    "source": "Điều 17, vb 979 /QyĐ-NHNo-PC",
+    "id": 609,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, văn bản được bố cục  như thế nào ?",
+    "a1": "Bố cục theo phần, chương, mục, tiểu mục, điều",
+    "a2": "Bố cục theo phần, chương, điều, mục, tiểu mục",
+    "a3": "Bố cục theo chương, phần, mục, tiểu mục, điều",
+    "a4": "Bố cục theo chương, phần. Điều, mục, tiểu mục",
+    "correct": "1",
+    "source": "căn cứ mục 5 điều 12 Quy định 979/QĐ-NHNo-PC ngày 25/4/2023",
+    "id": 610,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, yêu cầu nào không phải thực hiện đối với phụ lục văn bản?",
+    "a1": "Chỉ dẫn về phụ lục trong văn bản",
+    "a2": "Tên của phụ lục",
+    "a3": "Đánh số thứ tự bằng chữ số La Mã nếu văn bản có từ 2 phụ lục trở lên",
+    "a4": "Chữ ký của người có thẩm quyền",
+    "correct": "4",
+    "source": "Mẫu 18, Phụ lục V, khoản Văn bản số 979/NHNo-PC",
+    "id": 611,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo Văn bản số 979/NHNo-PC ngày 25/4/2023, đối với các loại văn bản được bố cục theo phần, chương, mục, tiểu mục, điều thì:",
+    "a1": "Thứ tự các mục dùng chữ cái tiếng Việt",
+    "a2": "Thứ tự các mục dùng chữ số Ả Rập",
+    "a3": "Thứ tự các mục dùng chữ cái tiếng Anh",
+    "a4": "Thứ tự các mục dùng chữ số La Mã",
+    "correct": "2",
+    "source": "Điểm b khoản 3 Điều 16 Văn bản số 979/NHNo-PC",
+    "id": 612,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy chế 606/QC-HĐTV-PC ngày 30/6/2025, người được giao nhiệm vụ giữ con dấu của Agribank phải là người đã ký HĐLĐ xác định thời hạn từ đủ 12 tháng trở lên hoặc HĐLĐ không xác định thời hạn. Công tác tại phòng nghiệp vụ thực hiện quản lý và sử dụng con dấu. Đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 12 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 613,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy chế 989/QC-HĐTV-PC Ngày 15/12/2023, cách thức hủy con dấu là:",
+    "a1": "Tác động làm biến dạng con dấu khác với hình dạng ban đầu để không thể tiếp tục sử dụng được (làm vỡ, làm nóng chảy con dấu…)",
+    "a2": "Cất vào một két riêng và niêm phong",
+    "a3": "Mang đến nộp Bộ Công An",
+    "a4": "Mang đến nộp Ngân hàng Nhà nước Việt Nam",
+    "correct": "1",
+    "source": "Điểm 4 điều 21 quy chế 989/QC-HĐTV-PC Ngày 15/12/2023",
+    "id": 614,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy chế 989/QC-HĐTV-PC Ngày 15/12/2023, hình thức con dấu là:",
+    "a1": "Hình tròn, được tạo bởi ba đường tròn đồng tâm theo thứ tự từ ngoài vào trong",
+    "a2": "Hình vuông",
+    "a3": "Hình chữ nhật",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 5 Điều 6 Quy chế 989/QC-HĐTV-PC ngày 15/12/2023",
+    "id": 615,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy chế 989/QC-HĐTV-PC Ngày 15/12/2023, ngôn ngữ trên con dấu là:",
+    "a1": "Tiếng Việt",
+    "a2": "Tiếng Anh",
+    "a3": "Song ngữ Việt - Anh",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm 1 điều 6 quy chế 989/QC-HĐTV-PC Ngày 15/12/2023",
+    "id": 616,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Cán bộ ngân hàng phải luôn cẩn thận, kỹ lưỡng, cân nhắc thấu đáo, lường đoán kỹ mọi rủi ro để phòng ngừa; thận trọng trong giao tiếp và giữ kỷ luật phát ngôn; tự giác chịu sự giám sát, kiểm soát theo quy định” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Sự liêm chính.",
+    "a2": "Ý thức bảo mật thông tin.",
+    "a3": "Sự cẩn trọng.",
+    "a4": "",
+    "correct": "3",
+    "source": "Điểm a khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 617,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không làm lơ khi thấy các hiện tượng sai trái xung quanh” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Sự liêm chính",
+    "a2": "Tính tuân thủ",
+    "a3": "Tính chủ động, sáng tạo, thích ứng.",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 618,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không ngừng cải tiến phương pháp làm việc, nâng cao các kỹ năng mềm của bản thân” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Tính chủ động, sáng tạo, thích ứng.",
+    "a2": "Tính tuân thủ.",
+    "a3": "Sự liêm chính.",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 619,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không đưa ra thông tin sai lệch, thiếu chính xác, mang tính chủ quan cá nhân gây tổn hại đến tài sản, thương hiệu, uy tín của tổ chức, của ngành, gây hoang mang, lo ngại, ảnh hưởng đến lòng tin của khách hàng đối với ngân hàng” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Sự liêm chính.",
+    "a2": "Ý thức bảo mật thông tin.",
+    "a3": "Tính tuân thủ.",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm a khoản 6 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 620,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được chủ quan, liều lĩnh, không được dễ dãi, cả tin; không làm tắt, bỏ qua các bước, các thủ tục trong quy trình nghiệp vụ đã quy định” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Sự liêm chính.",
+    "a2": "Sự cẩn trọng.",
+    "a3": "Ý thức bảo mật thông tin.",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm b khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 621,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được tham ô, vụ lợi hoặc tiếp tay cho hành vi tham ô, vụ lợi” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Tính tuân thủ.",
+    "a2": "Sự liêm chính.",
+    "a3": "Ý thức bảo mật thông tin.",
+    "a4": "",
+    "correct": "2",
+    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 622,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Rèn luyện khả năng thích ứng cao trước sự thay đổi của môi trường và yêu cầu trong tình hình mới” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Tính tuân thủ.",
+    "a2": "Ý thức bảo mật thông tin.",
+    "a3": "Tính chủ động, sáng tạo, thích ứng.",
+    "a4": "",
+    "correct": "3",
+    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 623,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Trách nhiệm của Bộ phận lưu trữ hiện hành tại các đơn vị giao nộp hồ sơ, tài liệu theo Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025 gồm:",
+    "a1": "Tổ chức thu thập, quản lý hồ sơ, tài liệu hình thành trong quá trình hoạt động của đơn vị; lập hồ sơ hiện hành theo đúng quy định của Agribank.",
+    "a2": "Thực hiện thu thập, quản lý, lưu trữ và chuẩn bị giao nộp các hồ sơ, tài liệu thuộc diện phải đưa vào kho lưu trữ tập trung. Quản lý, theo dõi danh mục hồ sơ, tài liệu đã giao nộp vào kho lưu trữ tập trung",
+    "a3": "Thực hiện chế độ báo cáo, thống kê về công tác lưu trữ tập trung theo quy định.",
+    "a4": "Tất cả các đáp án trên",
+    "correct": "4",
+    "source": "Khoản 1 Điều 3 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 624,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Trách nhiệm của Đơn vị quản lý kho lưu trữ tập trung là hướng dẫn, đôn đốc, kiểm tra việc thực hiện công tác lưu trữ tập trung. Đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Khoản 3 Điều 3 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 625,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Trường hợp nào sau đây cán bộ thực hiện đúng chuẩn mực Văn hóa Agribank khi được thông báo buổi họp bắt đầu lúc 8 giờ?",
+    "a1": "Ổn định chỗ ngồi lúc 8 giờ.",
+    "a2": "Ổn định chỗ ngồi lúc 7 giờ 54 phút.",
+    "a3": "Có mặt trong phòng họp lúc 7 giờ 56 phút.",
+    "a4": "",
+    "correct": "2",
+    "source": "Chuẩn mực trong hội họp – Cẩm nang văn hóa Agribank",
+    "id": 626,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Trường hợp phát sinh chi phí  chưa được quy định hoặc vượt mức chi trong VB 2668/QĐ-NHNo-TCKT ngày 11/12/2019, đơn vị chỉ thực hiện khi được Tổng giám đốc phê duyệt là đúng hay sai?",
+    "a1": "Đúng",
+    "a2": "Sai",
+    "a3": "",
+    "a4": "",
+    "correct": "1",
+    "source": "Điều 1 VB 2668/QĐ-NHNo-TCKT ngày 11/12/2019",
+    "id": 627,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Tài liệu lưu trữ số hóa từ tài liệu lưu trữ ghi âm và ghi hình (video) định dạng bit rate tối thiểu bao nhiêu kbps?",
+    "a1": "1500 kbps",
+    "a2": "2000 kbps",
+    "a3": "2500 kbps",
+    "a4": "",
+    "correct": "1",
+    "source": "Điểm c khoản 2 Điều 23 Quy định ban hành kèm theo Quyết định số 424/QyĐ-HĐTV-VP ngày 22/6/2026 (trang 15)",
+    "id": 628,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Tầm nhìn của Agribank là:",
+    "a1": "Tăng trưởng - an toàn - hiệu quả - bền vững.",
+    "a2": "Phát triển - an toàn - hiệu quả - bền vững.",
+    "a3": "Tăng trưởng - phát triển - bền vững - hiệu quả",
+    "a4": "",
+    "correct": "1",
+    "source": "Tầm nhìn của Agribank – Cẩm nang văn hóa Agribank",
+    "id": 629,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Yêu cầu chung về việc xây dựng hình ảnh đối với người cán bộ ngân hàng như thế nào?",
+    "a1": "Tận tâm và chuyên nghiệp",
+    "a2": "Lịch sự, chu đáo, cẩn trọng, liêm chính, tận tâm và chuyên nghiệp; ứng xử văn hóa đúng mực trong nội bộ và đối với bên ngoài",
+    "a3": "Ứng xử văn hóa đúng mực trong nội bộ và đối với bên ngoài",
+    "a4": "Lịch sự, chu đáo, cẩn trọng",
+    "correct": "2",
+    "source": "Điều 3 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 630,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Đâu không phải là quy tắc ứng xử của cán bộ ngân hàng với khách hàng và đối tác theo QĐ 11/QĐ-HHNH ngày 25/02/2019?",
+    "a1": "Lợi dụng quan hệ cá nhân đồng nghiệp để bảo vệ lợi ích của bản thân trong trường hợp có xung đột với khách hàng",
+    "a2": "Không thiên vị, không gây phiền hà, nhũng nhiễu khách hàng và đối tác, tránh các hành động dẫn đến xung đột lợi ích, ảnh hưởng không tốt đến quan hệ với khách hàng và đối tác",
+    "a3": "Phong cách giao dịch chuyên nghiệp, thân thiện; tác phong nhanh nhẹn, chu đáo, thái độ niềm nở, tận tình, tạo ấn tượng tích cực, sự tin tưởng đối với khách hàng và đối tác",
+    "a4": "Trang phục gọn gàng, lịch sự, có thái độ nghiêm túc, đúng mực trong lúc làm việc, tôn trọng và đối xử công bằng với đối tác và khách hàng, giải quyết công việc đúng nguyên tắc, có lý, có tình",
+    "correct": "1",
+    "source": "Điều 5 QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "id": 631,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Đơn vị quản lý kho lưu trữ tập trung tại Hà Nội là:",
+    "a1": "Chi nhánh loại I",
+    "a2": "Văn phòng Trụ sở chính",
+    "a3": "Văn phòng Đại diện Miền Nam",
+    "a4": "Văn phòng Đại diện Miền Trung",
+    "correct": "2",
+    "source": "Khoản 5 Điều 2 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 632,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Đơn vị quản lý kho lưu trữ tập trung tại TP.HCM là ai?",
+    "a1": "Văn phòng Đại diện Miền Nam",
+    "a2": "Chi nhánh loại I tại TP.HCM",
+    "a3": "Văn phòng Trụ sở chính",
+    "a4": "Các chi nhánh tự quản lý",
+    "correct": "1",
+    "source": "Khoản 5 Điều 2 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 633,
+    "batch_label": "Đợt 2"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 2"
+    ],
+    "question": "Đối tượng áp dụng của Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025 về lưu trữ tập trung hồ sơ, tài liệu là đơn vị nào?",
+    "a1": "Tất cả chi nhánh kể cả nước ngoài",
+    "a2": "Các đơn vị trên địa bàn các tỉnh, thành phố có triển khai xây dựng kho tập trung, trừ chi nhánh nước ngoài",
+    "a3": "Chỉ các chi nhánh loại I",
+    "a4": "Chỉ Trụ sở chính",
+    "correct": "2",
+    "source": "Khoản 2 Điều 1 Hướng dẫn 4039/HD-NHNo-VP ngày 28/11/2025",
+    "id": 634,
+    "batch_label": "Đợt 2"
+  },
+  {
     "category": "Xử lý nợ",
     "batches": [
       "Đợt 1"
@@ -6118,7 +9673,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số dư nợ gốc khách hành nhận nợ bắt buộc đó là chuyển  sang xử lý rủi ro.",
     "correct": "1",
     "source": "Khoản 31 Điều 1 QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QĐ 2268/QyĐ-NHNo-TD",
-    "id": 398,
+    "id": 635,
     "batch_label": "Đợt 1"
   },
   {
@@ -6133,7 +9688,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thời gian xử lý tài sản bảo đảm theo dự kiến dưới 01 năm kể từ khi Agribank nơi cấp tín dụng có quyền thực hiện xử lý tài sản bảo đảm",
     "correct": "2",
     "source": "Khoản 4 Điều 9  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 399,
+    "id": 636,
     "batch_label": "Đợt 1"
   },
   {
@@ -6148,7 +9703,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 30 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 400,
+    "id": 637,
     "batch_label": "Đợt 1"
   },
   {
@@ -6163,7 +9718,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 61 QyĐ 2268/QyĐ-NHNo-TD được sửa đổi , bổ sung tại QyĐ 4466/QyĐ-NHNo-TD",
-    "id": 401,
+    "id": 638,
     "batch_label": "Đợt 1"
   },
   {
@@ -6178,7 +9733,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.3",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 402,
+    "id": 639,
     "batch_label": "Đợt 1"
   },
   {
@@ -6193,7 +9748,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bộ phận tín dụng",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 1205/QC-HĐTV-RRTD ngày 29/12/2023",
-    "id": 403,
+    "id": 640,
     "batch_label": "Đợt 1"
   },
   {
@@ -6208,7 +9763,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và Khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 404,
+    "id": 641,
     "batch_label": "Đợt 1"
   },
   {
@@ -6223,7 +9778,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các khoản nợ quá hạn từ nhóm 2 đến nhóm 5 và Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn (nhóm 1).",
     "correct": "3",
     "source": "Khoản 9 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 405,
+    "id": 642,
     "batch_label": "Đợt 1"
   },
   {
@@ -6238,7 +9793,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 406,
+    "id": 643,
     "batch_label": "Đợt 1"
   },
   {
@@ -6253,7 +9808,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 407,
+    "id": 644,
     "batch_label": "Đợt 1"
   },
   {
@@ -6268,7 +9823,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thế chấp tài sản, Cầm cố tài sản, Ký quỹ, Bảo lãnh",
     "correct": "3",
     "source": "Khoản 31, 32, 33, 34, 35 Điều 3 Quy chế 879/QC-HĐTV-TD",
-    "id": 408,
+    "id": 645,
     "batch_label": "Đợt 1"
   },
   {
@@ -6283,7 +9838,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 409,
+    "id": 646,
     "batch_label": "Đợt 1"
   },
   {
@@ -6298,7 +9853,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án đều đúng",
     "correct": "1",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 410,
+    "id": 647,
     "batch_label": "Đợt 1"
   },
   {
@@ -6313,7 +9868,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sau khi Khách hàng đã giải ngân vốn đối ứng bằng tỷ lệ tối thiểu theo quy định là 25%, việc giải ngân vốn vay và phần còn lại vốn đối ứng do Tổng Giám đốc Agribank quyết định.",
     "correct": "2",
     "source": "Khoản 1 Điều 56 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 411,
+    "id": 648,
     "batch_label": "Đợt 1"
   },
   {
@@ -6328,7 +9883,7 @@ window.QUESTIONS_DATA = [
     "a4": "5,8 tỷ đồng",
     "correct": "3",
     "source": "Tiết ii Điểm b Khoản 2 Điều 21 QC 656/QC-HĐTV-TD",
-    "id": 412,
+    "id": 649,
     "batch_label": "Đợt 1"
   },
   {
@@ -6343,7 +9898,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "2",
     "source": "Tiết i Điểm b Khoản 2 Điều 21 QC 656/QC-HĐTV-TD",
-    "id": 413,
+    "id": 650,
     "batch_label": "Đợt 1"
   },
   {
@@ -6358,7 +9913,7 @@ window.QUESTIONS_DATA = [
     "a4": "4,75 tỷ đồng.",
     "correct": "3",
     "source": "Tiết i điểm b Khoản 2 Điều 21 QC 656/QC-NHNo- TD",
-    "id": 414,
+    "id": 651,
     "batch_label": "Đợt 1"
   },
   {
@@ -6373,7 +9928,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thứ tự thu nợ được thực hiện  theo chỉ đạo của Giám đốc Agribank nơi cho vay",
     "correct": "2",
     "source": "Điểm a, Khoản 2 Điều 60 Quy Định số 2268/QyĐ- NHNo-TD ngày 19/9/2023",
-    "id": 415,
+    "id": 652,
     "batch_label": "Đợt 1"
   },
   {
@@ -6388,7 +9943,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc chi nhánh loại I, loại II, phòng giao dịch",
     "correct": "1",
     "source": "Khoản 2 Điều 21 QC 346/QC-HĐTV-TD",
-    "id": 416,
+    "id": 653,
     "batch_label": "Đợt 1"
   },
   {
@@ -6403,7 +9958,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 66 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 417,
+    "id": 654,
     "batch_label": "Đợt 1"
   },
   {
@@ -6418,7 +9973,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 64 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 418,
+    "id": 655,
     "batch_label": "Đợt 1"
   },
   {
@@ -6433,7 +9988,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kiểm tra một năm ít nhất 01 (một) lần.",
     "correct": "4",
     "source": "Điểm a Khoản 2 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 419,
+    "id": 656,
     "batch_label": "Đợt 1"
   },
   {
@@ -6448,7 +10003,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hạn mức RRTD là giá trị tối thiểu và tối đa của các chỉ số RRTD do Agribank thiết lập cho các đối tượng khách hàng, ngành, lĩnh vực kinh tế",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 420,
+    "id": 657,
     "batch_label": "Đợt 1"
   },
   {
@@ -6463,7 +10018,7 @@ window.QUESTIONS_DATA = [
     "a4": "Mỗi lần giải ngân vốn vay, Agribank nơi cho vay phải rà soát, đánh giá nhu cầu vay vốn, hồ sơ giải ngân đáp ứng các điều kiện theo quy định hiện hành.",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 421,
+    "id": 658,
     "batch_label": "Đợt 1"
   },
   {
@@ -6478,7 +10033,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 2 Điều 5 Quy chế 1548/QC-HĐTV-TD",
-    "id": 422,
+    "id": 659,
     "batch_label": "Đợt 1"
   },
   {
@@ -6493,7 +10048,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 15 QC 656/QC-HĐTV-TD",
-    "id": 423,
+    "id": 660,
     "batch_label": "Đợt 1"
   },
   {
@@ -6508,7 +10063,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Mục 2 PL số 02/TCMB-QĐ theo QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 424,
+    "id": 661,
     "batch_label": "Đợt 1"
   },
   {
@@ -6523,7 +10078,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a, b, c Khoản 2 Điều 35 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 425,
+    "id": 662,
     "batch_label": "Đợt 1"
   },
   {
@@ -6538,7 +10093,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 3 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 426,
+    "id": 663,
     "batch_label": "Đợt 1"
   },
   {
@@ -6553,7 +10108,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hồ sơ cơ cấu lại thời hạn trả nợ, biên bản kiểm tra tài sản bảo đảm khách hàng.",
     "correct": "1",
     "source": "Tiết i Điểm c Khoản 1 Điều 61 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 427,
+    "id": 664,
     "batch_label": "Đợt 1"
   },
   {
@@ -6568,7 +10123,7 @@ window.QUESTIONS_DATA = [
     "a4": "05 lần",
     "correct": "1",
     "source": "Khoản 3  Điều 44 QC 656/QC-HĐTV-TD; sửa đổi, bổ sung tại QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 428,
+    "id": 665,
     "batch_label": "Đợt 1"
   },
   {
@@ -6583,7 +10138,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ý kiến đề xuất của Người quan hệ khách hàng, Người thẩm định, Báo cáo thẩm định lại của Người thẩm định lại (nếu có), Biên bản họp/Bảng tổng hợp ý kiến Hội đồng tín dụng (nếu có).",
     "correct": "1",
     "source": "Khoản 15 Điều 1 QĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 429,
+    "id": 666,
     "batch_label": "Đợt 1"
   },
   {
@@ -6598,7 +10153,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điều 16 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 430,
+    "id": 667,
     "batch_label": "Đợt 1"
   },
   {
@@ -6613,7 +10168,7 @@ window.QUESTIONS_DATA = [
     "a4": "95%-100%",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy định 2980/QyĐ-NHNo-RRTD",
-    "id": 431,
+    "id": 668,
     "batch_label": "Đợt 1"
   },
   {
@@ -6628,7 +10183,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu ý kiến đề xuất phê duyệt/không phê duyệt vượt thẩm quyền (trường hợp không đồng ý phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người thẩm định lại trên Báo cáo thẩm định lại.",
     "correct": "4",
     "source": "Khoản 4 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 432,
+    "id": 669,
     "batch_label": "Đợt 1"
   },
   {
@@ -6643,7 +10198,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quyết định cấp tín dụng đối với một khách hàng, một khách hàng và người có liên quan có tổng mức dư nợ cấp tín dụng thuộc thẩm quyền của HĐTD Chi nhánh loại I; quyết định cơ cấu lại thời hạn trả nợ/gia hạn thời gian duy trì hạn mức/thay đổi nội dung phê duyệt đối với khoản cấp tín dụng đã được HĐTD Chi nhánh loại I quyết định cấp tín dụng",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 4 Quy chế 1548/QC-HĐTV-TD",
-    "id": 433,
+    "id": 670,
     "batch_label": "Đợt 1"
   },
   {
@@ -6658,7 +10213,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "3",
     "source": "Điều 11 Quy chế 1205/QC-HĐTV-RRTD ngày 29/12/2023",
-    "id": 434,
+    "id": 671,
     "batch_label": "Đợt 1"
   },
   {
@@ -6673,7 +10228,7 @@ window.QUESTIONS_DATA = [
     "a4": "Dư nợ vay, số lãi phải trả đến ngày kiểm tra; Tình hình tài chính; đánh giá tiến độ và khả năng trả nợ; Biện pháp tổ chức triển khai và tiến độ thực hiện dự án, phương án; đánh giá phương án sử dụng vốn và khả năng trả nợ của khách hàng; Thu thập thông tin xếp hạng khách hàng theo quy định của Agribank; Các nội dung khác (nếu có).",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 435,
+    "id": 672,
     "batch_label": "Đợt 1"
   },
   {
@@ -6688,7 +10243,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cá nhân, đơn vị triển khai hoạt động tín dụng tuân thủ quy định của pháp luật, NHNN, quy định này và quy định nội bộ có liên quan",
     "correct": "1",
     "source": "Khoản 4 Điều 4 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 436,
+    "id": 673,
     "batch_label": "Đợt 1"
   },
   {
@@ -6703,7 +10258,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.8",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 437,
+    "id": 674,
     "batch_label": "Đợt 1"
   },
   {
@@ -6718,7 +10273,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cho vay được quyền giải ngân theo Thỏa thuận cho vay đã ký.",
     "correct": "3",
     "source": "Khoản 3 Điều 30 QC 656/QC-HĐTV-TD",
-    "id": 438,
+    "id": 675,
     "batch_label": "Đợt 1"
   },
   {
@@ -6733,7 +10288,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Điểm d Khoản 3 Điều 8 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 439,
+    "id": 676,
     "batch_label": "Đợt 1"
   },
   {
@@ -6748,7 +10303,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 7 QC 346/QC-HĐTV-TD",
-    "id": 440,
+    "id": 677,
     "batch_label": "Đợt 1"
   },
   {
@@ -6763,7 +10318,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ít nhất 1 lần trong vòng 12 tháng kể từ ngày kiểm tra gần nhất.",
     "correct": "4",
     "source": "Tiết ii Điểm b Khoản 1 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 441,
+    "id": 678,
     "batch_label": "Đợt 1"
   },
   {
@@ -6778,7 +10333,7 @@ window.QUESTIONS_DATA = [
     "a4": "Bản gốc hoặc bản sao được chứng thực hoặc bản sao quyết định giải thể doanh nghiệp theo quy định của Pháp luật",
     "correct": "2",
     "source": "Mục 2, Điểm 11, Khoản 11, Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 442,
+    "id": 679,
     "batch_label": "Đợt 1"
   },
   {
@@ -6793,7 +10348,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm b, Khoản 4, Điều 1, Quy chế 1546/QC-HĐTV-TD ngày 27/12/2024",
-    "id": 443,
+    "id": 680,
     "batch_label": "Đợt 1"
   },
   {
@@ -6808,7 +10363,7 @@ window.QUESTIONS_DATA = [
     "a4": "Định kỳ hàng năm vào ngày 31/12",
     "correct": "2",
     "source": "Điểm b, Khoản 7, Điều 19 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 444,
+    "id": 681,
     "batch_label": "Đợt 1"
   },
   {
@@ -6823,7 +10378,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phê duyệt phương án bán nợ của Chi nhánh",
     "correct": "2",
     "source": "Khoản 1, Điều 5 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 445,
+    "id": 682,
     "batch_label": "Đợt 1"
   },
   {
@@ -6838,7 +10393,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 28  Quy chế 346/QC-HĐTV-TD",
-    "id": 446,
+    "id": 683,
     "batch_label": "Đợt 1"
   },
   {
@@ -6853,7 +10408,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng/Phó trưởng Phòng Khách hàng, Trưởng/Phó trưởng Ban thuộc Ban TĐPD, Trưởng/Phó trưởng phòng phê duyệt thuộc TTPD.",
     "correct": "3",
     "source": "Khoản 33 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 447,
+    "id": 684,
     "batch_label": "Đợt 1"
   },
   {
@@ -6868,7 +10423,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 32 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 448,
+    "id": 685,
     "batch_label": "Đợt 1"
   },
   {
@@ -6883,7 +10438,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các bên thỏa thuận thu phí bảo lãnh bằng ngoại tệ hoặc quy đổi ra đồng Việt Nam theo tỷ giá bán của Agribank.",
     "correct": "2",
     "source": "Khoản 4 Điều 23 QC 346/QC-HĐTV-TD",
-    "id": 449,
+    "id": 686,
     "batch_label": "Đợt 1"
   },
   {
@@ -6898,7 +10453,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thỏa thuận cấp bảo lãnh.",
     "correct": "1",
     "source": "Khoản 1 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 450,
+    "id": 687,
     "batch_label": "Đợt 1"
   },
   {
@@ -6913,7 +10468,7 @@ window.QUESTIONS_DATA = [
     "a4": "01 bản chính và 03 bản sao y.",
     "correct": "2",
     "source": "Điểm b Khoản 4 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 451,
+    "id": 688,
     "batch_label": "Đợt 1"
   },
   {
@@ -6928,7 +10483,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 33 QC 879/QC-HĐTV-TD",
-    "id": 452,
+    "id": 689,
     "batch_label": "Đợt 1"
   },
   {
@@ -6943,7 +10498,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm chấm dứt Hợp đồng cấp tín dụng.",
     "correct": "4",
     "source": "Khoản 1 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 453,
+    "id": 690,
     "batch_label": "Đợt 1"
   },
   {
@@ -6958,7 +10513,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nợ nhóm 5",
     "correct": "4",
     "source": "Điều 6 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 454,
+    "id": 691,
     "batch_label": "Đợt 1"
   },
   {
@@ -6973,7 +10528,7 @@ window.QUESTIONS_DATA = [
     "a4": "Từ D1 đến D12",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 455,
+    "id": 692,
     "batch_label": "Đợt 1"
   },
   {
@@ -6988,7 +10543,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 456,
+    "id": 693,
     "batch_label": "Đợt 1"
   },
   {
@@ -7003,7 +10558,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 457,
+    "id": 694,
     "batch_label": "Đợt 1"
   },
   {
@@ -7018,7 +10573,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "3",
     "source": "Khoản 8 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 458,
+    "id": 695,
     "batch_label": "Đợt 1"
   },
   {
@@ -7033,7 +10588,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nợ cần chú ý, nợ dưới tiêu chuẩn, nợ nghi ngờ, nợ có khả năng mất vốn.",
     "correct": "2",
     "source": "Khoản 9 Điều 3 và khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 459,
+    "id": 696,
     "batch_label": "Đợt 1"
   },
   {
@@ -7048,7 +10603,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 460,
+    "id": 697,
     "batch_label": "Đợt 1"
   },
   {
@@ -7063,7 +10618,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm b Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 461,
+    "id": 698,
     "batch_label": "Đợt 1"
   },
   {
@@ -7078,7 +10633,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hợp đồng bảo đảm không vô hiệu",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 462,
+    "id": 699,
     "batch_label": "Đợt 1"
   },
   {
@@ -7093,7 +10648,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính không quy định thời hạn thực hiện",
     "correct": "1",
     "source": "Khoản 3 Điều 13   Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 463,
+    "id": 700,
     "batch_label": "Đợt 1"
   },
   {
@@ -7108,7 +10663,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 29 Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 464,
+    "id": 701,
     "batch_label": "Đợt 1"
   },
   {
@@ -7123,7 +10678,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối thiểu 06 tháng một lần",
     "correct": "1",
     "source": "Khoản 2, Điều 24  Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 465,
+    "id": 702,
     "batch_label": "Đợt 1"
   },
   {
@@ -7138,7 +10693,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khi khách hàng nợ là người quen của cán bộ ngân hàng",
     "correct": "2",
     "source": "Điểm b, Khoản 2, Điều 16 Quy định số 2766-QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 466,
+    "id": 703,
     "batch_label": "Đợt 1"
   },
   {
@@ -7153,7 +10708,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 5, Điều 3 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 467,
+    "id": 704,
     "batch_label": "Đợt 1"
   },
   {
@@ -7168,7 +10723,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 20 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 468,
+    "id": 705,
     "batch_label": "Đợt 1"
   },
   {
@@ -7183,7 +10738,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 469,
+    "id": 706,
     "batch_label": "Đợt 1"
   },
   {
@@ -7198,7 +10753,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc Phòng Giao dịch có KCTDCVĐ quản lý tại Phòng giao dịch",
     "correct": "1",
     "source": "Căn cứ Khoản 4, Điều 31, Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022 về Quản lý các KCTDCVĐ",
-    "id": 470,
+    "id": 707,
     "batch_label": "Đợt 1"
   },
   {
@@ -7213,7 +10768,7 @@ window.QUESTIONS_DATA = [
     "a4": "25 ngày",
     "correct": "1",
     "source": "Khoản a, điểm 1, điều 21 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 471,
+    "id": 708,
     "batch_label": "Đợt 1"
   },
   {
@@ -7228,7 +10783,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Căn cứ Khoản 4, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 472,
+    "id": 709,
     "batch_label": "Đợt 1"
   },
   {
@@ -7243,7 +10798,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 3, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 473,
+    "id": 710,
     "batch_label": "Đợt 1"
   },
   {
@@ -7258,7 +10813,7 @@ window.QUESTIONS_DATA = [
     "a4": "Ít nhất 09 tháng 1 lần hoặc đột xuất",
     "correct": "1",
     "source": "Căn cứ Khoản 1, Điều 11 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 474,
+    "id": 711,
     "batch_label": "Đợt 1"
   },
   {
@@ -7273,7 +10828,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "2",
     "source": "Tiết i, điểm g, Khoản 1 Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 475,
+    "id": 712,
     "batch_label": "Đợt 1"
   },
   {
@@ -7288,7 +10843,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2028",
-    "id": 476,
+    "id": 713,
     "batch_label": "Đợt 1"
   },
   {
@@ -7303,7 +10858,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Tiết ii, điểm g, Khoản 1, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2026",
-    "id": 477,
+    "id": 714,
     "batch_label": "Đợt 1"
   },
   {
@@ -7318,7 +10873,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2029",
-    "id": 478,
+    "id": 715,
     "batch_label": "Đợt 1"
   },
   {
@@ -7333,7 +10888,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm a Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 479,
+    "id": 716,
     "batch_label": "Đợt 1"
   },
   {
@@ -7348,7 +10903,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm 1, Khoản 7 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 480,
+    "id": 717,
     "batch_label": "Đợt 1"
   },
   {
@@ -7363,7 +10918,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2&3",
     "correct": "4",
     "source": "Khoản 1 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 481,
+    "id": 718,
     "batch_label": "Đợt 1"
   },
   {
@@ -7378,7 +10933,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khi khoản nợ phát sinh nợ xấu",
     "correct": "3",
     "source": "Khoản 4 Điều 30 Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022",
-    "id": 482,
+    "id": 719,
     "batch_label": "Đợt 1"
   },
   {
@@ -7393,7 +10948,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 38 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 483,
+    "id": 720,
     "batch_label": "Đợt 1"
   },
   {
@@ -7408,7 +10963,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Tiết i, ii Điểm a Khoản 3 Điều 30 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 484,
+    "id": 721,
     "batch_label": "Đợt 1"
   },
   {
@@ -7423,7 +10978,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thành viên đoàn thanh tra đang thanh tra tại Agribank.",
     "correct": "3",
     "source": "Khoản 2 Điều 22 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 485,
+    "id": 722,
     "batch_label": "Đợt 1"
   },
   {
@@ -7438,7 +10993,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 486,
+    "id": 723,
     "batch_label": "Đợt 1"
   },
   {
@@ -7453,7 +11008,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 7 QĐ 2268/QyĐ-NHNo-TD",
-    "id": 487,
+    "id": 724,
     "batch_label": "Đợt 1"
   },
   {
@@ -7468,7 +11023,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi phê duyệt cấp tín dụng",
     "correct": "1",
     "source": "Điểm a khoản 1 Điều 42 Quy chế 879/QC-HĐTV-TD",
-    "id": 488,
+    "id": 725,
     "batch_label": "Đợt 1"
   },
   {
@@ -7483,7 +11038,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 489,
+    "id": 726,
     "batch_label": "Đợt 1"
   },
   {
@@ -7498,7 +11053,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 48 tháng.",
     "correct": "3",
     "source": "Khoản 1 Điều 24 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 490,
+    "id": 727,
     "batch_label": "Đợt 1"
   },
   {
@@ -7513,7 +11068,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 5 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 3 ngày làm việc.",
     "correct": "1",
     "source": "Khoản 1 Điều 10 QyĐ 1445 /QyĐ-NHNo-TD",
-    "id": 491,
+    "id": 728,
     "batch_label": "Đợt 1"
   },
   {
@@ -7528,7 +11083,7 @@ window.QUESTIONS_DATA = [
     "a4": "Kiểm tra tối thiểu sau 12 tháng kể từ ngày giải ngân đầu tiên và một năm ít nhất 01 (một) lần đối với các lần kiểm tra tiếp theo.",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 492,
+    "id": 729,
     "batch_label": "Đợt 1"
   },
   {
@@ -7543,7 +11098,7 @@ window.QUESTIONS_DATA = [
     "a4": "10 ngày làm việc",
     "correct": "2",
     "source": "Khoản 3 Điều 44 QC 656/QC-HĐTV-TD",
-    "id": 493,
+    "id": 730,
     "batch_label": "Đợt 1"
   },
   {
@@ -7558,7 +11113,7 @@ window.QUESTIONS_DATA = [
     "a4": "10 ngày",
     "correct": "1",
     "source": "Tiết a Khoản 3 Điều 26 QC 346/QC-HĐTV-TD",
-    "id": 494,
+    "id": 731,
     "batch_label": "Đợt 1"
   },
   {
@@ -7573,7 +11128,7 @@ window.QUESTIONS_DATA = [
     "a4": "Việc khai báo và phê duyệt đơn xin vay trên hệ thống IPCAS được thực hiện tại phòng thẩm định chi nhánh loại II/PGD",
     "correct": "1",
     "source": "Điểm b, Khoản 29 Điều 1 QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 495,
+    "id": 732,
     "batch_label": "Đợt 1"
   },
   {
@@ -7588,7 +11143,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phát hành bảo lãnh bảo đảm chất lượng sản phẩm.",
     "correct": "2",
     "source": "Khoản 1 Điều 18 QC 346/QC-HĐTV-TD",
-    "id": 496,
+    "id": 733,
     "batch_label": "Đợt 1"
   },
   {
@@ -7603,7 +11158,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng có dư nợ từ 06 tỷ đồng trở lên, trừ trường hợp Hội đồng tín dụng Chi nhánh loại I là người quyết định nhận TSBĐ",
     "correct": "2",
     "source": "Điểm c Khoản 2 Điều 39 Quy định 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD",
-    "id": 497,
+    "id": 734,
     "batch_label": "Đợt 1"
   },
   {
@@ -7618,7 +11173,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 lần",
     "correct": "4",
     "source": "Khoản 4 Điều 4 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 498,
+    "id": 735,
     "batch_label": "Đợt 1"
   },
   {
@@ -7633,7 +11188,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a, b  Khoản 1 Điều 29 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 499,
+    "id": 736,
     "batch_label": "Đợt 1"
   },
   {
@@ -7648,7 +11203,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 7 Quy chế 879/QC-HĐTV-TD",
-    "id": 500,
+    "id": 737,
     "batch_label": "Đợt 1"
   },
   {
@@ -7663,7 +11218,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trả thay theo cam kết ngoại bảng",
     "correct": "2",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 501,
+    "id": 738,
     "batch_label": "Đợt 1"
   },
   {
@@ -7678,7 +11233,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thẩm định lại một số nội dung về khoản vay do người có thẩm quyền tại Agribank nơi phê duyệt vượt thẩm quyền quyết định.",
     "correct": "2",
     "source": "Điểm c Khoản 3 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 502,
+    "id": 739,
     "batch_label": "Đợt 1"
   },
   {
@@ -7693,7 +11248,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không vượt quá giá trị của 05 lần khối lượng giao dịch bình quân/ngày của 90 phiên giao dịch gần nhất trước ngày HĐBĐ có hiệu lực.",
     "correct": "2",
     "source": "Tiết i điểm b khoản 3 Điều 26 QyĐ 2929/QyĐ-NHNo-TD",
-    "id": 503,
+    "id": 740,
     "batch_label": "Đợt 1"
   },
   {
@@ -7708,7 +11263,7 @@ window.QUESTIONS_DATA = [
     "a4": "12% vốn tự có đối với một khách hàng; 19% vốn tự có đối với một khách hàng và người có liên quan của khách hàng đó",
     "correct": "1",
     "source": "Điểm b Khoản 1 Điều 25 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 504,
+    "id": 741,
     "batch_label": "Đợt 1"
   },
   {
@@ -7723,7 +11278,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.25",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 505,
+    "id": 742,
     "batch_label": "Đợt 1"
   },
   {
@@ -7738,7 +11293,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc chi nhánh tự quyết định không trình HDDTV, TGĐ",
     "correct": "1",
     "source": "Khoản 26 Điều 1 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại Điểm a Khoản 1 Điều 58 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 506,
+    "id": 743,
     "batch_label": "Đợt 1"
   },
   {
@@ -7753,7 +11308,7 @@ window.QUESTIONS_DATA = [
     "a4": "12 tháng kiểm tra tối thiểu 01 lần",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 43 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 507,
+    "id": 744,
     "batch_label": "Đợt 1"
   },
   {
@@ -7768,7 +11323,7 @@ window.QUESTIONS_DATA = [
     "a4": "HĐTV, NHNN",
     "correct": "4",
     "source": "Khoản 3 Điều 20 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 508,
+    "id": 745,
     "batch_label": "Đợt 1"
   },
   {
@@ -7783,7 +11338,7 @@ window.QUESTIONS_DATA = [
     "a4": "Theo từng lần giải ngân trên Báo cáo đề xuất giải ngân kiêm giấy nhận nợ.",
     "correct": "1",
     "source": "Khoản 2 Điều 24 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 509,
+    "id": 746,
     "batch_label": "Đợt 1"
   },
   {
@@ -7798,7 +11353,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 1 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 510,
+    "id": 747,
     "batch_label": "Đợt 1"
   },
   {
@@ -7813,7 +11368,7 @@ window.QUESTIONS_DATA = [
     "a4": "Văn bản ủy quyền phải được chứng nhận tại cơ quan có chức năng công chứng hoặc chứng thực tại cơ quan có thẩm quyền theo quy định của pháp luật.",
     "correct": "3",
     "source": "Điểm b Khoản 3 Điều 4 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 511,
+    "id": 748,
     "batch_label": "Đợt 1"
   },
   {
@@ -7828,7 +11383,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chi nhánh tiếp tục giải ngân vì nếu dừng giải ngân thì dự án dở dang và thiệt hại có thể xảy ra nhiều hơn.",
     "correct": "2",
     "source": "Điểm a Khoản 27  Điều 1 QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 512,
+    "id": 749,
     "batch_label": "Đợt 1"
   },
   {
@@ -7843,7 +11398,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 13 QC 346/QC-HĐTV-TD",
-    "id": 513,
+    "id": 750,
     "batch_label": "Đợt 1"
   },
   {
@@ -7858,7 +11413,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xác định nguyên nhân rủi ro đã được nhận dạng, bao gồm nguyên nhân bên ngoài (môi trường kinh doanh, pháp lý, điều kiện kinh tế vĩ mô, nguyên nhân nội tại của khách hàng...) và nguyên nhân bên trong (hệ thống văn bản nội bộ, phần mềm/công cụ hỗ trợ, nhân sự…)",
     "correct": "2",
     "source": "Khoản 4 Điều 5 Quy định 375/QyĐ-HĐTV-RRTD ngày 10/5/2024",
-    "id": 514,
+    "id": 751,
     "batch_label": "Đợt 1"
   },
   {
@@ -7873,7 +11428,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 11 Quy chế 879/QC-HĐTV-TD",
-    "id": 515,
+    "id": 752,
     "batch_label": "Đợt 1"
   },
   {
@@ -7888,7 +11443,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 8 QyĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD",
-    "id": 516,
+    "id": 753,
     "batch_label": "Đợt 1"
   },
   {
@@ -7903,7 +11458,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không quá 06 tháng.",
     "correct": "1",
     "source": "Điểm b Khoản 4 Điều 34 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 517,
+    "id": 754,
     "batch_label": "Đợt 1"
   },
   {
@@ -7918,7 +11473,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 2 Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023",
-    "id": 518,
+    "id": 755,
     "batch_label": "Đợt 1"
   },
   {
@@ -7933,7 +11488,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Điểm a khoản 4 điều 16 QC 346/QC-HĐTV-TD",
-    "id": 519,
+    "id": 756,
     "batch_label": "Đợt 1"
   },
   {
@@ -7948,7 +11503,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Điểm c Khoản 2 Điều 20 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 520,
+    "id": 757,
     "batch_label": "Đợt 1"
   },
   {
@@ -7963,7 +11518,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điểm b Khoản 2 Điều 20 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 521,
+    "id": 758,
     "batch_label": "Đợt 1"
   },
   {
@@ -7978,7 +11533,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 6 Điều 5 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 522,
+    "id": 759,
     "batch_label": "Đợt 1"
   },
   {
@@ -7993,7 +11548,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đồng tiền trả nợ là đồng tiền Chính phủ Việt Nam chấp nhận, cho phép sử dụng trên lãnh thổ Việt Nam.",
     "correct": "1",
     "source": "Khoản 2 Điều 7 QC 656/QC-HĐTV-TD",
-    "id": 523,
+    "id": 760,
     "batch_label": "Đợt 1"
   },
   {
@@ -8009,7 +11564,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 1 Điều 11  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 524,
+    "id": 761,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8025,7 +11580,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "4",
     "source": "Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 525,
+    "id": 762,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8041,7 +11596,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính thực hiện báo có cho Chi nhánh theo quy định",
     "correct": "3",
     "source": "Khoản 3 Điều 13 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 526,
+    "id": 763,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8057,7 +11612,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 2",
     "correct": "1",
     "source": "Tiết (v) Điểm d Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 527,
+    "id": 764,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8073,7 +11628,7 @@ window.QUESTIONS_DATA = [
     "a4": "3.280 triệu đồng",
     "correct": "2",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 528,
+    "id": 765,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8089,7 +11644,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính không quy định thời hạn thực hiện",
     "correct": "1",
     "source": "Khoản 3 Điều 13 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 529,
+    "id": 766,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8105,7 +11660,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chỉ được thiết lập cho rủi ro tín dụng và rủi ro thanh khoản, đảm bảo phù hợp với quy định của NHNN và của Agribank",
     "correct": "2",
     "source": "Khoản 1 Điều 17 Quy chế số 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 530,
+    "id": 767,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8121,7 +11676,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 17  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 531,
+    "id": 768,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8137,7 +11692,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trụ sở chính, Chi nhánh loại I, loại II, phòng giao dịch và cá nhân có liên quan thuộc Agribank; không áp dụng đối với Chi nhánh Agribank ở nước ngoài",
     "correct": "4",
     "source": "Điều 2 Quy trình số 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 532,
+    "id": 769,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8153,7 +11708,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 533,
+    "id": 770,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8169,7 +11724,7 @@ window.QUESTIONS_DATA = [
     "a4": "Hội đồng mua bán nợ",
     "correct": "1",
     "source": "Khoản 4 Điều 17  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 534,
+    "id": 771,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8185,7 +11740,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điều 6 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 535,
+    "id": 772,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8201,7 +11756,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "2",
     "source": "Khoản 4 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 536,
+    "id": 773,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8217,7 +11772,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 5 Điều 1 QC 466/QC-HĐTV-TD sửa đổi, bổ sung Tiết (i), (vii) Điểm c Khoản 5 Điều 21 QC 346/QC-HĐTV-TD (khoản 4 điều 21)",
-    "id": 537,
+    "id": 774,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8233,7 +11788,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 2 Điều 13 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 538,
+    "id": 775,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8249,7 +11804,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.01",
     "correct": "3",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 539,
+    "id": 776,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8265,7 +11820,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Điểm d (vi) khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 540,
+    "id": 777,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8281,7 +11836,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "4",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 541,
+    "id": 778,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8297,7 +11852,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 542,
+    "id": 779,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8313,7 +11868,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không phải phân loại nợ",
     "correct": "3",
     "source": "Điểm b Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 543,
+    "id": 780,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8329,7 +11884,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Tiết (ii) Điểm b Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 544,
+    "id": 781,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8345,7 +11900,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "2",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 545,
+    "id": 782,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8361,7 +11916,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các chỉ tiêu về khả năng sinh lời, khả năng thanh toán, tỷ lệ nợ trên vốn, dòng tiền, khả năng trả nợ của KH không thay đổi",
     "correct": "3",
     "source": "Khoản 3 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 546,
+    "id": 783,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8377,7 +11932,7 @@ window.QUESTIONS_DATA = [
     "a4": "0,5% tổng số dư các khoản nợ từ nhóm 1 đến nhóm 4",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 547,
+    "id": 784,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8393,7 +11948,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 4 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Khoản 2 Điều 1 Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024",
-    "id": 548,
+    "id": 785,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8409,7 +11964,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 549,
+    "id": 786,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8425,7 +11980,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tại Trụ sở chính không chi tiết theo từng chi nhánh",
     "correct": "2",
     "source": "Theo khoản 2 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024 và khoản 1 Điều 1 Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024",
-    "id": 550,
+    "id": 787,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8441,7 +11996,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3",
     "correct": "2",
     "source": "Khoản 9 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Điều 17 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 551,
+    "id": 788,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8457,7 +12012,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 1 Điều 15 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 552,
+    "id": 789,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8473,7 +12028,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "1",
     "source": "Tiết (i) Điểm a Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 553,
+    "id": 790,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8489,7 +12044,7 @@ window.QUESTIONS_DATA = [
     "a4": "Việc sử dụng dự phòng để xử lý rủi ro làm thay đổi nghĩa vụ trả nợ của khách hàng đối với khoản nợ được sử dụng dự phòng để xử lý rủi ro.",
     "correct": "4",
     "source": "Khoản 13, 14, 15, 16 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 554,
+    "id": 791,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8505,7 +12060,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 555,
+    "id": 792,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8521,7 +12076,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số tiền thu hồi được từ nợ đã sử dụng dự phòng để xử lý rủi ro, không bao gồm số tiền thu hồi được từ việc xử lý tài sản bảo đảm, được coi là chi phí trong kỳ kế toán của Agribank nơi cấp tín dụng",
     "correct": "1",
     "source": "Điều 21 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 556,
+    "id": 793,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8537,7 +12092,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Khoản 2 Điều 7 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024.",
-    "id": 557,
+    "id": 794,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8553,7 +12108,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1,2",
     "correct": "4",
     "source": "Điều16 Q Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 558,
+    "id": 795,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8569,7 +12124,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 14 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 559,
+    "id": 796,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8585,7 +12140,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 560,
+    "id": 797,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8601,7 +12156,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 561,
+    "id": 798,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8617,7 +12172,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 562,
+    "id": 799,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8633,7 +12188,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 563,
+    "id": 800,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8649,7 +12204,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 564,
+    "id": 801,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8665,7 +12220,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024.",
-    "id": 565,
+    "id": 802,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8681,7 +12236,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 2",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 566,
+    "id": 803,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8697,7 +12252,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 22 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 567,
+    "id": 804,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8713,7 +12268,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 4 Điều 17 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 568,
+    "id": 805,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8729,7 +12284,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3, Điều 20 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 569,
+    "id": 806,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8745,7 +12300,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 100% phí, lãi phạt quá hạn",
     "correct": "4",
     "source": "Điểm a, Khoản 3  Điều 7 Quy chế số 575/HĐTV-TD ngày 29/9/2020",
-    "id": 570,
+    "id": 807,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8761,7 +12316,7 @@ window.QUESTIONS_DATA = [
     "a4": "8 tỷ đồng",
     "correct": "3",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 571,
+    "id": 808,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8777,7 +12332,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 tỷ đồng",
     "correct": "4",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 572,
+    "id": 809,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8793,7 +12348,7 @@ window.QUESTIONS_DATA = [
     "a4": "1 tỷ đồng",
     "correct": "4",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 573,
+    "id": 810,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8809,7 +12364,7 @@ window.QUESTIONS_DATA = [
     "a4": "8 tỷ đồng",
     "correct": "2",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 574,
+    "id": 811,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8825,7 +12380,7 @@ window.QUESTIONS_DATA = [
     "a4": "2 tỷ đồng",
     "correct": "1",
     "source": "Khoản 3 Điều 7 QĐ 575/QĐ-HĐTV-TD ngày 29/9/2020",
-    "id": 575,
+    "id": 812,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8841,7 +12396,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 15 Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 576,
+    "id": 813,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8857,7 +12412,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Điểm b(ii) khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 577,
+    "id": 814,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8873,7 +12428,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 2 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 578,
+    "id": 815,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8889,7 +12444,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 20  tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 579,
+    "id": 816,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8905,7 +12460,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 2,5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 580,
+    "id": 817,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8921,7 +12476,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 581,
+    "id": 818,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8937,7 +12492,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trên 5 tỷ đồng.",
     "correct": "4",
     "source": "Khoản  9  Điều 1  Quy chế 1502/QC-HĐTV-RRTD ngày 16/12/2024 sửa đổi  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 582,
+    "id": 819,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8953,7 +12508,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "2",
     "source": "Tiết i, điểm g, Khoản 1 Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2025",
-    "id": 583,
+    "id": 820,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8969,7 +12524,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết iii, điểm g, Khoản 1, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2027",
-    "id": 584,
+    "id": 821,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -8985,7 +12540,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết ii, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2030",
-    "id": 585,
+    "id": 822,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9001,7 +12556,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết iii, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2031",
-    "id": 586,
+    "id": 823,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9017,7 +12572,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 13 và Khoản 1 Điều 16 QC 346/QC-HĐTV-TD",
-    "id": 587,
+    "id": 824,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9033,7 +12588,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Điểm c, khoản 1, Điều 14 Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 588,
+    "id": 825,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9049,7 +12604,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Khoản 10 Điều 9 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 589,
+    "id": 826,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9065,7 +12620,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là Agribank chi nhánh loại II có khoản nợ xấu",
     "correct": "2",
     "source": "Khoản 4 Điều 2 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 590,
+    "id": 827,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9081,7 +12636,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ đã xử lý rủi ro; là nợ đã bán cho VAMC thanh toán bằng trái phiếu đặc biệt",
     "correct": "4",
     "source": "Khoản 2 Điều 2 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 591,
+    "id": 828,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9097,7 +12652,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Khoản 1 Điều 1 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 592,
+    "id": 829,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9113,7 +12668,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 3",
     "correct": "4",
     "source": "Điều 13 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 593,
+    "id": 830,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9129,7 +12684,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 12 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 594,
+    "id": 831,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9145,7 +12700,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 10 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 595,
+    "id": 832,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9161,7 +12716,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 3",
     "correct": "4",
     "source": "Điều 11 Quy định số 3559/QyĐ-NHNo-TD ngày 18/10/2024",
-    "id": 596,
+    "id": 833,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9177,7 +12732,7 @@ window.QUESTIONS_DATA = [
     "a4": "20% giá trị thu hồi được của khoản nợ",
     "correct": "2",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 597,
+    "id": 834,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9193,7 +12748,7 @@ window.QUESTIONS_DATA = [
     "a4": "16% giá trị thu hồi được của khoản nợ",
     "correct": "3",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 598,
+    "id": 835,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9209,7 +12764,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Tiết ii Điểm a Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 599,
+    "id": 836,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9225,7 +12780,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Tiết iii Điểm a Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 600,
+    "id": 837,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9241,7 +12796,7 @@ window.QUESTIONS_DATA = [
     "a4": "7% giá trị thu hồi được của khoản nợ",
     "correct": "4",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 601,
+    "id": 838,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9257,7 +12812,7 @@ window.QUESTIONS_DATA = [
     "a4": "15% giá trị thu hồi được của khoản nợ",
     "correct": "1",
     "source": "Khoản 1 Điều 2 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 602,
+    "id": 839,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9273,7 +12828,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3",
     "correct": "4",
     "source": "Điểm c, Khoản 2, Văn bản số 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 603,
+    "id": 840,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9289,7 +12844,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Văn bản 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 604,
+    "id": 841,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9305,7 +12860,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Văn bản 9124/HD-NHNo-QLN ngày 19/10/2021",
-    "id": 605,
+    "id": 842,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9321,7 +12876,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là văn bản thỏa thuận giữa Agribank với khách hàng và các bên liên quan khác về việc phát hành bảo lãnh ngân hàng cho khách hàng.",
     "correct": "2",
     "source": "Khoản 26 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 606,
+    "id": 843,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9337,7 +12892,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 607,
+    "id": 844,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9353,7 +12908,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 26 QC 879/QC-HĐTV-TD",
-    "id": 608,
+    "id": 845,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9369,7 +12924,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 609,
+    "id": 846,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9385,7 +12940,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 610,
+    "id": 847,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9401,7 +12956,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm gì cả",
     "correct": "2",
     "source": "Khoản 1 Điều 13 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 611,
+    "id": 848,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9417,7 +12972,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 612,
+    "id": 849,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9433,7 +12988,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phòng Kế hoạch và Quản lý rủi ro hoặc Phòng Khách hàng",
     "correct": "2",
     "source": "Khoản 2  Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 613,
+    "id": 850,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9449,7 +13004,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng phòng Kế hoạch và Quản lý rủi ro",
     "correct": "2",
     "source": "Khoản 4 Điều 3 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 614,
+    "id": 851,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9465,7 +13020,7 @@ window.QUESTIONS_DATA = [
     "a4": "75 tỷ",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 615,
+    "id": 852,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9481,7 +13036,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.4",
     "correct": "2",
     "source": "Khoản 4 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 616,
+    "id": 853,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9497,7 +13052,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.2",
     "correct": "1",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 617,
+    "id": 854,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9513,7 +13068,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 618,
+    "id": 855,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9529,7 +13084,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 619,
+    "id": 856,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9545,7 +13100,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "3",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 620,
+    "id": 857,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9561,7 +13116,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 3 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 621,
+    "id": 858,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9577,7 +13132,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.15",
     "correct": "4",
     "source": "Khoản 5 Điều 3 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 622,
+    "id": 859,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9593,7 +13148,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 623,
+    "id": 860,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9609,7 +13164,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.5",
     "correct": "3",
     "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 624,
+    "id": 861,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9625,7 +13180,7 @@ window.QUESTIONS_DATA = [
     "a4": "Số tiền từng kỳ trả nợ đã thỏa thuận ban đầu",
     "correct": "2",
     "source": "Thông tư 31/2024/TT-NHNN",
-    "id": 625,
+    "id": 862,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9641,7 +13196,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thông tư 31/2024/TT-NHNN",
     "correct": "4",
     "source": "Thông tư 31/2024/TT-NHNN",
-    "id": 626,
+    "id": 863,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9657,7 +13212,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là vật trực tiếp phục vụ cho việc khai thác công dụng cho chủ sử dụng.",
     "correct": "3",
     "source": "Điểm a Khoản 14 Điều 3 Quy chế 879/QC-HĐTV-TD",
-    "id": 627,
+    "id": 864,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9673,7 +13228,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 5 Điều 8 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 628,
+    "id": 865,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9689,7 +13244,7 @@ window.QUESTIONS_DATA = [
     "a4": "05/12/2024",
     "correct": "1",
     "source": "Khoản 2 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 629,
+    "id": 866,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9705,7 +13260,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.25",
     "correct": "1",
     "source": "Khoản 1 Điều 5 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 630,
+    "id": 867,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9721,7 +13276,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng là pháp nhân (bao gồm cả khách hàng TCTD) được xếp hạng khách hàng trên Hệ thống xếp hạng tín dụng nội bộ; Khách hàng là cá nhân (bao gồm cả khách hàng chủ doanh nghiệp tư nhân vay vốn cho hoạt động của Doanh nghiệp tư nhân) có dư nợ từ 500 triệu đồng trở lên",
     "correct": "4",
     "source": "Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 631,
+    "id": 868,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9737,7 +13292,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 3 Điều 24 QC 879/QC-HĐTV-TD",
-    "id": 632,
+    "id": 869,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9753,7 +13308,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "3",
     "source": "Tiết (ii) Điểm d Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 633,
+    "id": 870,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9769,7 +13324,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "4",
     "source": "Điểm đ Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 634,
+    "id": 871,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9785,7 +13340,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các điều kiện trên",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 635,
+    "id": 872,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9801,7 +13356,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điểm b khoản 4 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 636,
+    "id": 873,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -9816,7 +13371,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 2 Điều 31 QC 456/QC-HĐTV-TD",
-    "id": 637,
+    "id": 874,
     "batch_label": "Đợt 2"
   },
   {
@@ -9831,7 +13386,7 @@ window.QUESTIONS_DATA = [
     "a4": "18 tháng.",
     "correct": "3",
     "source": "Điểm a Khoản 3 Điều 13 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 638,
+    "id": 875,
     "batch_label": "Đợt 2"
   },
   {
@@ -9846,7 +13401,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1 Điều 42 QC 879/QC-HĐTV-TD",
-    "id": 639,
+    "id": 876,
     "batch_label": "Đợt 2"
   },
   {
@@ -9861,7 +13416,7 @@ window.QUESTIONS_DATA = [
     "a4": "12 tháng kiểm tra 01 lần.",
     "correct": "3",
     "source": "Điểm c Khoản 1 Điều 43 Quy định 2929/QyĐ-NHNo-TD",
-    "id": 640,
+    "id": 877,
     "batch_label": "Đợt 2"
   },
   {
@@ -9876,7 +13431,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thời gian xử lý tài sản bảo đảm theo dự kiến dưới 01 năm kể từ khi Agribank nơi cấp tín dụng có quyền thực hiện xử lý tài sản bảo đảm",
     "correct": "2",
     "source": "Khoản 4 Điều 9  Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 641,
+    "id": 878,
     "batch_label": "Đợt 2"
   },
   {
@@ -9891,7 +13446,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 4 Điều 28 QC 456/QC-HĐTV-TD",
-    "id": 642,
+    "id": 879,
     "batch_label": "Đợt 2"
   },
   {
@@ -9906,7 +13461,7 @@ window.QUESTIONS_DATA = [
     "a4": "6",
     "correct": "3",
     "source": "Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 643,
+    "id": 880,
     "batch_label": "Đợt 2"
   },
   {
@@ -9921,7 +13476,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 6 Điều 20 QC 456/QC-HĐTV-TD và Điều 1 Quy chế 648/QC-HĐTV-TD",
-    "id": 644,
+    "id": 881,
     "batch_label": "Đợt 2"
   },
   {
@@ -9936,7 +13491,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1, 2 Điều 45 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 645,
+    "id": 882,
     "batch_label": "Đợt 2"
   },
   {
@@ -9951,7 +13506,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.3",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 646,
+    "id": 883,
     "batch_label": "Đợt 2"
   },
   {
@@ -9966,7 +13521,7 @@ window.QUESTIONS_DATA = [
     "a4": "Từ sau ngày bên mua tài sản, bên nhận thay thế tài sản, bên nhận tặng cho tài sản xác lập quyền chiếm hữu đối với tài sản cầm cố.",
     "correct": "1",
     "source": "Điều 28 QC 879/QC-HĐTV-TD",
-    "id": 647,
+    "id": 884,
     "batch_label": "Đợt 2"
   },
   {
@@ -9981,7 +13536,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tùy thuộc vào thỏa thuận giữa các bên.",
     "correct": "2",
     "source": "Khoản 2 Điều 60 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 648,
+    "id": 885,
     "batch_label": "Đợt 2"
   },
   {
@@ -9996,7 +13551,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và Khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 649,
+    "id": 886,
     "batch_label": "Đợt 2"
   },
   {
@@ -10011,7 +13566,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 650,
+    "id": 887,
     "batch_label": "Đợt 2"
   },
   {
@@ -10026,7 +13581,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cấp tín dụng",
     "correct": "1",
     "source": "Khoản 2 Điều 10 Quy định 3286/QyĐ-NHNo-RRTD ngày 15/9/2025",
-    "id": 651,
+    "id": 888,
     "batch_label": "Đợt 2"
   },
   {
@@ -10041,7 +13596,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 4 Hướng dẫn 4611/HD-NHNo-RRTD ngày 31/12/2025",
-    "id": 652,
+    "id": 889,
     "batch_label": "Đợt 2"
   },
   {
@@ -10056,7 +13611,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a Khoản 3 Điều 25 QC 456/QC-HĐTV- TD",
-    "id": 653,
+    "id": 890,
     "batch_label": "Đợt 2"
   },
   {
@@ -10071,7 +13626,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "3",
     "source": "Khoản 1 Điều 6 và Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 654,
+    "id": 891,
     "batch_label": "Đợt 2"
   },
   {
@@ -10086,7 +13641,7 @@ window.QUESTIONS_DATA = [
     "a4": "Rà soát tính đầy đủ của hồ sơ trình, Báo cáo đề xuất cấp bảo lãnh, Báo cáo đánh giá khoản bảo lãnh (nếu có) của Chi nhánh loại II.",
     "correct": "2",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Điểm a Khoản 3 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 655,
+    "id": 892,
     "batch_label": "Đợt 2"
   },
   {
@@ -10101,7 +13656,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 15 QC 456/QC-HĐTV-TD",
-    "id": 656,
+    "id": 893,
     "batch_label": "Đợt 2"
   },
   {
@@ -10116,7 +13671,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xác định giá trị theo giá thị trường phù hợp với quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 2 Điều 11 QC 879/QC-HĐTV-TD",
-    "id": 657,
+    "id": 894,
     "batch_label": "Đợt 2"
   },
   {
@@ -10131,7 +13686,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ có số dư nợ gốc, lãi của từng kỳ hạn trả nợ của khoản nợ được cơ cấu lại thời hạn trả nợ đã quá hạn 15 ngày kể từ ngày đến hạn thanh toán, trả nợ đã thỏa thuận",
     "correct": "2",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 658,
+    "id": 895,
     "batch_label": "Đợt 2"
   },
   {
@@ -10146,7 +13701,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 4",
     "correct": "3",
     "source": "Điểm c (v) khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 659,
+    "id": 896,
     "batch_label": "Đợt 2"
   },
   {
@@ -10161,7 +13716,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn trên 360 ngày",
     "correct": "3",
     "source": "Khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 660,
+    "id": 897,
     "batch_label": "Đợt 2"
   },
   {
@@ -10176,7 +13731,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3, 4 Điều 19 QC 456/QC-HĐTV-TD",
-    "id": 661,
+    "id": 898,
     "batch_label": "Đợt 2"
   },
   {
@@ -10191,7 +13746,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không giới hạn về số lần cơ cấu lại thời hạn trả nợ",
     "correct": "4",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 662,
+    "id": 899,
     "batch_label": "Đợt 2"
   },
   {
@@ -10206,7 +13761,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Khoản 2 Điều 4 QC 456/QC-HĐTV-TD",
-    "id": 663,
+    "id": 900,
     "batch_label": "Đợt 2"
   },
   {
@@ -10221,7 +13776,7 @@ window.QUESTIONS_DATA = [
     "a4": "70%.",
     "correct": "1",
     "source": "Khoản 2 Điều 6 QĐ số 2929/QyĐ-NHNo-TD",
-    "id": 664,
+    "id": 901,
     "batch_label": "Đợt 2"
   },
   {
@@ -10236,7 +13791,7 @@ window.QUESTIONS_DATA = [
     "a4": "Mức cấp tín dụng tối đa 75% mệnh giá.",
     "correct": "2",
     "source": "Tiết i điểm b Khoản 3 Điều 10 QC 879/QC-HĐTV-TD",
-    "id": 665,
+    "id": 902,
     "batch_label": "Đợt 2"
   },
   {
@@ -10251,7 +13806,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 46 QC 456/QC-HĐTV-TD",
-    "id": 666,
+    "id": 903,
     "batch_label": "Đợt 2"
   },
   {
@@ -10266,7 +13821,7 @@ window.QUESTIONS_DATA = [
     "a4": "95%-100%",
     "correct": "3",
     "source": "Khoản 2 Điều 7 Quy định 2980/QyĐ-NHNo-RRTD",
-    "id": 667,
+    "id": 904,
     "batch_label": "Đợt 2"
   },
   {
@@ -10281,7 +13836,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 43 QC 456/QC-HĐTV-TD",
-    "id": 668,
+    "id": 905,
     "batch_label": "Đợt 2"
   },
   {
@@ -10296,7 +13851,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "1",
     "source": "Khoản 1 Điều 8 Quy chế 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 669,
+    "id": 906,
     "batch_label": "Đợt 2"
   },
   {
@@ -10311,7 +13866,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 21 QC 456/QC-HĐTV-TD",
-    "id": 670,
+    "id": 907,
     "batch_label": "Đợt 2"
   },
   {
@@ -10326,7 +13881,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Điều 5 QC 879/QC-HĐTV-TD",
-    "id": 671,
+    "id": 908,
     "batch_label": "Đợt 2"
   },
   {
@@ -10341,7 +13896,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điều 2 Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 672,
+    "id": 909,
     "batch_label": "Đợt 2"
   },
   {
@@ -10356,7 +13911,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 3 QC 456/QC-HĐTV-TD",
-    "id": 673,
+    "id": 910,
     "batch_label": "Đợt 2"
   },
   {
@@ -10371,7 +13926,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi cho vay được quyền giải ngân theo Thỏa thuận cho vay đã ký.",
     "correct": "3",
     "source": "Khoản 3 Điều 27 QC 456/QC-HĐTV-TD",
-    "id": 674,
+    "id": 911,
     "batch_label": "Đợt 2"
   },
   {
@@ -10386,7 +13941,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quản lý rủi ro là việc nhận dạng, theo dõi rủi ro trong hoạt động của Agribank",
     "correct": "2",
     "source": "Khoản 6 Điều 3 Quy chế 336/QC-HĐTV-RRTD ngày 29/5/2026",
-    "id": 675,
+    "id": 912,
     "batch_label": "Đợt 2"
   },
   {
@@ -10401,7 +13956,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Theo điều 23 Quy chế số 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 676,
+    "id": 913,
     "batch_label": "Đợt 2"
   },
   {
@@ -10416,7 +13971,7 @@ window.QUESTIONS_DATA = [
     "a4": "Xây dựng",
     "correct": "2",
     "source": "Mục II Phần A Phụ lục I Hướng dẫn cách xác định các chỉ tiêu, thông tin XHKH kèm theo Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 677,
+    "id": 914,
     "batch_label": "Đợt 2"
   },
   {
@@ -10431,7 +13986,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trưởng/Phó trưởng Phòng Khách hàng, Trưởng/Phó trưởng Ban thuộc Ban TĐPD, Trưởng/Phó trưởng phòng phê duyệt thuộc TTPD.",
     "correct": "3",
     "source": "Điểm d khoản 1 Điều 1 QC 466/QC-HĐTV-TD sửa đổi, bổ sung Khoản 33 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 678,
+    "id": 915,
     "batch_label": "Đợt 2"
   },
   {
@@ -10446,7 +14001,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 28  Quy chế 346/QC-HĐTV-TD",
-    "id": 679,
+    "id": 916,
     "batch_label": "Đợt 2"
   },
   {
@@ -10461,7 +14016,7 @@ window.QUESTIONS_DATA = [
     "a4": "Các bên thỏa thuận thu phí bảo lãnh bằng ngoại tệ hoặc quy đổi ra đồng Việt Nam theo tỷ giá bán của Agribank.",
     "correct": "2",
     "source": "Khoản 4 Điều 23 QC 346/QC-HĐTV-TD",
-    "id": 680,
+    "id": 917,
     "batch_label": "Đợt 2"
   },
   {
@@ -10476,7 +14031,7 @@ window.QUESTIONS_DATA = [
     "a4": "01 bản chính và 03 bản sao y.",
     "correct": "2",
     "source": "Điểm b Khoản 4 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 681,
+    "id": 918,
     "batch_label": "Đợt 2"
   },
   {
@@ -10491,7 +14046,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 33 QC 879/QĐ-HĐTV-TD",
-    "id": 682,
+    "id": 919,
     "batch_label": "Đợt 2"
   },
   {
@@ -10506,7 +14061,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 1 Điều 10 QC 879/QC-HĐTV-TD",
-    "id": 683,
+    "id": 920,
     "batch_label": "Đợt 2"
   },
   {
@@ -10521,7 +14076,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; Tài sản khác theo quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 5 Điều 3 QC 879/QC-HĐTV -TD",
-    "id": 684,
+    "id": 921,
     "batch_label": "Đợt 2"
   },
   {
@@ -10536,7 +14091,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cổ phiếu, trái phiếu, hối phiếu, kỳ phiếu, tín phiếu, chứng chỉ tiền gửi, séc, chứng chỉ quỹ, giấy tờ có giá khác theo quy định của pháp luật.",
     "correct": "4",
     "source": "Khoản 17 Điều 3 QC 879/QC-HĐTV-TD",
-    "id": 685,
+    "id": 922,
     "batch_label": "Đợt 2"
   },
   {
@@ -10551,7 +14106,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không làm chấm dứt Hợp đồng cấp tín dụng.",
     "correct": "4",
     "source": "Khoản 1 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 686,
+    "id": 923,
     "batch_label": "Đợt 2"
   },
   {
@@ -10566,7 +14121,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 3 Điều 11 QC 879/QC-HĐTV-TD",
-    "id": 687,
+    "id": 924,
     "batch_label": "Đợt 2"
   },
   {
@@ -10581,7 +14136,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 8 QC 879/QC-HĐTV-TD",
-    "id": 688,
+    "id": 925,
     "batch_label": "Đợt 2"
   },
   {
@@ -10596,7 +14151,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.1",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 689,
+    "id": 926,
     "batch_label": "Đợt 2"
   },
   {
@@ -10611,7 +14166,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 690,
+    "id": 927,
     "batch_label": "Đợt 2"
   },
   {
@@ -10626,7 +14181,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn từ 181 đến 360 ngày",
     "correct": "1",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 691,
+    "id": 928,
     "batch_label": "Đợt 2"
   },
   {
@@ -10641,7 +14196,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 692,
+    "id": 929,
     "batch_label": "Đợt 2"
   },
   {
@@ -10656,7 +14211,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khoản nợ quá hạn từ 91 ngày đến 180 ngày",
     "correct": "1",
     "source": "Khoản 1, Điều 6,  Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 693,
+    "id": 930,
     "batch_label": "Đợt 2"
   },
   {
@@ -10671,7 +14226,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điểm a, Khoản 2 Điều 6 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 694,
+    "id": 931,
     "batch_label": "Đợt 2"
   },
   {
@@ -10686,7 +14241,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "4",
     "source": "Điều 12 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 695,
+    "id": 932,
     "batch_label": "Đợt 2"
   },
   {
@@ -10701,7 +14256,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Điều 23 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 696,
+    "id": 933,
     "batch_label": "Đợt 2"
   },
   {
@@ -10716,7 +14271,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1, Điều 8, Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 697,
+    "id": 934,
     "batch_label": "Đợt 2"
   },
   {
@@ -10731,7 +14286,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "2",
     "source": "Khoản 2 Điều 9 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 698,
+    "id": 935,
     "batch_label": "Đợt 2"
   },
   {
@@ -10746,7 +14301,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Khoản 2 Điều 9 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 699,
+    "id": 936,
     "batch_label": "Đợt 2"
   },
   {
@@ -10761,7 +14316,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người quản lý nợ cho vay, người kiểm soát khoản vay, người quyết định cấp tín dụng không tham gia quá trình xử lý rủi ro của khoản cấp tín dụng đó.",
     "correct": "2",
     "source": "Khoản 4 Điều 17 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 700,
+    "id": 937,
     "batch_label": "Đợt 2"
   },
   {
@@ -10776,7 +14331,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm b, Khoản 2, Điều 6, QC 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 701,
+    "id": 938,
     "batch_label": "Đợt 2"
   },
   {
@@ -10791,7 +14346,7 @@ window.QUESTIONS_DATA = [
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 702,
+    "id": 939,
     "batch_label": "Đợt 2"
   },
   {
@@ -10806,7 +14361,7 @@ window.QUESTIONS_DATA = [
     "a4": "Vào nhóm nợ có mức độ rủi ro thấp hơn nhóm nợ mà khoản nợ đó đã được phân loại tại thời điểm phân loại nợ gần nhất trước khi mua",
     "correct": "3",
     "source": "Khoản 8 Điều 5 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 703,
+    "id": 940,
     "batch_label": "Đợt 2"
   },
   {
@@ -10821,7 +14376,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 2 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 704,
+    "id": 941,
     "batch_label": "Đợt 2"
   },
   {
@@ -10836,7 +14391,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 40 QC 879/QC-HĐTV-TD",
-    "id": 705,
+    "id": 942,
     "batch_label": "Đợt 2"
   },
   {
@@ -10851,7 +14406,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3.",
     "correct": "4",
     "source": "Khoản 1 Điều 17 Quy chế số 879/QC-HĐTV-TD",
-    "id": 706,
+    "id": 943,
     "batch_label": "Đợt 2"
   },
   {
@@ -10866,7 +14421,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 3 Điều 13   Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 707,
+    "id": 944,
     "batch_label": "Đợt 2"
   },
   {
@@ -10881,7 +14436,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 2 Điều 4 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 708,
+    "id": 945,
     "batch_label": "Đợt 2"
   },
   {
@@ -10896,7 +14451,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 6 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 709,
+    "id": 946,
     "batch_label": "Đợt 2"
   },
   {
@@ -10911,7 +14466,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm c, Khoản 3 Điều 4 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 710,
+    "id": 947,
     "batch_label": "Đợt 2"
   },
   {
@@ -10926,7 +14481,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trường hợp TSBĐ đấu giá 3 lần mà không thành.",
     "correct": "2",
     "source": "Điểm c Khoản 1 Điều 57 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 711,
+    "id": 948,
     "batch_label": "Đợt 2"
   },
   {
@@ -10941,7 +14496,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3 Điều 3 Quy định 1369/QyĐ-NHNo-TD ngày 14/5/2026",
-    "id": 712,
+    "id": 949,
     "batch_label": "Đợt 2"
   },
   {
@@ -10956,7 +14511,7 @@ window.QUESTIONS_DATA = [
     "a4": "Sau khi Bản án có hiệu lực pháp luật, trường hợp Bên bảo đảm không tự nguyện thi hành án Agribank nơi cấp tín dụng yêu cầu cơ quan thi hành án dân sự có thẩm quyền ra quyết định thi hành án. Thời hiệu yêu cầu thi hành án là 2 năm.",
     "correct": "1",
     "source": "Điểm a Khoản 2 Điều 57 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 713,
+    "id": 950,
     "batch_label": "Đợt 2"
   },
   {
@@ -10971,7 +14526,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 1 và 2.",
     "correct": "4",
     "source": "Khoản 1, 2 Điều 36 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung bởi QĐ 3838/QyĐ-NHNo-TD",
-    "id": 714,
+    "id": 951,
     "batch_label": "Đợt 2"
   },
   {
@@ -10986,7 +14541,7 @@ window.QUESTIONS_DATA = [
     "a4": "Giám đốc/Phó giám đốc; Trưởng phòng Kế toán và ngân quỹ; Trưởng phòng kiểm tra nội bộ/Cán bộ kiểm soát (nếu có); cán bộ phụ trách pháp chế (nếu có); Giám đốc Phòng Giao dịch.",
     "correct": "1",
     "source": "Khoản 2 Điều 55 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 715,
+    "id": 952,
     "batch_label": "Đợt 2"
   },
   {
@@ -11001,7 +14556,7 @@ window.QUESTIONS_DATA = [
     "a4": "Chi nhánh loại II, Phòng giao dịch không được ủy quyền đăng ký kỳ hạn trả nợ",
     "correct": "4",
     "source": "Khoản 1 Điều 5  QT số 1779/QTr-NHNo-RRTD ngày 26/6/2025.",
-    "id": 716,
+    "id": 953,
     "batch_label": "Đợt 2"
   },
   {
@@ -11016,7 +14571,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Tiết i, ii Điểm a Khoản 3 Điều 30 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 717,
+    "id": 954,
     "batch_label": "Đợt 2"
   },
   {
@@ -11031,7 +14586,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thành viên HĐXLTSBĐ tại Agribank nơi cấp tín dụng không phải là người quyết định và thẩm định cấp tín dụng của khoản nợ được XLTSBĐ.",
     "correct": "4",
     "source": "Khoản 2 Điều 55 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 718,
+    "id": 955,
     "batch_label": "Đợt 2"
   },
   {
@@ -11046,7 +14601,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "1",
     "source": "Khoản 3 Điều 37 QC 456/QC-NHNo-TD",
-    "id": 719,
+    "id": 956,
     "batch_label": "Đợt 2"
   },
   {
@@ -11061,7 +14616,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 720,
+    "id": 957,
     "batch_label": "Đợt 2"
   },
   {
@@ -11076,7 +14631,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a, b, c Khoản 2 Điều 32 QC 456/QC-HĐTV-TD",
-    "id": 721,
+    "id": 958,
     "batch_label": "Đợt 2"
   },
   {
@@ -11091,7 +14646,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 33 QC 456/QC-HĐTV-TD",
-    "id": 722,
+    "id": 959,
     "batch_label": "Đợt 2"
   },
   {
@@ -11106,7 +14661,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 47 QC 456/QC-HĐTV-TD",
-    "id": 723,
+    "id": 960,
     "batch_label": "Đợt 2"
   },
   {
@@ -11121,7 +14676,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 18 Điều 3 QC 879/QC-HĐTV-TD",
-    "id": 724,
+    "id": 961,
     "batch_label": "Đợt 2"
   },
   {
@@ -11136,7 +14691,7 @@ window.QUESTIONS_DATA = [
     "a4": "Quy mô, ngành nghề\n kinh doanh và thời gian hoạt động của KHPN, DNTN",
     "correct": "3",
     "source": "Khoản 1, Điều 5, Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 725,
+    "id": 962,
     "batch_label": "Đợt 2"
   },
   {
@@ -11151,7 +14706,7 @@ window.QUESTIONS_DATA = [
     "a4": "Cả 3 đáp án trên",
     "correct": "3",
     "source": "Khoản 2, Điều 10, Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 726,
+    "id": 963,
     "batch_label": "Đợt 2"
   },
   {
@@ -11166,7 +14721,7 @@ window.QUESTIONS_DATA = [
     "a4": "Có ít nhất 2/3 tổng số thành viên hội đồng đồng ý hoặc cho ý kiến đồng ý bằng văn bản, trong đó phải có ý kiến đồng ý của Chủ tịch hội đồng",
     "correct": "4",
     "source": "Điểm b Khoản 5 (Điều 5b) Quy định số 1859/QyĐ-NHNo-TD ngày 30/6/2026 về sửa đổi, bổ sung một số điều của Quy định số 2766/QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 727,
+    "id": 964,
     "batch_label": "Đợt 2"
   },
   {
@@ -11181,7 +14736,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Khoản 3, điều 17 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 728,
+    "id": 965,
     "batch_label": "Đợt 2"
   },
   {
@@ -11196,7 +14751,7 @@ window.QUESTIONS_DATA = [
     "a4": "Nhóm 5",
     "correct": "2",
     "source": "Khoản 1 Điều 10 Quy trình số 1779/QTr-NHNo-RRTD ngày 26/6/2025",
-    "id": 729,
+    "id": 966,
     "batch_label": "Đợt 2"
   },
   {
@@ -11211,7 +14766,7 @@ window.QUESTIONS_DATA = [
     "a4": "Người có thẩm quyền quyết định GDBĐ và ký kết HĐBĐ là chủ sở hữu, sử dụng tài sản hoặc người thừa kế của chủ sở hữu, sử dụng tài sản.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 33 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 730,
+    "id": 967,
     "batch_label": "Đợt 2"
   },
   {
@@ -11226,7 +14781,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank nơi phê duyệt cấp tín dụng.",
     "correct": "1",
     "source": "Điểm a khoản 1 Điều 42 QC 879/QC-HĐTV-TD",
-    "id": 731,
+    "id": 968,
     "batch_label": "Đợt 2"
   },
   {
@@ -11241,7 +14796,7 @@ window.QUESTIONS_DATA = [
     "a4": "Thỏa thuận cho vay được ký kết bởi người đại diện của Agribank và khách hàng.",
     "correct": "2",
     "source": "Khoản 1 Điều 17 QC 456/QC-HĐTV-TD",
-    "id": 732,
+    "id": 969,
     "batch_label": "Đợt 2"
   },
   {
@@ -11256,7 +14811,7 @@ window.QUESTIONS_DATA = [
     "a4": "09 tháng kể từ ngày đến hạn của từng số dư nợ gốc, lãi được cơ cấu lại thời hạn trả nợ",
     "correct": "3",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 733,
+    "id": 970,
     "batch_label": "Đợt 2"
   },
   {
@@ -11271,7 +14826,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được cơ cấu",
     "correct": "3",
     "source": "Khoản 7 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 734,
+    "id": 971,
     "batch_label": "Đợt 2"
   },
   {
@@ -11286,7 +14841,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không quá 12 tháng.",
     "correct": "2",
     "source": "Điểm c Khoản 3 Điều 13 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 735,
+    "id": 972,
     "batch_label": "Đợt 2"
   },
   {
@@ -11301,7 +14856,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng không có khả năng trả nợ gốc và/hoặc lãi đúng hạn do gặp khó khăn do nguyên nhân khách quan, bất khả kháng cụ thể và đáp ứng các quy định tại Điều 9 Quy định 515/QĐ-HĐTV-HSX ngày 31/7/2015",
     "correct": "4",
     "source": "Khoản 8 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025",
-    "id": 736,
+    "id": 973,
     "batch_label": "Đợt 2"
   },
   {
@@ -11316,7 +14871,7 @@ window.QUESTIONS_DATA = [
     "a4": "04 lần.",
     "correct": "2",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Khoản 2 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 737,
+    "id": 974,
     "batch_label": "Đợt 2"
   },
   {
@@ -11331,7 +14886,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 8 QC 456/QC-HĐTV-TD",
-    "id": 738,
+    "id": 975,
     "batch_label": "Đợt 2"
   },
   {
@@ -11346,7 +14901,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "2",
     "source": "Điều 16 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 739,
+    "id": 976,
     "batch_label": "Đợt 2"
   },
   {
@@ -11361,7 +14916,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được trước 07 ngày làm việc đối với động sản hoặc 15 ngày làm việc đối với bất động sản (trừ tài sản có nguy cơ bị mất giá trị hoặc giảm sút giá trị; quyền đòi nợ; giấy tờ có giá, thẻ tiết kiệm; vận đơn).",
     "correct": "3",
     "source": "Khoản 4 Điều 46 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 740,
+    "id": 977,
     "batch_label": "Đợt 2"
   },
   {
@@ -11376,7 +14931,7 @@ window.QUESTIONS_DATA = [
     "a4": "Phát hành bảo lãnh bảo đảm chất lượng sản phẩm.",
     "correct": "2",
     "source": "Khoản 1 Điều 18 QC 346/QC-HĐTV-TD",
-    "id": 741,
+    "id": 978,
     "batch_label": "Đợt 2"
   },
   {
@@ -11391,7 +14946,7 @@ window.QUESTIONS_DATA = [
     "a4": "Agribank thỏa thuận với Bên bảo đảm/khách hàng, Agribank có quyền (nhưng không có nghĩa vụ) trích tài khoản.",
     "correct": "3",
     "source": "Khoản 4 Điều 4 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 742,
+    "id": 979,
     "batch_label": "Đợt 2"
   },
   {
@@ -11406,7 +14961,7 @@ window.QUESTIONS_DATA = [
     "a4": "4 lần",
     "correct": "4",
     "source": "Khoản 4 Điều 4 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 743,
+    "id": 980,
     "batch_label": "Đợt 2"
   },
   {
@@ -11421,7 +14976,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Điểm a, b  Khoản 1 Điều 29 QĐ 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 3838/QyĐ-NHNo-TD",
-    "id": 744,
+    "id": 981,
     "batch_label": "Đợt 2"
   },
   {
@@ -11436,7 +14991,7 @@ window.QUESTIONS_DATA = [
     "a4": "Trả thay theo cam kết ngoại bảng (bao gồm khoản trả thay nghĩa vụ của khách hàng trong hoạt động bảo lãnh, nghiệp vụ thư tín dụng (trừ các trường hợp quy định tại điểm n khoản 2 của Quy chế này) và các khoản trả thay khác theo cam kết ngoại bảng)",
     "correct": "2",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 745,
+    "id": 982,
     "batch_label": "Đợt 2"
   },
   {
@@ -11451,7 +15006,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 02 (hai) người do lãnh đạo bộ phận Thẩm định/Phòng Thẩm định cử.",
     "correct": "2",
     "source": "Điểm e Khoản 1 Điều 15 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 746,
+    "id": 983,
     "batch_label": "Đợt 2"
   },
   {
@@ -11466,7 +15021,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tối đa 02 (hai) người trong đó có lãnh đạo Phòng Khách hàng.",
     "correct": "2",
     "source": "Khoản 10 Điều 14 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 747,
+    "id": 984,
     "batch_label": "Đợt 2"
   },
   {
@@ -11481,7 +15036,7 @@ window.QUESTIONS_DATA = [
     "a4": "0.85",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 748,
+    "id": 985,
     "batch_label": "Đợt 2"
   },
   {
@@ -11496,7 +15051,7 @@ window.QUESTIONS_DATA = [
     "a4": "1",
     "correct": "4",
     "source": "Điểm b Khoản 10 Điều 1 Quy chế 1212/QC-HĐTV-TD ngày 14/11/2025 và điểm đ khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 749,
+    "id": 986,
     "batch_label": "Đợt 2"
   },
   {
@@ -11511,7 +15066,7 @@ window.QUESTIONS_DATA = [
     "a4": "HĐTV, NHNN",
     "correct": "4",
     "source": "Khoản 3 Điều 20 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 750,
+    "id": 987,
     "batch_label": "Đợt 2"
   },
   {
@@ -11526,7 +15081,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 56 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 751,
+    "id": 988,
     "batch_label": "Đợt 2"
   },
   {
@@ -11541,7 +15096,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lý do xử lý TSBĐ; Nghĩa vụ được bảo đảm; Mô tả tài sản; Thời gian, địa điểm xử lý tài sản bảo đảm.",
     "correct": "3",
     "source": "Khoản 1 Điều 46 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 752,
+    "id": 989,
     "batch_label": "Đợt 2"
   },
   {
@@ -11556,7 +15111,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 13 QC 346/QC-HĐTV-TD",
-    "id": 753,
+    "id": 990,
     "batch_label": "Đợt 2"
   },
   {
@@ -11571,7 +15126,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điểm a Khoản 1 Điều 10 QC 456/QC-HĐTV-TD",
-    "id": 754,
+    "id": 991,
     "batch_label": "Đợt 2"
   },
   {
@@ -11586,7 +15141,7 @@ window.QUESTIONS_DATA = [
     "a4": "Đáp án 2 và 3.",
     "correct": "2",
     "source": "Khoản 1 Điều 14 QyĐ1445 /QyĐ-NHNo-TD",
-    "id": 755,
+    "id": 992,
     "batch_label": "Đợt 2"
   },
   {
@@ -11601,7 +15156,7 @@ window.QUESTIONS_DATA = [
     "a4": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất, ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
     "correct": "3",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Khoản 4 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
-    "id": 756,
+    "id": 993,
     "batch_label": "Đợt 2"
   },
   {
@@ -11616,7 +15171,7 @@ window.QUESTIONS_DATA = [
     "a4": "Niên hạn sử dụng còn lại tối thiểu bằng thời gian cấp tín dụng cộng thêm 04 năm.",
     "correct": "1",
     "source": "Điểm b Khoản 1 Điều 13 QĐ 2929/QyĐ-NHNo-TD",
-    "id": 757,
+    "id": 994,
     "batch_label": "Đợt 2"
   },
   {
@@ -11631,7 +15186,7 @@ window.QUESTIONS_DATA = [
     "a4": "Không được thế chấp quyền sử dụng đất, tài sản thuộc sở hữu của mình gắn liền với đất.",
     "correct": "1",
     "source": "Điểm a Khoản 1 Điều 8 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD (Khoản 4 Điều 1)",
-    "id": 758,
+    "id": 995,
     "batch_label": "Đợt 2"
   },
   {
@@ -11646,7 +15201,7 @@ window.QUESTIONS_DATA = [
     "a4": "Khách hàng đang có hoặc đang đặt quan hệ cấp tín dụng/cấp hạn mức giao dịch với Agribank (không bao gồm khách hàng của Chi nhánh Agribank ở nước ngoài)",
     "correct": "4",
     "source": "Khoản 2 Điều 1 Quy định 1967/QyĐ-NHNo-RRTD ngày 11/8/2023",
-    "id": 759,
+    "id": 996,
     "batch_label": "Đợt 2"
   },
   {
@@ -11661,7 +15216,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "1",
     "source": "Khoản 1 Điều 1 văn bản số 2096/HD-NHNo-TD ngày 07/02/2024",
-    "id": 760,
+    "id": 997,
     "batch_label": "Đợt 2"
   },
   {
@@ -11676,7 +15231,7 @@ window.QUESTIONS_DATA = [
     "a4": "60 ngày",
     "correct": "2",
     "source": "Điểm a khoản 4 điều 16 QC 346/QC-HĐTV-TD",
-    "id": 761,
+    "id": 998,
     "batch_label": "Đợt 2"
   },
   {
@@ -11691,7 +15246,7 @@ window.QUESTIONS_DATA = [
     "a4": "Tất cả đáp án trên.",
     "correct": "3",
     "source": "Khoản 3 Điều 34  QC 456/QC-HĐTV-TD",
-    "id": 762,
+    "id": 999,
     "batch_label": "Đợt 2"
   },
   {
@@ -11706,7 +15261,7 @@ window.QUESTIONS_DATA = [
     "a4": "",
     "correct": "3",
     "source": "Khoản 4 Điều 3 Quy định 3286/QyĐ-NHNo-RRTD ngày 15/9/2025",
-    "id": 763,
+    "id": 1000,
     "batch_label": "Đợt 2"
   }
 ];
