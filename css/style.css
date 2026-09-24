@@ -445,97 +445,11 @@ body {
     display: flex;
 }
 
-/* --- Material 3 Filter Chips Scroll Bar --- */
-.m3-chips-scroll {
-    display: flex;
-    gap: 8px;
-    margin-top: 10px;
-    overflow-x: auto;
-    padding: 2px 2px 6px 2px;
-    scroll-snap-type: x proximity;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none; /* Firefox */
-}
-
-.m3-chips-scroll::-webkit-scrollbar {
-    display: none; /* Safari and Chrome */
-}
-
-.m3-filter-chip {
-    flex-shrink: 0;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    height: 36px;
-    padding: 0 14px;
-    font-family: inherit;
-    font-size: 13.5px;
-    font-weight: 500;
-    border-radius: var(--md-shape-chip);
-    background-color: var(--md-sys-color-surface-container-lowest);
-    color: var(--md-sys-color-on-surface-variant);
-    border: 1px solid var(--md-sys-color-outline-variant);
-    cursor: pointer;
-    scroll-snap-align: start;
-    user-select: none;
-    white-space: nowrap;
-    transition: all var(--md-motion-duration-short) var(--md-motion-easing);
-}
-
-.m3-filter-chip:hover {
-    background-color: var(--md-sys-color-surface-container-low);
-    color: var(--md-sys-color-on-surface);
-    border-color: var(--md-sys-color-outline);
-}
-
-.m3-filter-chip:active {
-    transform: scale(0.96);
-}
-
-.m3-filter-chip.selected {
-    background-color: var(--md-sys-color-primary-container);
-    color: var(--md-sys-color-on-primary-container);
-    border-color: var(--md-sys-color-primary);
-    font-weight: 600;
-    box-shadow: 0 1px 3px rgba(168, 59, 30, 0.12);
-}
-
-.chip-check-icon {
-    display: none;
-    width: 16px;
-    height: 16px;
-    fill: currentColor;
-}
-
-.m3-filter-chip.selected .chip-check-icon {
-    display: inline-block;
-}
-
-.chip-count {
-    font-size: 0.72rem;
-    font-weight: 600;
-    padding: 2px 6px;
-    border-radius: var(--md-shape-full);
-    background-color: var(--md-sys-color-surface-container-high);
-    color: var(--md-sys-color-on-surface-variant);
-    margin-left: 2px;
-}
-
-.m3-filter-chip.selected .chip-count {
-    background-color: rgba(255, 255, 255, 0.45);
-    color: var(--md-sys-color-on-primary-container);
-}
-
-[data-theme="dark"] .m3-filter-chip.selected .chip-count {
-    background-color: rgba(0, 0, 0, 0.25);
-    color: var(--md-sys-color-on-primary-container);
-}
-
 /* --- Filter Strip (M3 Outlined Select & Stats Badge) --- */
 .m3-filter-strip {
     display: flex;
     gap: 10px;
-    margin-top: 8px;
+    margin-top: 12px;
     align-items: center;
 }
 

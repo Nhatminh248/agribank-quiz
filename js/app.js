@@ -19,7 +19,6 @@
     // DOM Elements
     const searchInput = document.getElementById('searchInput');
     const clearBtn = document.getElementById('clearBtn');
-    const chipsScroll = document.getElementById('chipsScroll');
     const categorySelect = document.getElementById('categorySelect');
     const statsBadge = document.getElementById('statsBadge');
     const resultsContainer = document.getElementById('results');
@@ -124,7 +123,6 @@
         });
 
         setupFilterOptions();
-        setupChipsCarousel();
         bindEvents();
         doFilter();
     }
@@ -194,78 +192,6 @@
         html += `</optgroup>`;
 
         categorySelect.innerHTML = html;
-    }
-
-    /**
-     * Build horizontal Material 3 Filter Chips Carousel
-     */
-    function setupChipsCarousel() {
-        if (!chipsScroll) return;
-
-        const checkSvg = `
-            <svg class="chip-check-icon" viewBox="0 0 24 24">
-                <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
-            </svg>
-        `;
-
-        const chipDefs = [
-            { id: 'all', label: 'Tất cả', count: allQuestions.length }
-        ];
-
-        ['Đợt 1', 'Đợt 2'].forEach(b => {
-            if (batchMap.has(b)) {
-                chipDefs.push({ id: `batch:${b}`, label: b, count: batchMap.get(b) });
-            }
-        });
-
-        Array.from(catMap.entries())
-            .sort((a, b) => b[1] - a[1])
-            .forEach(([cat, count]) => {
-                chipDefs.push({ id: `cat:${cat}`, label: cat, count });
-            });
-
-        let chipsHtml = '';
-        chipDefs.forEach((chip, idx) => {
-            const isSelected = idx === 0 ? 'selected' : '';
-            chipsHtml += `
-                <button type="button" class="m3-filter-chip ${isSelected}" data-val="${chip.id}" role="tab" aria-selected="${idx === 0 ? 'true' : 'false'}">
-                    ${checkSvg}
-                    <span>${escapeHtml(chip.label)}</span>
-                    <span class="chip-count">${chip.count}</span>
-                </button>
-            `;
-        });
-
-        chipsScroll.innerHTML = chipsHtml;
-
-        // Add click events to chips
-        chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chipEl => {
-            chipEl.addEventListener('click', () => {
-                const targetVal = chipEl.getAttribute('data-val');
-                selectFilterVal(targetVal);
-            });
-        });
-    }
-
-    /**
-     * Synchronize chip state and dropdown selection
-     */
-    function selectFilterVal(val) {
-        categorySelect.value = val;
-
-        // Highlight matching chip if available
-        chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chip => {
-            if (chip.getAttribute('data-val') === val) {
-                chip.classList.add('selected');
-                chip.setAttribute('aria-selected', 'true');
-                chip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-            } else {
-                chip.classList.remove('selected');
-                chip.setAttribute('aria-selected', 'false');
-            }
-        });
-
-        doFilter();
     }
 
     /**
@@ -458,7 +384,8 @@
             if (resetBtn) {
                 resetBtn.addEventListener('click', () => {
                     searchInput.value = '';
-                    selectFilterVal('all');
+                    categorySelect.value = 'all';
+                    doFilter();
                 });
             }
             return;
@@ -571,18 +498,6 @@
         });
 
         categorySelect.addEventListener('change', () => {
-            const val = categorySelect.value;
-            // Sync chips
-            chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chip => {
-                if (chip.getAttribute('data-val') === val) {
-                    chip.classList.add('selected');
-                    chip.setAttribute('aria-selected', 'true');
-                    chip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
-                } else {
-                    chip.classList.remove('selected');
-                    chip.setAttribute('aria-selected', 'false');
-                }
-            });
             doFilter();
         });
 
