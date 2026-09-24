@@ -1,53 +1,204 @@
-/* Google Material Design 3 (Material You) Purple Theme for Agribank Quiz */
+/* ==========================================================================
+   Google Material Design 3 (Material You) - Peachy Theme for Agribank Quiz
+   ========================================================================== */
+
 :root {
-    /* Google M3 Purple (Baseline) Tonal Palette */
-    --md-sys-color-primary: #6750a4;
+    /* --- Material 3 Peach Palette (Light Mode) --- */
+    --md-sys-color-primary: #a83b1e;
     --md-sys-color-on-primary: #ffffff;
-    --md-sys-color-primary-container: #eaddff;
-    --md-sys-color-on-primary-container: #21005d;
+    --md-sys-color-primary-container: #ffdbd1;
+    --md-sys-color-on-primary-container: #3a0b01;
+    --md-sys-color-primary-fixed: #ffdbd1;
+    --md-sys-color-primary-fixed-dim: #ffb59d;
 
-    --md-sys-color-secondary: #625b71;
+    --md-sys-color-secondary: #77574e;
     --md-sys-color-on-secondary: #ffffff;
-    --md-sys-color-secondary-container: #e8def8;
-    --md-sys-color-on-secondary-container: #1d192b;
+    --md-sys-color-secondary-container: #ffded6;
+    --md-sys-color-on-secondary-container: #2c150f;
 
-    --md-sys-color-tertiary: #7d5260;
+    --md-sys-color-tertiary: #725b2f;
     --md-sys-color-on-tertiary: #ffffff;
-    --md-sys-color-tertiary-container: #ffd8e4;
-    --md-sys-color-on-tertiary-container: #31111d;
+    --md-sys-color-tertiary-container: #fde0a6;
+    --md-sys-color-on-tertiary-container: #261a00;
 
-    --md-sys-color-surface: #fef7ff;
-    --md-sys-color-surface-container: #ffffff;
-    --md-sys-color-surface-container-high: #f7f2fa;
-    --md-sys-color-surface-container-highest: #ece6f0;
-    --md-sys-color-surface-variant: #e7e0ec;
+    --md-sys-color-surface: #fff8f6;
+    --md-sys-color-surface-dim: #e8d6d2;
+    --md-sys-color-surface-bright: #fff8f6;
+    --md-sys-color-surface-container-lowest: #ffffff;
+    --md-sys-color-surface-container-low: #fff1ed;
+    --md-sys-color-surface-container: #fceae5;
+    --md-sys-color-surface-container-high: #f6e4df;
+    --md-sys-color-surface-container-highest: #f0ded9;
+    --md-sys-color-surface-variant: #f5ded8;
 
-    --md-sys-color-outline: #79747e;
-    --md-sys-color-outline-variant: #cac4d0;
+    --md-sys-color-outline: #85736e;
+    --md-sys-color-outline-variant: #e5d4cf;
 
-    --md-sys-color-text-primary: #1d192b;
-    --md-sys-color-text-secondary: #49454f;
-    --md-sys-color-text-tertiary: #79747e;
+    --md-sys-color-on-surface: #231917;
+    --md-sys-color-on-surface-variant: #53433f;
+    --md-sys-color-on-surface-muted: #85736e;
 
-    --md-sys-color-success-container: #d7f8db;
-    --md-sys-color-on-success-container: #0f5223;
-    --md-sys-color-success-border: #9be4a8;
+    /* Semantic States */
+    --md-sys-color-success-container: #def7e2;
+    --md-sys-color-on-success-container: #085322;
+    --md-sys-color-success-border: #9de4ab;
 
-    --md-sys-color-highlight: #eaddff;
-    --md-sys-color-on-highlight: #21005d;
+    --md-sys-color-highlight: #ffe0d6;
+    --md-sys-color-on-highlight: #78250e;
+    --md-sys-color-highlight-border: #e06847;
 
-    /* Google Elevation Shadows with M3 Purple ambient tint */
-    --md-elevation-1: 0 1px 3px 1px rgba(0, 0, 0, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.12);
-    --md-elevation-2: 0 2px 6px 2px rgba(103, 80, 164, 0.15), 0 1px 2px 0 rgba(0, 0, 0, 0.18);
-    --md-elevation-3: 0 4px 8px 3px rgba(103, 80, 164, 0.18), 0 1px 3px 0 rgba(0, 0, 0, 0.22);
+    /* Batch tags */
+    --batch-both-bg: #ffdbd1;
+    --batch-both-text: #6d1f08;
+    --batch-d1-bg: #e0f2fe;
+    --batch-d1-text: #0369a1;
+    --batch-d2-bg: #fae8d4;
+    --batch-d2-text: #844300;
+
+    /* Sticky Blur Background */
+    --sticky-bg: rgba(255, 248, 246, 0.88);
+
+    /* Google Elevation Shadows with M3 Peach ambient tint */
+    --md-elevation-1: 0 1px 3px 1px rgba(168, 59, 30, 0.08), 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    --md-elevation-2: 0 2px 6px 2px rgba(168, 59, 30, 0.11), 0 1px 2px 0 rgba(0, 0, 0, 0.07);
+    --md-elevation-3: 0 4px 12px 3px rgba(168, 59, 30, 0.13), 0 1px 3px 0 rgba(0, 0, 0, 0.09);
+    --md-elevation-4: 0 6px 16px 4px rgba(168, 59, 30, 0.15), 0 2px 4px 0 rgba(0, 0, 0, 0.11);
 
     /* Shape Radii */
     --md-shape-full: 9999px;
+    --md-shape-xl: 28px;
     --md-shape-large: 20px;
     --md-shape-medium: 12px;
-    --md-shape-small: 8px;
+    --md-shape-chip: 8px;
+    --md-shape-small: 6px;
+
+    /* Transitions & Easing */
+    --md-motion-easing: cubic-bezier(0.2, 0, 0, 1);
+    --md-motion-duration-short: 0.15s;
+    --md-motion-duration-medium: 0.25s;
 }
 
+/* --- Material 3 Peach Palette (Dark Mode) --- */
+[data-theme="dark"] {
+    --md-sys-color-primary: #ffb59d;
+    --md-sys-color-on-primary: #5f1600;
+    --md-sys-color-primary-container: #82290d;
+    --md-sys-color-on-primary-container: #ffdbd1;
+    --md-sys-color-primary-fixed: #ffdbd1;
+    --md-sys-color-primary-fixed-dim: #ffb59d;
+
+    --md-sys-color-secondary: #e7bdb2;
+    --md-sys-color-on-secondary: #442a22;
+    --md-sys-color-secondary-container: #5d3f37;
+    --md-sys-color-on-secondary-container: #ffded6;
+
+    --md-sys-color-tertiary: #e1c48d;
+    --md-sys-color-on-tertiary: #402d05;
+    --md-sys-color-tertiary-container: #584419;
+    --md-sys-color-on-tertiary-container: #fde0a6;
+
+    --md-sys-color-surface: #1a1110;
+    --md-sys-color-surface-dim: #1a1110;
+    --md-sys-color-surface-bright: #423735;
+    --md-sys-color-surface-container-lowest: #140c0b;
+    --md-sys-color-surface-container-low: #221918;
+    --md-sys-color-surface-container: #261d1c;
+    --md-sys-color-surface-container-high: #312726;
+    --md-sys-color-surface-container-highest: #3c3230;
+    --md-sys-color-surface-variant: #53433f;
+
+    --md-sys-color-outline: #a08c87;
+    --md-sys-color-outline-variant: #433633;
+
+    --md-sys-color-on-surface: #f0ded9;
+    --md-sys-color-on-surface-variant: #d8c2bc;
+    --md-sys-color-on-surface-muted: #a08c87;
+
+    --md-sys-color-success-container: #164e29;
+    --md-sys-color-on-success-container: #c8f8d2;
+    --md-sys-color-success-border: #2c7843;
+
+    --md-sys-color-highlight: #64210a;
+    --md-sys-color-on-highlight: #ffdbd0;
+    --md-sys-color-highlight-border: #ffb59d;
+
+    --batch-both-bg: #82290d;
+    --batch-both-text: #ffdbd1;
+    --batch-d1-bg: #0c4a6e;
+    --batch-d1-text: #bae6fd;
+    --batch-d2-bg: #584419;
+    --batch-d2-text: #fde0a6;
+
+    --sticky-bg: rgba(26, 17, 16, 0.88);
+
+    --md-elevation-1: 0 1px 3px 1px rgba(0, 0, 0, 0.45), 0 1px 2px 0 rgba(0, 0, 0, 0.35);
+    --md-elevation-2: 0 2px 6px 2px rgba(0, 0, 0, 0.55), 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+    --md-elevation-3: 0 4px 12px 3px rgba(0, 0, 0, 0.65), 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+    --md-elevation-4: 0 6px 16px 4px rgba(0, 0, 0, 0.75), 0 2px 4px 0 rgba(0, 0, 0, 0.55);
+}
+
+/* Auto match system dark theme if not manually chosen */
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+        --md-sys-color-primary: #ffb59d;
+        --md-sys-color-on-primary: #5f1600;
+        --md-sys-color-primary-container: #82290d;
+        --md-sys-color-on-primary-container: #ffdbd1;
+        --md-sys-color-primary-fixed: #ffdbd1;
+        --md-sys-color-primary-fixed-dim: #ffb59d;
+
+        --md-sys-color-secondary: #e7bdb2;
+        --md-sys-color-on-secondary: #442a22;
+        --md-sys-color-secondary-container: #5d3f37;
+        --md-sys-color-on-secondary-container: #ffded6;
+
+        --md-sys-color-tertiary: #e1c48d;
+        --md-sys-color-on-tertiary: #402d05;
+        --md-sys-color-tertiary-container: #584419;
+        --md-sys-color-on-tertiary-container: #fde0a6;
+
+        --md-sys-color-surface: #1a1110;
+        --md-sys-color-surface-dim: #1a1110;
+        --md-sys-color-surface-bright: #423735;
+        --md-sys-color-surface-container-lowest: #140c0b;
+        --md-sys-color-surface-container-low: #221918;
+        --md-sys-color-surface-container: #261d1c;
+        --md-sys-color-surface-container-high: #312726;
+        --md-sys-color-surface-container-highest: #3c3230;
+        --md-sys-color-surface-variant: #53433f;
+
+        --md-sys-color-outline: #a08c87;
+        --md-sys-color-outline-variant: #433633;
+
+        --md-sys-color-on-surface: #f0ded9;
+        --md-sys-color-on-surface-variant: #d8c2bc;
+        --md-sys-color-on-surface-muted: #a08c87;
+
+        --md-sys-color-success-container: #164e29;
+        --md-sys-color-on-success-container: #c8f8d2;
+        --md-sys-color-success-border: #2c7843;
+
+        --md-sys-color-highlight: #64210a;
+        --md-sys-color-on-highlight: #ffdbd0;
+        --md-sys-color-highlight-border: #ffb59d;
+
+        --batch-both-bg: #82290d;
+        --batch-both-text: #ffdbd1;
+        --batch-d1-bg: #0c4a6e;
+        --batch-d1-text: #bae6fd;
+        --batch-d2-bg: #584419;
+        --batch-d2-text: #fde0a6;
+
+        --sticky-bg: rgba(26, 17, 16, 0.88);
+
+        --md-elevation-1: 0 1px 3px 1px rgba(0, 0, 0, 0.45), 0 1px 2px 0 rgba(0, 0, 0, 0.35);
+        --md-elevation-2: 0 2px 6px 2px rgba(0, 0, 0, 0.55), 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+        --md-elevation-3: 0 4px 12px 3px rgba(0, 0, 0, 0.65), 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+        --md-elevation-4: 0 6px 16px 4px rgba(0, 0, 0, 0.75), 0 2px 4px 0 rgba(0, 0, 0, 0.55);
+    }
+}
+
+/* --- Base & Reset --- */
 * {
     box-sizing: border-box;
     margin: 0;
@@ -56,23 +207,26 @@
 }
 
 body {
-    font-family: 'Google Sans', 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: 'Google Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.5;
-    color: var(--md-sys-color-text-primary);
+    color: var(--md-sys-color-on-surface);
     background-color: var(--md-sys-color-surface);
-    padding: 0 16px 80px 16px;
+    padding: 0 16px 90px 16px;
     max-width: 860px;
     margin: 0 auto;
     -webkit-font-smoothing: antialiased;
+    transition: background-color var(--md-motion-duration-medium) var(--md-motion-easing),
+                color var(--md-motion-duration-medium) var(--md-motion-easing);
 }
 
-/* Google App Bar */
+/* --- Google Material 3 App Bar --- */
 .google-app-bar {
     padding-top: max(16px, env(safe-area-inset-top));
     padding-bottom: 12px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 12px;
 }
 
 .app-brand {
@@ -82,21 +236,27 @@ body {
 }
 
 .brand-icon {
-    width: 40px;
-    height: 40px;
-    border-radius: 12px;
-    background: var(--md-sys-color-primary-container);
-    color: var(--md-sys-color-primary);
+    width: 44px;
+    height: 44px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, var(--md-sys-color-primary-container), #ffb59d);
+    color: var(--md-sys-color-on-primary-container);
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: var(--md-elevation-1);
+    flex-shrink: 0;
+}
+
+[data-theme="dark"] .brand-icon {
+    background: linear-gradient(135deg, #82290d, #b8431e);
+    color: #ffdbd1;
 }
 
 .brand-text .app-title {
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    color: var(--md-sys-color-text-primary);
+    color: var(--md-sys-color-on-surface);
     letter-spacing: -0.2px;
     line-height: 1.2;
 }
@@ -108,93 +268,274 @@ body {
     letter-spacing: 0.2px;
 }
 
-/* Sticky Search Container */
+.app-actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* M3 Tonal Icon Button */
+.m3-icon-button-tonal {
+    width: 40px;
+    height: 40px;
+    border-radius: var(--md-shape-full);
+    border: none;
+    background-color: var(--md-sys-color-surface-container);
+    color: var(--md-sys-color-on-surface-variant);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color var(--md-motion-duration-short) ease,
+                color var(--md-motion-duration-short) ease,
+                transform var(--md-motion-duration-short) ease;
+}
+
+.m3-icon-button-tonal:hover {
+    background-color: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-primary);
+}
+
+.m3-icon-button-tonal:active {
+    transform: scale(0.92);
+}
+
+/* Theme icon swap logic */
+.sun-icon {
+    display: none;
+}
+.moon-icon {
+    display: block;
+}
+
+[data-theme="dark"] .sun-icon {
+    display: block;
+}
+[data-theme="dark"] .moon-icon {
+    display: none;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .sun-icon {
+        display: block;
+    }
+    :root:not([data-theme="light"]) .moon-icon {
+        display: none;
+    }
+}
+
+/* --- Sticky Search Container --- */
 .search-sticky-container {
     position: sticky;
     top: 0;
-    background-color: var(--md-sys-color-surface);
-    padding-top: 6px;
-    padding-bottom: 14px;
+    background-color: var(--sticky-bg);
+    padding-top: 8px;
+    padding-bottom: 12px;
     z-index: 50;
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    transition: background-color var(--md-motion-duration-medium) ease;
 }
 
-/* Google M3 Pill Search Bar */
+/* --- Google M3 Pill Search Bar --- */
 .m3-search-bar {
     position: relative;
     display: flex;
     align-items: center;
     width: 100%;
-    height: 52px;
-    background-color: #ffffff;
+    height: 54px;
+    background-color: var(--md-sys-color-surface-container-lowest);
     border-radius: var(--md-shape-full);
     box-shadow: var(--md-elevation-1);
-    transition: box-shadow 0.2s ease, border-color 0.2s ease;
-    border: 1px solid transparent;
+    border: 1px solid var(--md-sys-color-outline-variant);
+    transition: box-shadow var(--md-motion-duration-short) var(--md-motion-easing),
+                border-color var(--md-motion-duration-short) var(--md-motion-easing),
+                background-color var(--md-motion-duration-short) var(--md-motion-easing);
 }
 
 .m3-search-bar:focus-within {
     box-shadow: var(--md-elevation-2);
     border-color: var(--md-sys-color-primary);
+    outline: 2px solid var(--md-sys-color-primary-container);
 }
 
 .search-leading-icon {
     position: absolute;
     left: 18px;
-    color: var(--md-sys-color-text-secondary);
+    color: var(--md-sys-color-primary);
     display: flex;
     align-items: center;
     justify-content: center;
     pointer-events: none;
+    transition: color var(--md-motion-duration-short) ease;
 }
 
 #searchInput {
     width: 100%;
     height: 100%;
-    padding: 0 48px 0 52px;
+    padding: 0 74px 0 54px;
     font-size: 16px; /* Prevents auto-zoom on iOS */
     font-family: inherit;
+    font-weight: 400;
     border: none;
     border-radius: var(--md-shape-full);
     background: transparent;
-    color: var(--md-sys-color-text-primary);
+    color: var(--md-sys-color-on-surface);
     outline: none;
 }
 
 #searchInput::placeholder {
-    color: var(--md-sys-color-text-tertiary);
+    color: var(--md-sys-color-on-surface-muted);
     font-size: 0.95rem;
 }
 
-.m3-icon-button {
+.search-trailing {
     position: absolute;
-    right: 12px;
-    width: 32px;
-    height: 32px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.search-shortcut-badge {
+    display: none;
+    padding: 2px 7px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--md-sys-color-on-surface-muted);
+    background: var(--md-sys-color-surface-container-high);
+    border: 1px solid var(--md-sys-color-outline-variant);
+    border-radius: var(--md-shape-small);
+    pointer-events: none;
+    user-select: none;
+}
+
+@media (min-width: 640px) {
+    .search-shortcut-badge {
+        display: inline-block;
+    }
+}
+
+.m3-icon-button {
+    width: 34px;
+    height: 34px;
     border: none;
     border-radius: 50%;
-    background: #f1f3f4;
-    color: var(--md-sys-color-text-secondary);
+    background: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-on-surface-variant);
     cursor: pointer;
     display: none;
     align-items: center;
     justify-content: center;
-    transition: background 0.15s ease;
+    transition: background-color var(--md-motion-duration-short) ease,
+                color var(--md-motion-duration-short) ease,
+                transform var(--md-motion-duration-short) ease;
 }
 
 .m3-icon-button:hover {
-    background: #e2e5e9;
+    background: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+}
+
+.m3-icon-button:active {
+    transform: scale(0.9);
 }
 
 .clear-btn.active {
     display: flex;
 }
 
-/* Filter Strip (M3 Filter Chips & Select) */
+/* --- Material 3 Filter Chips Scroll Bar --- */
+.m3-chips-scroll {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+    overflow-x: auto;
+    padding: 2px 2px 6px 2px;
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
+}
+
+.m3-chips-scroll::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+}
+
+.m3-filter-chip {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    height: 36px;
+    padding: 0 14px;
+    font-family: inherit;
+    font-size: 13.5px;
+    font-weight: 500;
+    border-radius: var(--md-shape-chip);
+    background-color: var(--md-sys-color-surface-container-lowest);
+    color: var(--md-sys-color-on-surface-variant);
+    border: 1px solid var(--md-sys-color-outline-variant);
+    cursor: pointer;
+    scroll-snap-align: start;
+    user-select: none;
+    white-space: nowrap;
+    transition: all var(--md-motion-duration-short) var(--md-motion-easing);
+}
+
+.m3-filter-chip:hover {
+    background-color: var(--md-sys-color-surface-container-low);
+    color: var(--md-sys-color-on-surface);
+    border-color: var(--md-sys-color-outline);
+}
+
+.m3-filter-chip:active {
+    transform: scale(0.96);
+}
+
+.m3-filter-chip.selected {
+    background-color: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    border-color: var(--md-sys-color-primary);
+    font-weight: 600;
+    box-shadow: 0 1px 3px rgba(168, 59, 30, 0.12);
+}
+
+.chip-check-icon {
+    display: none;
+    width: 16px;
+    height: 16px;
+    fill: currentColor;
+}
+
+.m3-filter-chip.selected .chip-check-icon {
+    display: inline-block;
+}
+
+.chip-count {
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 2px 6px;
+    border-radius: var(--md-shape-full);
+    background-color: var(--md-sys-color-surface-container-high);
+    color: var(--md-sys-color-on-surface-variant);
+    margin-left: 2px;
+}
+
+.m3-filter-chip.selected .chip-count {
+    background-color: rgba(255, 255, 255, 0.45);
+    color: var(--md-sys-color-on-primary-container);
+}
+
+[data-theme="dark"] .m3-filter-chip.selected .chip-count {
+    background-color: rgba(0, 0, 0, 0.25);
+    color: var(--md-sys-color-on-primary-container);
+}
+
+/* --- Filter Strip (M3 Outlined Select & Stats Badge) --- */
 .m3-filter-strip {
     display: flex;
     gap: 10px;
-    margin-top: 10px;
+    margin-top: 8px;
     align-items: center;
 }
 
@@ -216,66 +557,84 @@ body {
 
 #categorySelect {
     width: 100%;
-    height: 38px;
+    height: 40px;
     padding: 0 32px 0 38px;
     font-family: inherit;
     font-size: 13.5px;
     font-weight: 500;
     border: 1px solid var(--md-sys-color-outline-variant);
-    border-radius: var(--md-shape-small);
-    background-color: #ffffff;
-    color: var(--md-sys-color-text-primary);
+    border-radius: var(--md-shape-medium);
+    background-color: var(--md-sys-color-surface-container-lowest);
+    color: var(--md-sys-color-on-surface);
     cursor: pointer;
     outline: none;
-    transition: border-color 0.15s ease, background 0.15s ease;
+    transition: border-color var(--md-motion-duration-short) ease,
+                background-color var(--md-motion-duration-short) ease;
     appearance: none;
-    background-image: url("data:image/svg2+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='%23444746'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='%23a83b1e'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 10px center;
 }
 
+[data-theme="dark"] #categorySelect {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='%23ffb59d'%3E%3Cpath d='M7 10l5 5 5-5z'/%3E%3C/svg%3E");
+}
+
 #categorySelect:focus {
     border-color: var(--md-sys-color-primary);
+    box-shadow: 0 0 0 1px var(--md-sys-color-primary);
 }
 
 #categorySelect optgroup {
     font-weight: 700;
     color: var(--md-sys-color-primary);
-    background-color: #f8fafc;
+    background-color: var(--md-sys-color-surface-container-high);
+}
+
+#categorySelect option {
+    font-weight: 400;
+    color: var(--md-sys-color-on-surface);
+    background-color: var(--md-sys-color-surface-container-lowest);
 }
 
 .m3-badge {
-    font-size: 0.8rem;
+    font-size: 0.82rem;
     font-weight: 600;
-    color: var(--md-sys-color-primary);
+    color: var(--md-sys-color-on-primary-container);
     background: var(--md-sys-color-primary-container);
-    padding: 8px 14px;
+    padding: 9px 15px;
     border-radius: var(--md-shape-full);
     white-space: nowrap;
     display: inline-flex;
     align-items: center;
+    box-shadow: var(--md-elevation-1);
+    transition: all var(--md-motion-duration-short) ease;
 }
 
-/* Results & Cards Container */
+/* --- Results & Cards Container --- */
 .cards-container {
     margin-top: 14px;
     display: flex;
     flex-direction: column;
-    gap: 14px;
+    gap: 16px;
 }
 
-/* Google M3 Card */
+/* --- Google M3 Question Card --- */
 .question-card {
-    background: var(--md-sys-color-surface-container);
+    background: var(--md-sys-color-surface-container-lowest);
     border-radius: var(--md-shape-large);
-    padding: 18px 20px;
+    padding: 20px 22px;
     border: 1px solid var(--md-sys-color-outline-variant);
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
-    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    box-shadow: var(--md-elevation-1);
+    transition: transform var(--md-motion-duration-short) var(--md-motion-easing),
+                box-shadow var(--md-motion-duration-short) var(--md-motion-easing),
+                border-color var(--md-motion-duration-short) var(--md-motion-easing);
 }
 
 .question-card:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    box-shadow: var(--md-elevation-2);
+    border-color: var(--md-sys-color-outline);
 }
 
 .question-header {
@@ -284,7 +643,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     gap: 8px;
-    margin-bottom: 12px;
+    margin-bottom: 14px;
 }
 
 .tags-group {
@@ -294,74 +653,114 @@ body {
     flex-wrap: wrap;
 }
 
-/* M3 Chips */
+/* M3 Chips inside card */
 .category-tag {
-    font-size: 0.72rem;
+    font-size: 0.74rem;
     font-weight: 600;
     color: var(--md-sys-color-on-secondary-container);
     background: var(--md-sys-color-secondary-container);
     padding: 4px 10px;
-    border-radius: var(--md-shape-small);
+    border-radius: var(--md-shape-chip);
     letter-spacing: 0.2px;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
 }
 
 .batch-tag {
-    font-size: 0.72rem;
+    font-size: 0.74rem;
     font-weight: 600;
     padding: 4px 10px;
-    border-radius: var(--md-shape-small);
-    display: inline-block;
+    border-radius: var(--md-shape-chip);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.batch-tag svg {
+    flex-shrink: 0;
 }
 
 .batch-both {
-    background: var(--md-sys-color-primary-container);
-    color: var(--md-sys-color-on-primary-container);
+    background: var(--batch-both-bg);
+    color: var(--batch-both-text);
 }
 
 .batch-d1 {
-    background: #e0f2fe;
-    color: #0369a1;
+    background: var(--batch-d1-bg);
+    color: var(--batch-d1-text);
 }
 
 .batch-d2 {
-    background: var(--md-sys-color-tertiary-container);
-    color: var(--md-sys-color-on-tertiary-container);
+    background: var(--batch-d2-bg);
+    color: var(--batch-d2-text);
 }
 
 .question-number {
-    font-size: 0.8rem;
+    font-size: 0.78rem;
     font-weight: 600;
-    color: var(--md-sys-color-text-tertiary);
+    color: var(--md-sys-color-on-surface-muted);
+    background: var(--md-sys-color-surface-container-high);
+    padding: 3px 9px;
+    border-radius: var(--md-shape-full);
 }
 
 .question-text {
     font-size: 1.05rem;
     font-weight: 600;
-    color: var(--md-sys-color-text-primary);
-    margin-bottom: 14px;
+    color: var(--md-sys-color-on-surface);
+    margin-bottom: 16px;
     line-height: 1.55;
     letter-spacing: -0.1px;
 }
 
-/* M3 Choice Options */
+/* --- M3 Choice Options --- */
 .answers-list {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 10px;
 }
 
 .answer {
-    padding: 11px 14px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 12px 14px;
     border-radius: var(--md-shape-medium);
-    border: 1px solid #edf0f2;
-    background-color: #fbfcfd;
+    border: 1px solid var(--md-sys-color-outline-variant);
+    background-color: var(--md-sys-color-surface-container-low);
     font-size: 0.94rem;
-    color: var(--md-sys-color-text-secondary);
+    color: var(--md-sys-color-on-surface-variant);
     line-height: 1.5;
-    transition: background 0.15s ease;
+    transition: background-color var(--md-motion-duration-short) ease,
+                border-color var(--md-motion-duration-short) ease,
+                transform var(--md-motion-duration-short) ease;
 }
 
+.answer:hover {
+    background-color: var(--md-sys-color-surface-container);
+}
+
+.opt-index {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    font-size: 0.75rem;
+    font-weight: 700;
+    background-color: var(--md-sys-color-surface-container-highest);
+    color: var(--md-sys-color-on-surface-variant);
+    flex-shrink: 0;
+    margin-top: 1px;
+    transition: all var(--md-motion-duration-short) ease;
+}
+
+.opt-content {
+    flex: 1;
+}
+
+/* Correct Answer (Material 3 Success State) */
 .answer.correct {
     background-color: var(--md-sys-color-success-container);
     border-color: var(--md-sys-color-success-border);
@@ -369,31 +768,55 @@ body {
     font-weight: 600;
 }
 
-.answer.correct::before {
-    content: "✓ ";
-    font-weight: 800;
-    margin-right: 4px;
+.answer.correct .opt-index {
+    background-color: var(--md-sys-color-on-success-container);
+    color: #ffffff;
 }
 
-/* Source Citation */
+.correct-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 7px;
+    border-radius: var(--md-shape-small);
+    background-color: rgba(255, 255, 255, 0.65);
+    color: var(--md-sys-color-on-success-container);
+    margin-left: 8px;
+    white-space: nowrap;
+}
+
+[data-theme="dark"] .correct-badge {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* --- Source Citation --- */
 .source {
     font-size: 0.8rem;
-    color: var(--md-sys-color-text-tertiary);
+    color: var(--md-sys-color-on-surface-muted);
     margin-top: 14px;
     padding-top: 10px;
-    border-top: 1px solid #f1f3f4;
+    border-top: 1px solid var(--md-sys-color-outline-variant);
     font-style: italic;
     display: flex;
     gap: 6px;
     align-items: flex-start;
 }
 
+.source svg {
+    flex-shrink: 0;
+    margin-top: 2px;
+    color: var(--md-sys-color-primary);
+}
+
 .source-label {
     font-weight: 600;
     font-style: normal;
-    color: var(--md-sys-color-text-secondary);
+    color: var(--md-sys-color-on-surface-variant);
 }
 
+/* --- Material 3 Peachy Highlight --- */
 mark {
     background-color: var(--md-sys-color-highlight);
     color: var(--md-sys-color-on-highlight);
@@ -402,24 +825,55 @@ mark {
     font-weight: 600;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
-    border-bottom: 2px solid var(--md-sys-color-primary);
+    border-bottom: 2px solid var(--md-sys-color-highlight-border);
 }
 
-/* Empty State */
+/* --- Empty State --- */
 .empty-state {
     text-align: center;
     padding: 50px 20px;
-    color: var(--md-sys-color-text-secondary);
-    background: #ffffff;
+    color: var(--md-sys-color-on-surface-variant);
+    background: var(--md-sys-color-surface-container-lowest);
     border-radius: var(--md-shape-large);
     border: 1px dashed var(--md-sys-color-outline-variant);
 }
 
+.empty-state-icon {
+    width: 52px;
+    height: 52px;
+    margin: 0 auto 12px auto;
+    border-radius: 50%;
+    background-color: var(--md-sys-color-primary-container);
+    color: var(--md-sys-color-on-primary-container);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.reset-filter-btn {
+    margin-top: 14px;
+    padding: 8px 18px;
+    border-radius: var(--md-shape-full);
+    border: 1px solid var(--md-sys-color-primary);
+    background: transparent;
+    color: var(--md-sys-color-primary);
+    font-family: inherit;
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color var(--md-motion-duration-short) ease;
+}
+
+.reset-filter-btn:hover {
+    background-color: var(--md-sys-color-primary-container);
+}
+
+/* --- M3 Peachy Spinner --- */
 .m3-spinner {
-    width: 36px;
-    height: 36px;
+    width: 38px;
+    height: 38px;
     margin: 0 auto 14px auto;
-    border: 3px solid #e0e2ec;
+    border: 3.5px solid var(--md-sys-color-outline-variant);
     border-top-color: var(--md-sys-color-primary);
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
@@ -429,66 +883,98 @@ mark {
     to { transform: rotate(360deg); }
 }
 
-/* Google M3 Tonal Load More Button */
+/* --- Google M3 Tonal Load More Button --- */
 .load-more-btn {
     display: block;
     width: 100%;
     margin-top: 16px;
     padding: 14px;
-    background: #ffffff;
-    border: 1px solid var(--md-sys-color-outline-variant);
-    color: var(--md-sys-color-primary);
+    background: var(--md-sys-color-primary-container);
+    border: 1px solid var(--md-sys-color-primary);
+    color: var(--md-sys-color-on-primary-container);
     font-family: inherit;
     font-weight: 600;
     font-size: 0.95rem;
     border-radius: var(--md-shape-full);
     cursor: pointer;
-    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
-    transition: all 0.2s ease;
+    box-shadow: var(--md-elevation-1);
+    transition: all var(--md-motion-duration-short) var(--md-motion-easing);
+}
+
+.load-more-btn:hover {
+    background: #ffd0c4;
+    box-shadow: var(--md-elevation-2);
+}
+
+[data-theme="dark"] .load-more-btn:hover {
+    background: #993213;
 }
 
 .load-more-btn:active {
-    background: var(--md-sys-color-primary-container);
+    transform: scale(0.98);
 }
 
-/* Google M3 Floating Action Button (FAB) */
+/* --- Google M3 Floating Action Button (FAB) --- */
 .m3-fab {
     position: fixed;
     bottom: 24px;
     right: 20px;
     background: var(--md-sys-color-primary-container);
     color: var(--md-sys-color-on-primary-container);
-    width: 52px;
-    height: 52px;
+    width: 56px;
+    height: 56px;
     border-radius: 16px; /* M3 squircle FAB shape */
-    border: none;
+    border: 1px solid var(--md-sys-color-primary);
     box-shadow: var(--md-elevation-3);
     cursor: pointer;
     display: none;
     align-items: center;
     justify-content: center;
     z-index: 100;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    transition: transform var(--md-motion-duration-short) var(--md-motion-easing),
+                box-shadow var(--md-motion-duration-short) var(--md-motion-easing),
+                background-color var(--md-motion-duration-short) ease;
+}
+
+.m3-fab:hover {
+    box-shadow: var(--md-elevation-4);
+    background: #ffd0c4;
+}
+
+[data-theme="dark"] .m3-fab:hover {
+    background: #993213;
 }
 
 .m3-fab:active {
-    transform: scale(0.94);
+    transform: scale(0.92);
 }
 
 .m3-fab.visible {
     display: flex;
+    animation: fabPop 0.2s var(--md-motion-easing);
 }
 
-/* Responsive tweaks for larger screens */
+@keyframes fabPop {
+    from {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* --- Responsive Media Queries --- */
 @media (min-width: 640px) {
     body {
-        padding: 0 24px 90px 24px;
+        padding: 0 24px 100px 24px;
     }
     .brand-text .app-title {
         font-size: 1.45rem;
     }
     .question-card {
-        padding: 22px 24px;
+        padding: 22px 26px;
     }
     .question-text {
         font-size: 1.12rem;

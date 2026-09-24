@@ -1,13 +1,13 @@
 /**
  * Agribank Questions Search Engine
  * Features:
- * - Google Material 3 UI logic
- * - Dedicated Question-Only search (Chỉ tìm kiếm trong nội dung câu hỏi)
- * - Accent-insensitive Vietnamese search (tìm kiếm không dấu)
- * - Multi-word keyword matching (tìm nhiều từ khóa cách nhau)
- * - Dynamic category & exam batch filtering (Đợt 1 / Đợt 2 / Chuyên đề)
- * - Lazy rendering / pagination for optimal mobile performance
- * - Offline file:// and GitHub Pages compatibility
+ * - Google Material 3 (Material You) UI logic with Peachy Accent
+ * - Tonal Color Theme & Dark Mode switching with localStorage & system preference
+ * - M3 Filter Chips Carousel seamlessly synchronized with Granular Select
+ * - Question-Only search with diacritics-insensitive Vietnamese matching
+ * - Multi-word contiguous keyword highlighting
+ * - Optimized pagination & DOM rendering
+ * - Keyboard shortcuts ('/' to search, Esc to clear)
  */
 
 (function () {
@@ -19,10 +19,13 @@
     // DOM Elements
     const searchInput = document.getElementById('searchInput');
     const clearBtn = document.getElementById('clearBtn');
+    const chipsScroll = document.getElementById('chipsScroll');
     const categorySelect = document.getElementById('categorySelect');
     const statsBadge = document.getElementById('statsBadge');
     const resultsContainer = document.getElementById('results');
     const backToTopBtn = document.getElementById('backToTop');
+    const themeToggleBtn = document.getElementById('themeToggleBtn');
+    const themeMetaColor = document.getElementById('themeMetaColor');
 
     /**
      * Vietnamese diacritic remover and normalizer
@@ -37,9 +40,63 @@
     }
 
     /**
+     * Initialize Theme Mode (Light / Dark)
+     */
+    function initTheme() {
+        const savedTheme = localStorage.getItem('m3_quiz_theme');
+        if (savedTheme) {
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            updateMetaThemeColor(savedTheme);
+        } else {
+            // Auto match system
+            const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+            updateMetaThemeColor(prefersDark ? 'dark' : 'light');
+        }
+
+        if (themeToggleBtn) {
+            themeToggleBtn.addEventListener('click', () => {
+                const currentTheme = document.documentElement.getAttribute('data-theme');
+                let newTheme = 'light';
+                if (!currentTheme) {
+                    const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+                    newTheme = prefersDark ? 'light' : 'dark';
+                } else if (currentTheme === 'light') {
+                    newTheme = 'dark';
+                } else {
+                    newTheme = 'light';
+                }
+
+                document.documentElement.setAttribute('data-theme', newTheme);
+                localStorage.setItem('m3_quiz_theme', newTheme);
+                updateMetaThemeColor(newTheme);
+            });
+        }
+
+        // Listen for OS theme changes
+        if (window.matchMedia) {
+            window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+                if (!localStorage.getItem('m3_quiz_theme')) {
+                    updateMetaThemeColor(e.matches ? 'dark' : 'light');
+                }
+            });
+        }
+    }
+
+    function updateMetaThemeColor(theme) {
+        if (!themeMetaColor) return;
+        if (theme === 'dark') {
+            themeMetaColor.setAttribute('content', '#1a1110');
+        } else {
+            themeMetaColor.setAttribute('content', '#fff8f6');
+        }
+    }
+
+    /**
      * Load questions from global variable (via questions.js) or fallback to fetch API
      */
     async function initData() {
+        initTheme();
+
         if (window.QUESTIONS_DATA && Array.isArray(window.QUESTIONS_DATA) && window.QUESTIONS_DATA.length > 0) {
             allQuestions = window.QUESTIONS_DATA;
         } else {
@@ -51,9 +108,9 @@
                 console.error('Failed to fetch data/questions.json:', err);
                 resultsContainer.innerHTML = `
                     <div class="empty-state">
-                        <div style="font-size:2rem; margin-bottom:8px;">⚠️</div>
-                        <p>Không thể tải tệp dữ liệu câu hỏi.</p>
-                        <p style="font-size:0.85em; margin-top:6px; color:#888;">${err.message}</p>
+                        <div class="empty-state-icon">⚠️</div>
+                        <p style="font-weight:600; font-size:1.05rem;">Không thể tải tệp dữ liệu câu hỏi</p>
+                        <p style="font-size:0.85em; margin-top:6px; color:var(--md-sys-color-on-surface-muted);">${err.message}</p>
                     </div>
                 `;
                 return;
@@ -67,6 +124,7 @@
         });
 
         setupFilterOptions();
+        setupChipsCarousel();
         bindEvents();
         doFilter();
     }
@@ -74,10 +132,14 @@
     /**
      * Populate filter dropdown dynamically with optgroups for Batches and Categories
      */
+    let catMap = new Map();
+    let batchMap = new Map();
+    let detailMap = new Map();
+
     function setupFilterOptions() {
-        const catMap = new Map();
-        const batchMap = new Map();
-        const detailMap = new Map();
+        catMap.clear();
+        batchMap.clear();
+        detailMap.clear();
 
         allQuestions.forEach(q => {
             const cat = q.category || 'Chưa phân loại';
@@ -132,6 +194,78 @@
         html += `</optgroup>`;
 
         categorySelect.innerHTML = html;
+    }
+
+    /**
+     * Build horizontal Material 3 Filter Chips Carousel
+     */
+    function setupChipsCarousel() {
+        if (!chipsScroll) return;
+
+        const checkSvg = `
+            <svg class="chip-check-icon" viewBox="0 0 24 24">
+                <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+            </svg>
+        `;
+
+        const chipDefs = [
+            { id: 'all', label: 'Tất cả', count: allQuestions.length }
+        ];
+
+        ['Đợt 1', 'Đợt 2'].forEach(b => {
+            if (batchMap.has(b)) {
+                chipDefs.push({ id: `batch:${b}`, label: b, count: batchMap.get(b) });
+            }
+        });
+
+        Array.from(catMap.entries())
+            .sort((a, b) => b[1] - a[1])
+            .forEach(([cat, count]) => {
+                chipDefs.push({ id: `cat:${cat}`, label: cat, count });
+            });
+
+        let chipsHtml = '';
+        chipDefs.forEach((chip, idx) => {
+            const isSelected = idx === 0 ? 'selected' : '';
+            chipsHtml += `
+                <button type="button" class="m3-filter-chip ${isSelected}" data-val="${chip.id}" role="tab" aria-selected="${idx === 0 ? 'true' : 'false'}">
+                    ${checkSvg}
+                    <span>${escapeHtml(chip.label)}</span>
+                    <span class="chip-count">${chip.count}</span>
+                </button>
+            `;
+        });
+
+        chipsScroll.innerHTML = chipsHtml;
+
+        // Add click events to chips
+        chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chipEl => {
+            chipEl.addEventListener('click', () => {
+                const targetVal = chipEl.getAttribute('data-val');
+                selectFilterVal(targetVal);
+            });
+        });
+    }
+
+    /**
+     * Synchronize chip state and dropdown selection
+     */
+    function selectFilterVal(val) {
+        categorySelect.value = val;
+
+        // Highlight matching chip if available
+        chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chip => {
+            if (chip.getAttribute('data-val') === val) {
+                chip.classList.add('selected');
+                chip.setAttribute('aria-selected', 'true');
+                chip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+            } else {
+                chip.classList.remove('selected');
+                chip.setAttribute('aria-selected', 'false');
+            }
+        });
+
+        doFilter();
     }
 
     /**
@@ -195,7 +329,7 @@
             }
         });
 
-        // Fallback for partial word typing (before word boundary is completed)
+        // Fallback for partial word typing
         if (intervals.length === 0) {
             targetPhrases.forEach(phrase => {
                 let pos = 0;
@@ -211,7 +345,7 @@
         // 3. Sort intervals by start index
         intervals.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
 
-        // 4. Merge overlapping or adjacent intervals so the whole phrase is joined together
+        // 4. Merge overlapping or adjacent intervals
         const merged = [];
         let cur = intervals[0];
 
@@ -221,7 +355,6 @@
                 cur[1] = Math.max(cur[1], next[1]);
             } else {
                 const gap = text.slice(cur[1], next[0]);
-                // If only whitespace between adjacent matched words, merge them into 1 contiguous highlight
                 if (/^\s+$/.test(gap)) {
                     cur[1] = next[1];
                 } else {
@@ -311,11 +444,23 @@
         if (currentFiltered.length === 0) {
             resultsContainer.innerHTML = `
                 <div class="empty-state">
-                    <div style="font-size:2.2rem; margin-bottom:8px;">🔍</div>
-                    <p style="font-weight:500;">Không tìm thấy câu hỏi nào phù hợp.</p>
-                    <p style="font-size:0.85rem; margin-top:6px; color:#747775;">Hãy thử tìm bằng từ khoá ngắn hơn hoặc chọn lại chuyên đề/đợt thi.</p>
+                    <div class="empty-state-icon">
+                        <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor">
+                            <path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 14z"/>
+                        </svg>
+                    </div>
+                    <p style="font-weight:600; font-size:1.05rem;">Không tìm thấy câu hỏi phù hợp</p>
+                    <p style="font-size:0.88rem; margin-top:6px; color:var(--md-sys-color-on-surface-muted);">Hãy thử bằng từ khoá khác hoặc đặt lại bộ lọc.</p>
+                    <button class="reset-filter-btn" id="resetFilterBtn">Đặt lại tìm kiếm & bộ lọc</button>
                 </div>
             `;
+            const resetBtn = document.getElementById('resetFilterBtn');
+            if (resetBtn) {
+                resetBtn.addEventListener('click', () => {
+                    searchInput.value = '';
+                    selectFilterVal('all');
+                });
+            }
             return;
         }
 
@@ -323,7 +468,7 @@
     }
 
     /**
-     * Render next chunk of questions to DOM
+     * Render next chunk of questions to DOM with Material 3 styling
      */
     function renderNextPage(query) {
         const nextItems = currentFiltered.slice(renderedCount, renderedCount + PAGE_SIZE);
@@ -338,28 +483,53 @@
             const correctIdx = String(q.correct).trim();
 
             let batchClass = 'batch-d1';
+            let batchIcon = `<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11z"/></svg>`;
             if (q.batches && q.batches.length > 1) {
                 batchClass = 'batch-both';
+                batchIcon = `<svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor"><path d="M12 2l-5.5 9h11z M12 22l5.5-9h-11z"/></svg>`;
             } else if (q.batches && q.batches.includes('Đợt 2')) {
                 batchClass = 'batch-d2';
             }
+
+            const answersHtml = [
+                { num: '1', text: q.a1 },
+                { num: '2', text: q.a2 },
+                { num: '3', text: q.a3 },
+                { num: '4', text: q.a4 }
+            ].filter(a => Boolean(a.text)).map(a => {
+                const isCorrect = correctIdx === a.num;
+                return `
+                    <div class="answer ${isCorrect ? 'correct' : ''}">
+                        <span class="opt-index">${isCorrect ? '✓' : a.num}</span>
+                        <span class="opt-content">${escapeHtml(a.text)}</span>
+                        ${isCorrect ? '<span class="correct-badge">Đáp án đúng</span>' : ''}
+                    </div>
+                `;
+            }).join('');
 
             card.innerHTML = `
                 <div class="question-header">
                     <div class="tags-group">
                         <span class="category-tag">${escapeHtml(q.category)}</span>
-                        <span class="batch-tag ${batchClass}">${escapeHtml(q.batch_label || 'Đợt 1')}</span>
+                        <span class="batch-tag ${batchClass}">
+                            ${batchIcon}
+                            ${escapeHtml(q.batch_label || 'Đợt 1')}
+                        </span>
                     </div>
                     <span class="question-number">#${q.id}</span>
                 </div>
                 <div class="question-text">${highlight(q.question, query)}</div>
                 <div class="answers-list">
-                    <div class="answer ${correctIdx === '1' ? 'correct' : ''}">1. ${escapeHtml(q.a1)}</div>
-                    <div class="answer ${correctIdx === '2' ? 'correct' : ''}">2. ${escapeHtml(q.a2)}</div>
-                    <div class="answer ${correctIdx === '3' ? 'correct' : ''}">3. ${escapeHtml(q.a3)}</div>
-                    ${q.a4 ? `<div class="answer ${correctIdx === '4' ? 'correct' : ''}">4. ${escapeHtml(q.a4)}</div>` : ''}
+                    ${answersHtml}
                 </div>
-                ${q.source ? `<div class="source"><span class="source-label">Nguồn:</span> ${escapeHtml(q.source)}</div>` : ''}
+                ${q.source ? `
+                <div class="source">
+                    <svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor">
+                        <path d="M14 2H6c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8l-6-6zm2 16H8v-2h8v2zm0-4H8v-2h8v2zm-3-5V3.5L18.5 9H13z"/>
+                    </svg>
+                    <span class="source-label">Nguồn:</span>
+                    <span>${escapeHtml(q.source)}</span>
+                </div>` : ''}
             `;
 
             fragment.appendChild(card);
@@ -401,7 +571,39 @@
         });
 
         categorySelect.addEventListener('change', () => {
+            const val = categorySelect.value;
+            // Sync chips
+            chipsScroll.querySelectorAll('.m3-filter-chip').forEach(chip => {
+                if (chip.getAttribute('data-val') === val) {
+                    chip.classList.add('selected');
+                    chip.setAttribute('aria-selected', 'true');
+                    chip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+                } else {
+                    chip.classList.remove('selected');
+                    chip.setAttribute('aria-selected', 'false');
+                }
+            });
             doFilter();
+        });
+
+        // Keyboard shortcuts: '/' or 'Ctrl+K' / 'Cmd+K' to focus search
+        document.addEventListener('keydown', (e) => {
+            if (e.key === '/' && document.activeElement !== searchInput) {
+                e.preventDefault();
+                searchInput.focus();
+                searchInput.select();
+            } else if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
+                e.preventDefault();
+                searchInput.focus();
+                searchInput.select();
+            } else if (e.key === 'Escape' && document.activeElement === searchInput) {
+                if (searchInput.value) {
+                    searchInput.value = '';
+                    doFilter();
+                } else {
+                    searchInput.blur();
+                }
+            }
         });
 
         // Back to top floating action button
@@ -409,8 +611,20 @@
             if (window.scrollY > 300) {
                 backToTopBtn.classList.add('visible');
             } else {
+                backToTransBackToTop(true);
+            }
+        });
+
+        function backToTransBackToTop(visible) {
+            if (visible) {
+                backToTopBtn.classList.add('visible');
+            } else {
                 backToTopBtn.classList.remove('visible');
             }
+        }
+
+        window.addEventListener('scroll', () => {
+            backToTransBackToTop(window.scrollY > 280);
         });
 
         backToTopBtn.addEventListener('click', () => {
