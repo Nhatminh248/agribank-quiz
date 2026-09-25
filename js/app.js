@@ -5,7 +5,7 @@
  * - Tonal Color Theme & Dark Mode switching with localStorage & system preference
  * - M3 Filter Chips Carousel seamlessly synchronized with Granular Select
  * - Question-Only search with diacritics-insensitive Vietnamese matching
- * - Multi-word contiguous keyword highlighting
+ * - Word-by-word keyword highlighting
  * - Optimized pagination & DOM rendering
  * - Keyboard shortcuts ('/' to search, Esc to clear)
  */
@@ -116,10 +116,17 @@
             }
         }
 
-        // Precompute normalized searchable strings STRICTLY for Question Text
+        // Normalize strings to Unicode NFC and precompute normalized searchable strings STRICTLY for Question Text
         allQuestions.forEach((q, idx) => {
             if (!q.id) q.id = idx + 1;
-            q._normalized_q = removeVietnameseTones(q.question || '');
+            q.question = (q.question || '').normalize('NFC');
+            if (q.a1) q.a1 = q.a1.normalize('NFC');
+            if (q.a2) q.a2 = q.a2.normalize('NFC');
+            if (q.a3) q.a3 = q.a3.normalize('NFC');
+            if (q.a4) q.a4 = q.a4.normalize('NFC');
+            if (q.source) q.source = q.source.normalize('NFC');
+            if (q.category) q.category = q.category.normalize('NFC');
+            q._normalized_q = removeVietnameseTones(q.question);
         });
 
         setupFilterOptions();
@@ -195,116 +202,56 @@
     }
 
     /**
-     * Check if a character is alphanumeric (for whole word/boundary detection)
-     */
-    function isWordChar(char) {
-        return char && /[a-z0-9]/i.test(char);
-    }
-
-    /**
-     * Highlight matching phrases and words in question text seamlessly as contiguous blocks
+     * Highlight matching words in question text word-by-word
      */
     function highlight(text, rawQuery) {
         if (!text || !rawQuery) return escapeHtml(text);
         const cleanQuery = rawQuery.trim();
         if (!cleanQuery) return escapeHtml(text);
 
-        const normalizedText = removeVietnameseTones(text);
-        const normalizedQuery = removeVietnameseTones(cleanQuery);
-        const words = normalizedQuery.split(/\s+/).filter(Boolean);
-        if (words.length === 0) return escapeHtml(text);
+        const normText = text.normalize('NFC');
+        const queryWords = cleanQuery.normalize('NFC').match(/[\p{L}\p{M}\p{N}]+/gu) || [];
+        if (queryWords.length === 0) return escapeHtml(normText);
 
-        // 1. Extract maximal contiguous sub-phrases from query that exist in the text
-        const targetPhrases = [];
-        let i = 0;
-        while (i < words.length) {
-            let bestPhrase = null;
-            let bestLen = 0;
-            for (let len = words.length - i; len >= 1; len--) {
-                const candidate = words.slice(i, i + len).join(' ');
-                if (normalizedText.includes(candidate)) {
-                    bestPhrase = candidate;
-                    bestLen = len;
-                    break;
-                }
-            }
-            if (bestPhrase) {
-                targetPhrases.push(bestPhrase);
-                i += bestLen;
-            } else {
-                targetPhrases.push(words[i]);
-                i += 1;
-            }
-        }
-
-        // 2. Find interval occurrences for each target phrase
-        const intervals = [];
-        targetPhrases.forEach(phrase => {
-            let pos = 0;
-            while ((pos = normalizedText.indexOf(phrase, pos)) !== -1) {
-                const start = pos;
-                const end = pos + phrase.length;
-                const prev = pos > 0 ? normalizedText[pos - 1] : ' ';
-                const next = end < normalizedText.length ? normalizedText[end] : ' ';
-
-                // Prefer whole word/phrase boundaries
-                if (!isWordChar(prev) && !isWordChar(next)) {
-                    intervals.push([start, end]);
-                }
-                pos += 1;
-            }
+        const termMap = queryWords.map(w => {
+            const lower = w.toLowerCase();
+            const norm = removeVietnameseTones(w);
+            const hasTone = lower !== norm;
+            return { raw: lower, norm: norm, hasTone: hasTone };
         });
 
-        // Fallback for partial word typing
-        if (intervals.length === 0) {
-            targetPhrases.forEach(phrase => {
-                let pos = 0;
-                while ((pos = normalizedText.indexOf(phrase, pos)) !== -1) {
-                    intervals.push([pos, pos + phrase.length]);
-                    pos += 1;
+        // Split text into word tokens and non-word delimiters (spaces, punctuation)
+        const tokens = normText.split(/([\p{L}\p{M}\p{N}]+)/u);
+
+        return tokens.map(token => {
+            if (!token) return '';
+            // If token is a delimiter/whitespace, escape and return as-is
+            if (!/^[\p{L}\p{M}\p{N}]+$/u.test(token)) {
+                return escapeHtml(token);
+            }
+
+            const tokenLower = token.toLowerCase();
+            const tokenNorm = removeVietnameseTones(token);
+
+            const matches = termMap.some(term => {
+                if (term.hasTone) {
+                    if (tokenLower === term.raw) return true;
+                    // Allow prefix match for longer multi-syllable/brand words (e.g. Agri -> Agribank)
+                    if (term.raw.length >= 4 && tokenLower.startsWith(term.raw)) return true;
+                    return false;
+                } else {
+                    if (tokenNorm === term.norm) return true;
+                    // Allow prefix match for longer multi-syllable/brand words (e.g. Agri -> Agribank)
+                    if (term.norm.length >= 4 && tokenNorm.startsWith(term.norm)) return true;
+                    return false;
                 }
             });
-        }
 
-        if (intervals.length === 0) return escapeHtml(text);
-
-        // 3. Sort intervals by start index
-        intervals.sort((a, b) => a[0] - b[0] || b[1] - a[1]);
-
-        // 4. Merge overlapping or adjacent intervals
-        const merged = [];
-        let cur = intervals[0];
-
-        for (let j = 1; j < intervals.length; j++) {
-            const next = intervals[j];
-            if (next[0] <= cur[1]) {
-                cur[1] = Math.max(cur[1], next[1]);
-            } else {
-                const gap = text.slice(cur[1], next[0]);
-                if (/^\s+$/.test(gap)) {
-                    cur[1] = next[1];
-                } else {
-                    merged.push(cur);
-                    cur = next;
-                }
+            if (matches) {
+                return '<mark>' + escapeHtml(token) + '</mark>';
             }
-        }
-        merged.push(cur);
-
-        // 5. Build HTML with seamless contiguous <mark> tags
-        let result = '';
-        let lastIdx = 0;
-        for (const [start, end] of merged) {
-            if (start > lastIdx) {
-                result += escapeHtml(text.slice(lastIdx, start));
-            }
-            result += '<mark>' + escapeHtml(text.slice(start, end)) + '</mark>';
-            lastIdx = end;
-        }
-        if (lastIdx < text.length) {
-            result += escapeHtml(text.slice(lastIdx));
-        }
-        return result;
+            return escapeHtml(token);
+        }).join('');
     }
 
     function escapeHtml(str) {
@@ -315,6 +262,52 @@
             .replace(/>/g, '&gt;')
             .replace(/"/g, '&quot;')
             .replace(/'/g, '&#039;');
+    }
+
+    /**
+     * Calculate search relevance score for a question:
+     * - Exact phrase matches (with/without accents) get top priority
+     * - Adjacent multi-word bigrams get high priority
+     * - Whole-word matches prioritized over accidental substring matches
+     * - Questions starting with query get bonus
+     */
+    function getRelevanceScore(q, rawQuery, normQuery, queryTerms) {
+        let score = 0;
+        const qRaw = q.question.toLowerCase();
+        const qNorm = q._normalized_q;
+
+        // 1. Exact phrase match (with diacritics = 2000, without diacritics = 1000)
+        if (qRaw.includes(rawQuery.toLowerCase())) {
+            score += 2000;
+        } else if (qNorm.includes(normQuery)) {
+            score += 1000;
+        }
+
+        // 2. Adjacent multi-word bigrams
+        if (queryTerms.length > 1) {
+            for (let i = 0; i < queryTerms.length - 1; i++) {
+                const bigram = queryTerms[i] + ' ' + queryTerms[i + 1];
+                if (qNorm.includes(bigram)) {
+                    score += 200;
+                }
+            }
+        }
+
+        // 3. Whole-word matches (reward actual words over accidental substring matches)
+        for (let i = 0; i < queryTerms.length; i++) {
+            const term = queryTerms[i];
+            const wordRegex = new RegExp('(^|[^\\p{L}\\p{N}])' + term + '($|[^\\p{L}\\p{N}])', 'u');
+            if (wordRegex.test(qNorm)) {
+                score += 100;
+            }
+        }
+
+        // 4. Starts with keyword
+        if (qNorm.startsWith(normQuery)) {
+            score += 150;
+        }
+
+        return score;
     }
 
     /**
@@ -359,6 +352,18 @@
             }
             return true;
         });
+
+        // Rank results by relevance if a search query is active
+        if (queryTerms.length > 0) {
+            currentFiltered.sort((a, b) => {
+                const scoreA = getRelevanceScore(a, rawQuery, normalizedQuery, queryTerms);
+                const scoreB = getRelevanceScore(b, rawQuery, normalizedQuery, queryTerms);
+                if (scoreB !== scoreA) {
+                    return scoreB - scoreA;
+                }
+                return a.id - b.id;
+            });
+        }
 
         // Update stats badge
         statsBadge.textContent = `${currentFiltered.length} câu`;

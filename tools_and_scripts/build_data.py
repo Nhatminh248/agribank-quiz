@@ -19,6 +19,7 @@ import json
 import csv
 import zipfile
 import xml.etree.ElementTree as ET
+import unicodedata
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -26,6 +27,13 @@ DATA_DIR = BASE_DIR / "data"
 INCOMING_DIR = DATA_DIR / "incoming"
 QUESTIONS_JSON_PATH = DATA_DIR / "questions.json"
 QUESTIONS_JS_PATH = DATA_DIR / "questions.js"
+
+
+def clean_nfc(text):
+    """Normalizes text to Unicode NFC (canonical precomposed form)."""
+    if not text:
+        return ""
+    return unicodedata.normalize('NFC', str(text).strip())
 
 
 def extract_xlsx_rows(file_path):
@@ -184,15 +192,15 @@ def parse_sheet_questions(sheet, file_name):
                 source = str(row[col_map.get('source', 0)]).strip() if col_map.get('source') and col_map.get('source') < len(row) else ''
 
                 extracted.append({
-                    'category': category,
-                    'batch': batch,
-                    'question': q_text,
-                    'a1': a1,
-                    'a2': a2,
-                    'a3': a3,
-                    'a4': a4,
-                    'correct': correct,
-                    'source': source
+                    'category': clean_nfc(category),
+                    'batch': clean_nfc(batch),
+                    'question': clean_nfc(q_text),
+                    'a1': clean_nfc(a1),
+                    'a2': clean_nfc(a2),
+                    'a3': clean_nfc(a3),
+                    'a4': clean_nfc(a4),
+                    'correct': clean_nfc(correct),
+                    'source': clean_nfc(source)
                 })
     return extracted
 
@@ -248,15 +256,15 @@ def process_incoming_files():
                 items = data if isinstance(data, list) else data.get('questions', [])
                 for item in items:
                     all_incoming_questions.append({
-                        'category': item.get('category', 'Khác'),
-                        'batch': item.get('batch', 'Đợt 1'),
-                        'question': item.get('question', '').strip(),
-                        'a1': item.get('a1', '').strip(),
-                        'a2': item.get('a2', '').strip(),
-                        'a3': item.get('a3', '').strip(),
-                        'a4': item.get('a4', '').strip(),
-                        'correct': str(item.get('correct', '')).strip(),
-                        'source': item.get('source', '').strip()
+                        'category': clean_nfc(item.get('category', 'Khác')),
+                        'batch': clean_nfc(item.get('batch', 'Đợt 1')),
+                        'question': clean_nfc(item.get('question', '')),
+                        'a1': clean_nfc(item.get('a1', '')),
+                        'a2': clean_nfc(item.get('a2', '')),
+                        'a3': clean_nfc(item.get('a3', '')),
+                        'a4': clean_nfc(item.get('a4', '')),
+                        'correct': clean_nfc(str(item.get('correct', ''))),
+                        'source': clean_nfc(item.get('source', ''))
                     })
                 print(f"    • {len(items)} câu hỏi từ {fp.name}")
         except Exception as e:
@@ -271,13 +279,14 @@ def category_batch_label(cat, batch):
 
 def normalize_q_key(text):
     """Normalizes question text for robust deduplication across files:
+    - Unicode NFC normalization
     - Lowercase
     - Collapses multiple whitespace to single space
     - Normalizes missing spaces after punctuation (e.g. '2023,Trường' -> '2023, trường')
     """
     if not text:
         return ""
-    s = text.lower().strip()
+    s = clean_nfc(text).lower()
     s = re.sub(r'\s+', ' ', s)
     s = re.sub(r'([,;:\.\?!])([^\s0-9])', r'\1 \2', s)
     s = re.sub(r'\s+', ' ', s)

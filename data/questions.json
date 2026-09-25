@@ -1037,13 +1037,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Chọn đáp án đúng nhất: Theo Quyết định 333/QĐ-NHNo-TTKH về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, giao dịch rút tiền mặt, chuyển khoản, chuyển tiền được áp dụng đối với những loại sản phẩm tiền gửi nào sau đây?",
-    "a1": "Tài khoản tiền gửi thanh toán",
-    "a2": "Tài khoản Tiết kiệm không kỳ hạn, tiết kiệm gửi góp, tiết kiệm học đường",
-    "a3": "Tài khoản thanh toán, tài khoản tiết kiệm (sản phẩm có đặc tính rút nhiều lần)",
+    "question": "Chọn đáp án đúng nhất: Theo Quyết định 333/QĐ-NHNo-TTKH về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, giao dịch rút tiền mặt, chuyển khoản, chuyển tiền được áp dụng đối với những loại sản phẩm tiền gửi nào sau đây?",
+    "a1": "Tài khoản tiền gửi thanh toán",
+    "a2": "Tài khoản Tiết kiệm không kỳ hạn, tiết kiệm gửi góp, tiết kiệm học đường",
+    "a3": "Tài khoản thanh toán, tài khoản tiết kiệm (sản phẩm có đặc tính rút nhiều lần)",
     "a4": "",
     "correct": "3",
-    "source": "Điểm b khoản 2 Điều 4 QĐ 333/QĐ-NHNo-TTKH",
+    "source": "Điểm b khoản 2 Điều 4 QĐ 333/QĐ-NHNo-TTKH",
     "id": 69,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -1165,30 +1165,14 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Hạn mức giao dịch Agripay tại quầy tối đa là bao nhiêu tiền trên một giao dịch?",
-    "a1": "100 triệu đồng",
-    "a2": "200 triệu đồng",
-    "a3": "300 triệu đồng",
-    "a4": "400 triệu đồng",
-    "correct": "3",
-    "source": "Khoản 1 Điều 6 QĐ 239/QĐ-NHNo-TTKH",
-    "id": 77,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
     "question": "Hành vi nào KHÔNG đúng khi nói chuyện điện thoại?",
     "a1": "Nhấc máy sau hồi chuông thứ 2",
-    "a2": "Giữ thái độ hòa nhã, bình tĩnh",
+    "a2": "Giữ thái độ hòa nhã, bình tĩnh",
     "a3": "Nói ngắn gọn, tránh lòng vòng, rườm rà",
     "a4": "Ngắt điện thoại khi  khách hàng tranh cãi",
     "correct": "4",
     "source": "Cẩm nang văn hóa Agribank",
-    "id": 78,
+    "id": 77,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1204,7 +1188,7 @@
     "a4": "Sử dụng thông tin, cơ hội kinh doanh và tài sản của Agribank để thu lợi cá nhân",
     "correct": "4",
     "source": "Điểm d khoản 1 Điều 3 Quy định số 1345/QyĐ-HĐTV-TTh ngày 15/11/2024 Quy định chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ Agribank",
-    "id": 79,
+    "id": 78,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1220,7 +1204,7 @@
     "a4": "Bao che các hành vi gian lận hoặc làm tắt bỏ qua các bước trong quy trình nghiệp vụ",
     "correct": "4",
     "source": "Khoản 2 Điều 3 Quy định số 1345/QyĐ-HĐTV-TTh ngày 15/11/2024 Quy định chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ Agribank",
-    "id": 80,
+    "id": 79,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1236,7 +1220,7 @@
     "a4": "04 năm kể từ ngày phát hành.",
     "correct": "2",
     "source": "Khoản 1 Điều 5 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 81,
+    "id": 80,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1252,7 +1236,7 @@
     "a4": "06 năm kể từ ngày phát hành.",
     "correct": "4",
     "source": "Khoản 1 Điều 5 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
-    "id": 82,
+    "id": 81,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1268,6 +1252,22 @@
     "a4": "Tối thiểu 05 năm và phù hợp với thời gian đào tạo theo khóa học của trường.",
     "correct": "1",
     "source": "Khoản 1 Điều 5 Quy Định số 2239/QyĐ-NHNo-TTT ngày 31/7/2024",
+    "id": 82,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Kiến thức chung",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Hạn mức giao dịch Agripay tại quầy tối đa là bao nhiêu tiền trên một giao dịch?",
+    "a1": "100 triệu đồng",
+    "a2": "200 triệu đồng",
+    "a3": "300 triệu đồng",
+    "a4": "400 triệu đồng",
+    "correct": "3",
+    "source": "Khoản 1 Điều 6 QĐ 239/QĐ-NHNo-TTKH",
     "id": 83,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -1293,22 +1293,6 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Khách hàng phải làm gì để hủy dịch vụ Agribank Plus?",
-    "a1": "Đến bất kỳ chi nhánh nào của Agribank để hủy dịch vụ.",
-    "a2": "Đến chi nhánh đăng ký dịch vụ để hủy dịch vụ.",
-    "a3": "Gọi điện đến Trung tâm chăm sóc khách hàng của Agribank để hủy dịch vụ trong trường hợp khẩn cấp.",
-    "a4": "Tất cả các đáp án trên đều đúng.",
-    "correct": "4",
-    "source": "Khoản 5 Điều 3  Quyết định số 1228/QyĐ-NHNo-KHCN ngày 21/05/2024",
-    "id": 85,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
     "question": "Khi bắt tay, cán bộ Agribank ứng xử như thế nào?",
     "a1": "Cấp trên chủ động bắt tay cấp dưới.",
     "a2": "Người ít tuổi chủ động bắt tay người lớn tuổi hơn.",
@@ -1316,7 +1300,7 @@
     "a4": "",
     "correct": "1",
     "source": "Chuẩn mực trong Chào hỏi – Cẩm nang văn hóa Agribank",
-    "id": 86,
+    "id": 85,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1332,7 +1316,7 @@
     "a4": "Ít nhất 02 người gửi tiền",
     "correct": "1",
     "source": "Khoản 1 Điều 11 Quyết định số 2209/QĐ-NHNo-KHNV ngày 18/10/2019",
-    "id": 87,
+    "id": 86,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1348,7 +1332,7 @@
     "a4": "",
     "correct": "3",
     "source": "Tiết 1.2 Khoản 1 Điều 19 Quyết định số 2209/QĐ-NHNo-KHNV ngày 18/10/2019",
-    "id": 88,
+    "id": 87,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1364,7 +1348,7 @@
     "a4": "",
     "correct": "1",
     "source": "Phần I, Điều 8, khoản 2.1 - Quy trình 4416/QTr-NHNo-NHS ngày 30/12/2024",
-    "id": 89,
+    "id": 88,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -1380,6 +1364,22 @@
     "a4": "Có, nếu gọi tổng đài trong 10 phút",
     "correct": "3",
     "source": "Điều 3, Quy định 1228/QyĐ-NHNo-KHCN ngày 21/5/2024",
+    "id": 89,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Kiến thức chung",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Khách hàng phải làm gì để hủy dịch vụ Agribank Plus?",
+    "a1": "Đến bất kỳ chi nhánh nào của Agribank để hủy dịch vụ.",
+    "a2": "Đến chi nhánh đăng ký dịch vụ để hủy dịch vụ.",
+    "a3": "Gọi điện đến Trung tâm chăm sóc khách hàng của Agribank để hủy dịch vụ trong trường hợp khẩn cấp.",
+    "a4": "Tất cả các đáp án trên đều đúng.",
+    "correct": "4",
+    "source": "Khoản 5 Điều 3  Quyết định số 1228/QyĐ-NHNo-KHCN ngày 21/05/2024",
     "id": 90,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -1405,13 +1405,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Loại tài khoản nào được rút tiền ngoại tệ tại quầy của chi nhánh khác chi nhánh mở tài khoản?",
-    "a1": "Tài khoản thanh toán của khách hàng cá nhân",
-    "a2": "Tài khoản thanh toán của khách hàng tổ chức",
-    "a3": "Tài khoản tiền gửi có kỳ hạn của khách hàng tổ chức",
+    "question": "Loại tài khoản nào được rút tiền ngoại tệ tại quầy của chi nhánh khác chi nhánh mở tài khoản?",
+    "a1": "Tài khoản thanh toán của khách hàng cá nhân",
+    "a2": "Tài khoản thanh toán của khách hàng tổ chức",
+    "a3": "Tài khoản tiền gửi có kỳ hạn của khách hàng tổ chức",
     "a4": "Cả 1 và 2",
     "correct": "1",
-    "source": "Khoản 4 Điều 3 QĐ 333/QĐ-NHNo-TTKH",
+    "source": "Khoản 4 Điều 3 QĐ 333/QĐ-NHNo-TTKH",
     "id": 92,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -1901,13 +1901,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quy trình 2086/QĐ-NHNo-TTKH về Thu ngân sách nhà nước tại Agribank và các văn bản sửa đổi, khách hàng thực hiện nộp thuế là những đối tượng nào?",
-    "a1": "Cá nhân",
-    "a2": "Tổ chức",
-    "a3": "Tổ chức, cá nhân",
+    "question": "Theo Quy trình 1786/QTr-NHNo-TTKH, Loại tiền nào được sử dụng để chi trả dịch vụ Western Union và MoneyGram?",
+    "a1": "Đồng Việt Nam (VND)",
+    "a2": "Đô la Mỹ (USD)",
+    "a3": "Cả 1 và 2",
     "a4": "",
     "correct": "3",
-    "source": "Điểm b Khoản 2 Điều 1 QĐ số 2086/QĐ-NHNo-TTKH",
+    "source": "Điều 7 Quy trình 1786/QTr-NHNo-TTKH",
     "id": 123,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -1917,13 +1917,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quy trình 1786/QTr-NHNo-TTKH, Loại tiền nào được sử dụng để chi trả dịch vụ Western Union và MoneyGram?",
-    "a1": "Đồng Việt Nam (VND)",
-    "a2": "Đô la Mỹ (USD)",
-    "a3": "Cả 1 và 2",
+    "question": "Theo Quy trình 2086/QĐ-NHNo-TTKH về Thu ngân sách nhà nước tại Agribank và các văn bản sửa đổi, khách hàng thực hiện nộp thuế là những đối tượng nào?",
+    "a1": "Cá nhân",
+    "a2": "Tổ chức",
+    "a3": "Tổ chức, cá nhân",
     "a4": "",
     "correct": "3",
-    "source": "Điều 7 Quy trình 1786/QTr-NHNo-TTKH",
+    "source": "Điểm b Khoản 2 Điều 1 QĐ số 2086/QĐ-NHNo-TTKH",
     "id": 124,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2237,13 +2237,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 205/QĐ-NHNo-TTKH về quy định cung ứng, quản lý và sử dụng dịch vụ kết nối thanh toán với khách hàng, khách hàng sử dụng dịch vụ là những đối tượng nào?",
-    "a1": "Cá nhân",
-    "a2": "Tổ chức kinh tế,  cá nhân",
-    "a3": "Tổ chức kinh tế, Định chế tài chính được thành lập và hoạt động hợp pháp theo quy định của pháp luật Việt Nam",
-    "a4": "Không có đáp án nào đúng",
+    "question": "Theo Quyết định 205/QĐ-NHNo-TTKH về quy định cung ứng, quản lý và sử dụng dịch vụ kết nối thanh toán với khách hàng, khách hàng sử dụng dịch vụ là những đối tượng nào?",
+    "a1": "Cá nhân",
+    "a2": "Tổ chức kinh tế,  cá nhân",
+    "a3": "Tổ chức kinh tế, Định chế tài chính được thành lập và hoạt động hợp pháp theo quy định của pháp luật Việt Nam",
+    "a4": "Không có đáp án nào đúng",
     "correct": "3",
-    "source": "Điểm b khoản 2 Điều 1 QĐ 205/QĐ-NHNo-TTKH",
+    "source": "Điểm b khoản 2 Điều 1 QĐ 205/QĐ-NHNo-TTKH",
     "id": 144,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2253,13 +2253,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, Mã số chuyển tiền bao gồm mấy chữ số?",
-    "a1": "04 Chữ số",
-    "a2": "06 Chữ số",
-    "a3": "08 Chữ số",
-    "a4": "10 Chữ số",
+    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, Mã số chuyển tiền bao gồm mấy chữ số?",
+    "a1": "04 Chữ số",
+    "a2": "06 Chữ số",
+    "a3": "08 Chữ số",
+    "a4": "10 Chữ số",
     "correct": "2",
-    "source": "Khoản 9 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
+    "source": "Khoản 9 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
     "id": 145,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2269,13 +2269,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khách  hàng chuyển tiền qua các kênh giao dịch nào?",
-    "a1": "Quầy giao dịch của Agribank",
-    "a2": "Agribank Plus của Agribank",
-    "a3": "Tất cả các đáp án trên",
-    "a4": "",
-    "correct": "3",
-    "source": "Khoản 10 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
+    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khi thực hiện điều chỉnh sai sót, Chi nhánh không được phép điều chỉnh yếu tố nào sau đây?",
+    "a1": "Số tiền chuyển",
+    "a2": "Tên khách hàng chuyển",
+    "a3": "Tên khách hàng nhận",
+    "a4": "Thông tin giấy tờ tùy thân của người chuyển và người nhận",
+    "correct": "1",
+    "source": "Điểm c Khoản 1 Điều 8 QĐ 239/QĐ-NHNo-TTKH",
     "id": 146,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2285,13 +2285,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khách hàng nhận tiền có thể nhận tiền tại:",
-    "a1": "Tại chi nhánh, phòng giao dịch cùng tỉnh, thành phố với chi nhánh chuyển tiền đi",
-    "a2": "Tại chi nhánh, phòng giao dịch khác tỉnh, thành phố với chi nhánh chuyển tiền đi",
-    "a3": "Tại bất kỳ chi nhánh, phòng giao dịch thuộc hệ thống Agribank.",
-    "a4": "Tại chi nhánh, phòng giao dịch  được chỉ định trên lệnh thanh toán",
+    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khách  hàng chuyển tiền qua các kênh giao dịch nào?",
+    "a1": "Quầy giao dịch của Agribank",
+    "a2": "Agribank Plus của Agribank",
+    "a3": "Tất cả các đáp án trên",
+    "a4": "",
     "correct": "3",
-    "source": "Khoản 6 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
+    "source": "Khoản 10 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
     "id": 147,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2301,13 +2301,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khi thực hiện điều chỉnh sai sót, Chi nhánh không được phép điều chỉnh yếu tố nào sau đây?",
-    "a1": "Số tiền chuyển",
-    "a2": "Tên khách hàng chuyển",
-    "a3": "Tên khách hàng nhận",
-    "a4": "Thông tin giấy tờ tùy thân của người chuyển và người nhận",
-    "correct": "1",
-    "source": "Điểm c Khoản 1 Điều 8 QĐ 239/QĐ-NHNo-TTKH",
+    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, khách hàng nhận tiền có thể nhận tiền tại:",
+    "a1": "Tại chi nhánh, phòng giao dịch cùng tỉnh, thành phố với chi nhánh chuyển tiền đi",
+    "a2": "Tại chi nhánh, phòng giao dịch khác tỉnh, thành phố với chi nhánh chuyển tiền đi",
+    "a3": "Tại bất kỳ chi nhánh, phòng giao dịch thuộc hệ thống Agribank.",
+    "a4": "Tại chi nhánh, phòng giao dịch  được chỉ định trên lệnh thanh toán",
+    "correct": "3",
+    "source": "Khoản 6 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
     "id": 148,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2317,13 +2317,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, người nhận tiền cần xuất trình những loại giấy tờ tùy thân nào sau đây để nhận tiền?",
-    "a1": "Chứng minh nhân dân, căn cước công dân hoặc hộ chiếu còn hiệu lực.",
+    "question": "Theo Quyết định 239/QĐ-NHNo-TTKH về quy trình dịch vụ Agripay, người nhận tiền cần xuất trình những loại giấy tờ tùy thân nào sau đây để nhận tiền?",
+    "a1": "Chứng minh nhân dân, căn cước công dân hoặc hộ chiếu còn hiệu lực.",
     "a2": "Giấy khai sinh.",
-    "a3": "Giấy phép lái xe",
+    "a3": "Giấy phép lái xe",
     "a4": "Sổ hộ khẩu",
     "correct": "1",
-    "source": "Khoản 8 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
+    "source": "Khoản 8 Điều 2 QĐ 239/QĐ-NHNo-TTKH",
     "id": 149,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2333,13 +2333,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 333/QĐ-NHNo-TTKH về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, đồng tiền được phép gửi, rút tiền nhiều nơi bao gồm những đồng tiền nào?",
-    "a1": "VND",
-    "a2": "VND, USD",
-    "a3": "VND, USD, EUR",
-    "a4": "VND và ngoại tệ được phép giao dịch",
-    "correct": "3",
-    "source": "Khoản 3 Điều 1 QĐ1782/QĐ-NHNo-TTKH",
+    "question": "Theo Quyết định 333/QĐ-NHNo-TTKH  về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, giao dịch viên không được thực hiện giao dịch gửi rút nhiều nơi đối với trường hợp nào sau đây?",
+    "a1": "Tài khoản thanh toán đang bị phong tỏa, tạm khóa; tài khoản thanh toán chung, tài khoản tiền gửi tiết kiệm trong danh sách phong tỏa, cầm cố, thế chấp",
+    "a2": "Loại sản phẩm tiền gửi tiết kiệm không được rút trước hạn khi chưa đến hạn, tài khoản tiền gửi tiết kiệm đồng sở hữu",
+    "a3": "Thừa kế đối với khách hàng cá nhân",
+    "a4": "Tất cả các áp trên",
+    "correct": "4",
+    "source": "Khoản 7 Điều 4 QĐ 333/QĐ-NHNo-TTKH",
     "id": 150,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2349,13 +2349,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quyết định 333/QĐ-NHNo-TTKH  về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, giao dịch viên không được thực hiện giao dịch gửi rút nhiều nơi đối với trường hợp nào sau đây?",
-    "a1": "Tài khoản thanh toán đang bị phong tỏa, tạm khóa; tài khoản thanh toán chung, tài khoản tiền gửi tiết kiệm trong danh sách phong tỏa, cầm cố, thế chấp",
-    "a2": "Loại sản phẩm tiền gửi tiết kiệm không được rút trước hạn khi chưa đến hạn, tài khoản tiền gửi tiết kiệm đồng sở hữu",
-    "a3": "Thừa kế đối với khách hàng cá nhân",
-    "a4": "Tất cả các áp trên",
-    "correct": "4",
-    "source": "Khoản 7 Điều 4 QĐ 333/QĐ-NHNo-TTKH",
+    "question": "Theo Quyết định 333/QĐ-NHNo-TTKH về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, đồng tiền được phép gửi, rút tiền nhiều nơi bao gồm những đồng tiền nào?",
+    "a1": "VND",
+    "a2": "VND, USD",
+    "a3": "VND, USD, EUR",
+    "a4": "VND và ngoại tệ được phép giao dịch",
+    "correct": "3",
+    "source": "Khoản 3 Điều 1 QĐ1782/QĐ-NHNo-TTKH",
     "id": 151,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2461,54 +2461,6 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại Quyết định 239/QĐ-NHNo-TTKH của Agribank về quy trình dịch vụ Agripay, Chi nhánh chỉ được chi tiền cho người thụ hưởng khi nào?",
-    "a1": "Khách hàng cung cấp đầy đủ, chính xác mã số chuyển tiền",
-    "a2": "Khách hàng cung cấp giấy tờ tùy thân",
-    "a3": "Khách hàng cung cấp đầy đủ, chính xác thông tin trên phiếu nhận tiền, mã số chuyển tiền và Giấy tờ tùy thân hợp lệ",
-    "a4": "Khách hàng cung cấp đầy đủ thông tin trên phiếu nhận tiềǹ, có Giấy tờ tùy thân",
-    "correct": "3",
-    "source": "Khoản 3 Điều 3 QĐ 239/QĐ-NHNo-TTKH",
-    "id": 158,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
-    "question": "Theo quy định tại Quyết định 239/QĐ-NHNo-TTKH của Agribank về quy trình dịch vụ Agripay, chi nhánh phải xử lý đối với các giao dịch chuyển tiền Agri-pay sau thời gian bao lâu không có người nhận?",
-    "a1": "3 tháng",
-    "a2": "6 tháng",
-    "a3": "9 tháng",
-    "a4": "12 tháng",
-    "correct": "2",
-    "source": "Điều 9 QĐ 239/QĐ-NHNo-TTKH",
-    "id": 159,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
-    "question": "Theo quy định tại Quyết định 333/QĐ-NHNo-TTKH quy định về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, hạn mức rút tiền mặt của khách hàng tại hội sở chi nhánh loại I, loại II được áp dụng như thế nào?",
-    "a1": "Tối đa 1 tỷ đồng",
-    "a2": "Tối đa 5 tỷ đồng",
-    "a3": "Theo quy định của Tổng Giám đốc trong từng thời kỳ",
-    "a4": "Theo quy định của Giám đốc chi nhánh loại I",
-    "correct": "3",
-    "source": "Điểm a Khoản 5 Điều 3 QĐ 333/QĐ-NHNo-TTKH",
-    "id": 160,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Kiến thức chung",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
     "question": "Theo quy định của Agribank, cho vay phục vụ nhu cầu đời sống là như thế nào?",
     "a1": "Agribank cho vay đối với khách hàng là cá nhân để thanh toán các chi phí cho mục đích tiêu dùng, sinh hoạt của cá nhân, gia đình của cá nhân đó.",
     "a2": "Agribank cho vay đối với khách hàng là cá nhân để thanh toán các chi phí cho mục đích tiêu dùng, sinh hoạt của cá nhân.",
@@ -2516,7 +2468,7 @@
     "a4": "Agribank cho vay đối với khách hàng là cá nhân để thanh toán các chi phí cho mục đích kinh doanh của cá nhân, gia đình của cá nhân đó.",
     "correct": "1",
     "source": "Khoản 6 Điều 2 Quy chế 456/QC-HĐTV-TD",
-    "id": 161,
+    "id": 158,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2532,7 +2484,7 @@
     "a4": "Tất cả các đáp án trên",
     "correct": "2",
     "source": "Khoản 1 Điều 22  Quyết định số 2209/QĐ-NHNo-KHNV ngày 18/10/2019",
-    "id": 162,
+    "id": 159,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2548,7 +2500,7 @@
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "4",
     "source": "Khoản 18 Điều 2 Quy trình 3110/QTr-NHNo-TTKH ngày 14/12/2023",
-    "id": 163,
+    "id": 160,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2564,7 +2516,7 @@
     "a4": "Tất cả các đáp án trên đều đúng",
     "correct": "4",
     "source": "Quy trình 3110/QTr-NHNo-TTKH ngày 14/12/2023",
-    "id": 164,
+    "id": 161,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2580,7 +2532,7 @@
     "a4": "",
     "correct": "3",
     "source": "Điều 2 Quy trình 1786/QTr-NHNo-TTKH",
-    "id": 165,
+    "id": 162,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2596,7 +2548,7 @@
     "a4": "Thỏa thuận cho vay được ký kết bởi người đại diện của Agribank và khách hàng.",
     "correct": "2",
     "source": "Khoản 1 Điều 17 Quy chế 456/QC-HĐTV-TD",
-    "id": 166,
+    "id": 163,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2612,7 +2564,7 @@
     "a4": "Tất cả đáp án trên.",
     "correct": "1",
     "source": "Điều 19 Quy trình 3110/QTr-NHNo-TTKH ngày 14/12/2023",
-    "id": 167,
+    "id": 164,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2628,7 +2580,7 @@
     "a4": "",
     "correct": "1",
     "source": "Cẩm nang văn hóa Agribank",
-    "id": 168,
+    "id": 165,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2644,7 +2596,7 @@
     "a4": "Là cán bộ, người lao động dưới 35 tuổi (theo ngày tháng năm sinh) tính đến thời điểm quyết định cho vay.",
     "correct": "2",
     "source": "Khoản 1, Điều 3 Quy định số 999/QĐ-NHNo-KHCN ngày 26/3/2025.",
-    "id": 169,
+    "id": 166,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -2660,6 +2612,54 @@
     "a4": "Không có nợ xấu tại Agribank và các tổ chức tín dụng khác trong 01 năm gần nhất tính đến thời điểm quyết định cho vay; không có nợ đã xử lý rủi ro, nợ đã bán cho VAMC, DATC tại Agribank và các tổ chức tín dụng khác tại thời điểm thẩm định, quyết định cho vay.",
     "correct": "4",
     "source": "Điểm b, Khoản 1, Điều 4 Quy định số 999/QĐ-NHNo-KHCN ngày 26/3/2025.",
+    "id": 167,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Kiến thức chung",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại Quyết định 239/QĐ-NHNo-TTKH của Agribank về quy trình dịch vụ Agripay, Chi nhánh chỉ được chi tiền cho người thụ hưởng khi nào?",
+    "a1": "Khách hàng cung cấp đầy đủ, chính xác mã số chuyển tiền",
+    "a2": "Khách hàng cung cấp giấy tờ tùy thân",
+    "a3": "Khách hàng cung cấp đầy đủ, chính xác thông tin trên phiếu nhận tiền, mã số chuyển tiền và Giấy tờ tùy thân hợp lệ",
+    "a4": "Khách hàng cung cấp đầy đủ thông tin trên phiếu nhận tiềǹ, có Giấy tờ tùy thân",
+    "correct": "3",
+    "source": "Khoản 3 Điều 3 QĐ 239/QĐ-NHNo-TTKH",
+    "id": 168,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Kiến thức chung",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại Quyết định 239/QĐ-NHNo-TTKH của Agribank về quy trình dịch vụ Agripay, chi nhánh phải xử lý đối với các giao dịch chuyển tiền Agri-pay sau thời gian bao lâu không có người nhận?",
+    "a1": "3 tháng",
+    "a2": "6 tháng",
+    "a3": "9 tháng",
+    "a4": "12 tháng",
+    "correct": "2",
+    "source": "Điều 9 QĐ 239/QĐ-NHNo-TTKH",
+    "id": 169,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Kiến thức chung",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Theo quy định tại Quyết định 333/QĐ-NHNo-TTKH quy định về giao dịch gửi, rút tiền nhiều nơi đối với khách hàng có tài khoản thanh toán, tài khoản tiền gửi tiết kiệm trong hệ thống Agribank và các văn bản sửa đổi, hạn mức rút tiền mặt của khách hàng tại hội sở chi nhánh loại I, loại II được áp dụng như thế nào?",
+    "a1": "Tối đa 1 tỷ đồng",
+    "a2": "Tối đa 5 tỷ đồng",
+    "a3": "Theo quy định của Tổng Giám đốc trong từng thời kỳ",
+    "a4": "Theo quy định của Giám đốc chi nhánh loại I",
+    "correct": "3",
+    "source": "Điểm a Khoản 5 Điều 3 QĐ 333/QĐ-NHNo-TTKH",
     "id": 170,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -2893,8 +2893,8 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Đâu KHÔNG phải trách nhiệm của cán bộ Agribank (Theo Quy định số 1345/QyĐ-HĐTV-TTh ngày 15/11/2024)?",
-    "a1": "Trung thành vì lợi ích của Agribank",
+    "question": "Đâu KHÔNG phải trách nhiệm của cán bộ Agribank (Theo Quy định số 1345/QyĐ-HĐTV-TTh ngày 15/11/2024)?",
+    "a1": "Trung thành vì lợi ích của Agribank",
     "a2": "Bảo vệ tài sản của Agribank",
     "a3": "Giảm sự tương tác giữa các phòng, ban để tránh xung đột",
     "a4": "Bảo mật thông tin của Agribank, khách hàng, đối tác",
@@ -4731,7 +4731,7 @@
     "question": "Mô hình lãnh đạo, quản lý hiện đại của thế kỷ 21 cho rằng: Nhà lãnh đạo phải đảm bảo các yếu tố nào?",
     "a1": "Khả năng tạo tầm nhìn.",
     "a2": "Khả năng gây ảnh hưởng.",
-    "a3": "Khả năng truyền cảm hứng.",
+    "a3": "Khả năng truyền cảm hứng.",
     "a4": "Tất cả các đáp án trên.",
     "correct": "4",
     "source": "Chuyên đề 1, Phần 2, Mục 2.1. Mô hình lãnh đạo, quản lý hiện đại của thế kỷ 21, Tài liệu chương trình lãnh đạo quản lý cấp phòng năm 2022",
@@ -6501,21 +6501,6 @@
     "batches": [
       "Đợt 1"
     ],
-    "question": "Theo Quyết định 295/QĐ-HĐTV-TTLT ngày 15/5/2015, tại Văn phòng Đại diện, Sở Giao dịch, đơn vị sự nghiệp và chi nhánh loại 1, chi nhánh loại II, chi nhánh Agribank ở nước ngoài, Lưu trữ cơ quan là đơn vị nào?",
-    "a1": "Phòng Tổng hợp.",
-    "a2": "Phòng, ban hoặc bộ phận được giao làm công tác lưu trữ.",
-    "a3": "",
-    "a4": "",
-    "correct": "2",
-    "source": "Khoản 14 Điều 2 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
-    "id": 424,
-    "batch_label": "Đợt 1"
-  },
-  {
-    "category": "Văn thư",
-    "batches": [
-      "Đợt 1"
-    ],
     "question": "Theo Quyết định 295/QĐ-HĐTV-TTLT ngày 15/5/2015, trước khi nghỉ hưu, thôi việc, miễn nhiệm, cách chức hoặc chuyển công tác khác, cán bộ có hồ sơ tài liệu cần làm gì?",
     "a1": "Phải bàn giao đầy đủ hồ sơ, tài liệu cho cán bộ có trách nhiệm của đơn vị, không được giữ hồ sơ, tài liệu của đơn vị làm tài liệu riêng hoặc mang sang cơ quan, tổ chức khác.",
     "a2": "Giữ hồ sơ, tài liệu làm tài liệu của riêng mình",
@@ -6523,7 +6508,7 @@
     "a4": "",
     "correct": "1",
     "source": "Điều 4 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
-    "id": 425,
+    "id": 424,
     "batch_label": "Đợt 1"
   },
   {
@@ -6538,7 +6523,7 @@
     "a4": "",
     "correct": "1",
     "source": "Khoản 6 Điều 2 tại Quyết định số 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
-    "id": 426,
+    "id": 425,
     "batch_label": "Đợt 1"
   },
   {
@@ -6553,7 +6538,7 @@
     "a4": "",
     "correct": "1",
     "source": "Theo khoản 3 điều 2 tại  295/QĐ-HĐTV-TTLT ngày 15/5/2015",
-    "id": 427,
+    "id": 426,
     "batch_label": "Đợt 1"
   },
   {
@@ -6568,6 +6553,21 @@
     "a4": "",
     "correct": "3",
     "source": "Theo khoản 15 điều 2 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
+    "id": 427,
+    "batch_label": "Đợt 1"
+  },
+  {
+    "category": "Văn thư",
+    "batches": [
+      "Đợt 1"
+    ],
+    "question": "Theo Quyết định 295/QĐ-HĐTV-TTLT ngày 15/5/2015, tại Văn phòng Đại diện, Sở Giao dịch, đơn vị sự nghiệp và chi nhánh loại 1, chi nhánh loại II, chi nhánh Agribank ở nước ngoài, Lưu trữ cơ quan là đơn vị nào?",
+    "a1": "Phòng Tổng hợp.",
+    "a2": "Phòng, ban hoặc bộ phận được giao làm công tác lưu trữ.",
+    "a3": "",
+    "a4": "",
+    "correct": "2",
+    "source": "Khoản 14 Điều 2 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
     "id": 428,
     "batch_label": "Đợt 1"
   },
@@ -6637,8 +6637,8 @@
       "Đợt 1"
     ],
     "question": "Theo Quyết định 635/QĐ-HĐTV-TTLTT ngày 15/10/2020, bản chính văn bản là gì?",
-    "a1": "Là bản được người có thẩm quyền trực tiếp ký trên văn bản giấy.",
-    "a2": "Là bản hoàn chỉnh về nội dung, thể thức văn bản được tạo từ bản có chữ ký trực tiếp của người có thẩm quyền.",
+    "a1": "Là bản được người có thẩm quyền trực tiếp ký trên văn bản giấy.",
+    "a2": "Là bản hoàn chỉnh về nội dung, thể thức văn bản được tạo từ bản có chữ ký trực tiếp của người có thẩm quyền.",
     "a3": "Là bản hoàn chỉnh về nội dung, thể thức văn bản.",
     "a4": "",
     "correct": "2",
@@ -6652,9 +6652,9 @@
       "Đợt 1"
     ],
     "question": "Theo Quyết định 635/QĐ-HĐTV-TTLTT ngày 15/10/2020, bản gốc văn bản là gì?",
-    "a1": "Là bản hoàn chỉnh về nội dung, thể thức văn bản được tạo từ bản có chữ ký trực tiếp của người có thẩm quyền.",
-    "a2": "Là bản hoàn chỉnh về nội dung, thể thức văn bản, được người có thẩm quyền trực tiếp ký trên văn bản giấy hoặc ký số trên văn bản điện tử.",
-    "a3": "Là bản hoàn chỉnh về nội dung, thể thức  có chữ ký trực tiếp của người có thẩm quyền.",
+    "a1": "Là bản hoàn chỉnh về nội dung, thể thức văn bản được tạo từ bản có chữ ký trực tiếp của người có thẩm quyền.",
+    "a2": "Là bản hoàn chỉnh về nội dung, thể thức văn bản, được người có thẩm quyền trực tiếp ký trên văn bản giấy hoặc ký số trên văn bản điện tử.",
+    "a3": "Là bản hoàn chỉnh về nội dung, thể thức  có chữ ký trực tiếp của người có thẩm quyền.",
     "a4": "",
     "correct": "2",
     "source": "Khoản 1 Điều 1 Quyết định 635/QĐ-HĐTV-TTLTT ngày 15/10/2020",
@@ -6837,7 +6837,7 @@
     "a3": "Cả đáp án 1 và 2.",
     "a4": "",
     "correct": "3",
-    "source": "Khoản 1, Điều 8  tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
+    "source": "Khoản 1, Điều 8  tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
     "id": 446,
     "batch_label": "Đợt 1"
   },
@@ -6861,7 +6861,7 @@
     "batches": [
       "Đợt 1"
     ],
-    "question": "Theo Quyết định số 295/QĐ-HĐTV-TTLT ngày 15/5/2015, ngoài hồ sơ cấp tín dụng và hồ sơ xây dựng cơ bản, thời hạn giao nộp đối với hồ sơ, tài liệu khác tối đa là bao nhiêu ngày?",
+    "question": "Theo Quyết định số 295/QĐ-HĐTV-TTLT ngày 15/5/2015, ngoài hồ sơ cấp tín dụng và hồ sơ xây dựng cơ bản, thời hạn giao nộp đối với hồ sơ, tài liệu khác tối đa là bao nhiêu ngày?",
     "a1": "3 ngày làm việc kể từ ngày kết thúc công việc.",
     "a2": "180 ngày kể từ ngày kết thúc công việc.",
     "a3": "9 ngày làm việc kể từ ngày kết thúc công việc.",
@@ -6927,7 +6927,7 @@
     "a3": "Lập danh mục tài liệu hết giá trị không cần lưu trữ để tiêu hủy.",
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
-    "source": "Khoản 3 Điều 12 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
+    "source": "Khoản 3 Điều 12 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
     "id": 452,
     "batch_label": "Đợt 1"
   },
@@ -6972,7 +6972,7 @@
     "a3": "Cả đáp án 1 và 2",
     "a4": "",
     "correct": "3",
-    "source": "Khoản 1 Điều 13 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
+    "source": "Khoản 1 Điều 13 tại 295/QĐ-HĐTV-TTLT ngày 15/5/2015",
     "id": 455,
     "batch_label": "Đợt 1"
   },
@@ -7572,7 +7572,7 @@
     ],
     "question": "Cách ứng xử nào KHÔNG đúng sau khi nhận danh thiếp?",
     "a1": "Sử dụng 2 tay khi nhận danh thiếp",
-    "a2": "Đọc những thông tin cơ bản ghi trên danh thiếp.",
+    "a2": "Đọc những thông tin cơ bản ghi trên danh thiếp.",
     "a3": "Cẩn thận cất ngay vào túi áo ngực.",
     "a4": "",
     "correct": "3",
@@ -7890,7 +7890,7 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, ai là người lập phiếu yêu cầu khai thác, sử dụng hồ sơ, tài liệu?",
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, ai là người lập phiếu yêu cầu khai thác, sử dụng hồ sơ, tài liệu?",
     "a1": "Người quản lý kho",
     "a2": "Người khai thác",
     "a3": "",
@@ -9634,13 +9634,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Cán bộ ngân hàng phải luôn cẩn thận, kỹ lưỡng, cân nhắc thấu đáo, lường đoán kỹ mọi rủi ro để phòng ngừa; thận trọng trong giao tiếp và giữ kỷ luật phát ngôn; tự giác chịu sự giám sát, kiểm soát theo quy định” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Cán bộ ngân hàng phải luôn cẩn thận, kỹ lưỡng, cân nhắc thấu đáo, lường đoán kỹ mọi rủi ro để phòng ngừa; thận trọng trong giao tiếp và giữ kỷ luật phát ngôn; tự giác chịu sự giám sát, kiểm soát theo quy định” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Sự liêm chính.",
     "a2": "Ý thức bảo mật thông tin.",
-    "a3": "Sự cẩn trọng.",
+    "a3": "Sự cẩn trọng.",
     "a4": "",
     "correct": "3",
-    "source": "Điểm a khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm a khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 624,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9650,13 +9650,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không làm lơ khi thấy các hiện tượng sai trái xung quanh” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không làm lơ khi thấy các hiện tượng sai trái xung quanh” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Sự liêm chính",
     "a2": "Tính tuân thủ",
-    "a3": "Tính chủ động, sáng tạo, thích ứng.",
+    "a3": "Tính chủ động, sáng tạo, thích ứng.",
     "a4": "",
     "correct": "1",
-    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 625,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9666,13 +9666,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không ngừng cải tiến phương pháp làm việc, nâng cao các kỹ năng mềm của bản thân” thuộc quy định về chuẩn mực đạo đức nào?",
-    "a1": "Tính chủ động, sáng tạo, thích ứng.",
-    "a2": "Tính tuân thủ.",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không ngừng cải tiến phương pháp làm việc, nâng cao các kỹ năng mềm của bản thân” thuộc quy định về chuẩn mực đạo đức nào?",
+    "a1": "Tính chủ động, sáng tạo, thích ứng.",
+    "a2": "Tính tuân thủ.",
     "a3": "Sự liêm chính.",
     "a4": "",
     "correct": "1",
-    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 626,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9682,13 +9682,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không đưa ra thông tin sai lệch, thiếu chính xác, mang tính chủ quan cá nhân gây tổn hại đến tài sản, thương hiệu, uy tín của tổ chức, của ngành, gây hoang mang, lo ngại, ảnh hưởng đến lòng tin của khách hàng đối với ngân hàng” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không đưa ra thông tin sai lệch, thiếu chính xác, mang tính chủ quan cá nhân gây tổn hại đến tài sản, thương hiệu, uy tín của tổ chức, của ngành, gây hoang mang, lo ngại, ảnh hưởng đến lòng tin của khách hàng đối với ngân hàng” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Sự liêm chính.",
     "a2": "Ý thức bảo mật thông tin.",
     "a3": "Tính tuân thủ.",
     "a4": "",
     "correct": "2",
-    "source": "Điểm a khoản 6 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm a khoản 6 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 627,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9698,13 +9698,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được chủ quan, liều lĩnh, không được dễ dãi, cả tin; không làm tắt, bỏ qua các bước, các thủ tục trong quy trình nghiệp vụ đã quy định” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được chủ quan, liều lĩnh, không được dễ dãi, cả tin; không làm tắt, bỏ qua các bước, các thủ tục trong quy trình nghiệp vụ đã quy định” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Sự liêm chính.",
-    "a2": "Sự cẩn trọng.",
+    "a2": "Sự cẩn trọng.",
     "a3": "Ý thức bảo mật thông tin.",
     "a4": "",
     "correct": "2",
-    "source": "Điểm b khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm b khoản 2 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 628,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9714,13 +9714,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được tham ô, vụ lợi hoặc tiếp tay cho hành vi tham ô, vụ lợi” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Không được tham ô, vụ lợi hoặc tiếp tay cho hành vi tham ô, vụ lợi” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Tính tuân thủ.",
     "a2": "Sự liêm chính.",
     "a3": "Ý thức bảo mật thông tin.",
     "a4": "",
     "correct": "2",
-    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm b khoản 3 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 629,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -9730,13 +9730,13 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Rèn luyện khả năng thích ứng cao trước sự thay đổi của môi trường và yêu cầu trong tình hình mới” thuộc quy định về chuẩn mực đạo đức nào?",
+    "question": "Theo quy định tại “Bộ chuẩn mực đạo đức nghề nghiệp và quy tắc ứng xử của cán bộ ngân hàng” do Hội đồng Hiệp hội Ngân hàng Việt Nam ban hành, nội dung “Rèn luyện khả năng thích ứng cao trước sự thay đổi của môi trường và yêu cầu trong tình hình mới” thuộc quy định về chuẩn mực đạo đức nào?",
     "a1": "Tính tuân thủ.",
     "a2": "Ý thức bảo mật thông tin.",
-    "a3": "Tính chủ động, sáng tạo, thích ứng.",
+    "a3": "Tính chủ động, sáng tạo, thích ứng.",
     "a4": "",
     "correct": "3",
-    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
+    "source": "Điểm a khoản 5 Điều 4 Chương II QĐ 11/QĐ-HHNH ngày 25/02/2019",
     "id": 630,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -10003,13 +10003,13 @@
     "batches": [
       "Đợt 2"
     ],
-    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, người đến khai thác phải cung cấp thông tin nội dung liên quan nào về hồ sơ tài liệu cần khai thác?",
+    "question": "Theo Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015, người đến khai thác phải cung cấp thông tin nội dung liên quan nào về hồ sơ tài liệu cần khai thác?",
     "a1": "Số, ký hiệu, ngày, tháng, năm",
     "a2": "Trích yếu văn bản, thời gian",
     "a3": "Mục đích sử dụng tài liệu",
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
-    "source": "Khoản 4 Điều 21 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
+    "source": "Khoản 4 Điều 21 Quy trình 999/QĐ-NHNo-TTLT ngày 31/07/2015",
     "id": 648,
     "batch_label": "Đợt 2"
   },
@@ -11263,13 +11263,13 @@
     "batches": [
       "Đợt 1"
     ],
-    "question": "Ai là người tham gia thực hiện cơ cấu lại thời hạn trả nợ tại Agribank nơi cho vay?",
-    "a1": "Người quản lý nợ, Người thẩm định lại.",
+    "question": "Ai là người tham gia thực hiện cơ cấu lại thời hạn trả nợ tại Agribank nơi cho vay?",
+    "a1": "Người quản lý nợ, Người thẩm định lại.",
     "a2": "Người kiểm soát khoản vay, Người phê duyệt cơ cấu lại thời hạn trả nợ.",
     "a3": "Người quyết định cơ cấu lại thời hạn trả nợ.",
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
-    "source": "Điều 61 QyĐ 2268/QyĐ-NHNo-TD được sửa đổi , bổ sung tại QyĐ 4466/QyĐ-NHNo-TD",
+    "source": "Điều 61 QyĐ 2268/QyĐ-NHNo-TD được sửa đổi , bổ sung tại QyĐ 4466/QyĐ-NHNo-TD",
     "id": 732,
     "batch_label": "Đợt 1"
   },
@@ -11730,9 +11730,9 @@
     ],
     "question": "Nhiệm vụ của Người thẩm định lại khi lập Báo cáo thẩm định lại tại Agribank nơi phê duyệt vượt thẩm quyền là chi nhánh loại I?",
     "a1": "Người thẩm định lại nêu rõ ý kiến đề xuất đồng ý/không đồng ý phê duyệt vượt thẩm quyền (trường hợp không đồng ý phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người thẩm định lại trên Báo cáo thẩm định.",
-    "a2": "Người thẩm định lại ký tắt các trang Báo cáo thẩm định lại, nêu rõ ý kiến đề xuất đồng ý/không đồng ý phê duyệt vượt quyền phán quyết (trường hợp không đồng ý phải nêu rõ lý do).",
-    "a3": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu rõ ý kiến đề xuất đồng ý/không đồng ý phê duyệt vượt quyền phán quyết, ký và ghi rõ họ tên vào phần Người thẩm định lại.",
-    "a4": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu ý kiến đề xuất phê duyệt/không phê duyệt vượt thẩm quyền (trường hợp không đồng ý phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người thẩm định lại trên Báo cáo thẩm định lại.",
+    "a2": "Người thẩm định lại ký tắt các trang Báo cáo thẩm định lại, nêu rõ ý kiến đề xuất đồng ý/không đồng ý phê duyệt vượt quyền phán quyết (trường hợp không đồng ý phải nêu rõ lý do).",
+    "a3": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu rõ ý kiến đề xuất đồng ý/không đồng ý phê duyệt vượt quyền phán quyết, ký và ghi rõ họ tên vào phần Người thẩm định lại.",
+    "a4": "Người thẩm định lại lập, ký tắt các trang Báo cáo thẩm định lại, nêu ý kiến đề xuất phê duyệt/không phê duyệt vượt thẩm quyền (trường hợp không đồng ý phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người thẩm định lại trên Báo cáo thẩm định lại.",
     "correct": "4",
     "source": "Khoản 4 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
     "id": 763,
@@ -11863,21 +11863,6 @@
     "batches": [
       "Đợt 1"
     ],
-    "question": "Tại Agribank nơi cho vay, thời gian kiểm tra tình hình hoạt động kinh doanh của khách hàng cá nhân là?",
-    "a1": "Ít nhất 1 lần trong vòng 3 tháng kể từ ngày kiểm tra gần nhất.",
-    "a2": "Ít nhất 1 lần trong vòng 6 tháng kể từ ngày kiểm tra gần nhất.",
-    "a3": "Ít nhất 1 lần trong vòng 9 tháng kể từ ngày kiểm tra gần nhất.",
-    "a4": "Ít nhất 1 lần trong vòng 12 tháng kể từ ngày kiểm tra gần nhất.",
-    "correct": "4",
-    "source": "Tiết ii Điểm b Khoản 1 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 772,
-    "batch_label": "Đợt 1"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 1"
-    ],
     "question": "Theo  Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 trường hợp khách hàng là tổ chức bị giải thể hoặc phá sản, hồ sơ đề nghị XLRR cần bổ sung thêm những giấy tờ gì",
     "a1": "Bản gốc Quyết định tuyên bố phá sản của Tòa Án",
     "a2": "Bản gốc hoặc bản sao được chứng thực hoặc bản sao từ sổ gốc Quyết định tuyên bố phá sản của Tòa Án hoặc quyết định giải thể doanh nghiệp theo quy định của Pháp luật",
@@ -11885,7 +11870,7 @@
     "a4": "Bản gốc hoặc bản sao được chứng thực hoặc bản sao quyết định giải thể doanh nghiệp theo quy định của Pháp luật",
     "correct": "2",
     "source": "Mục 2, Điểm 11, Khoản 11, Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 773,
+    "id": 772,
     "batch_label": "Đợt 1"
   },
   {
@@ -11900,7 +11885,7 @@
     "a4": "",
     "correct": "3",
     "source": "Điểm b, Khoản 4, Điều 1, Quy chế 1546/QC-HĐTV-TD ngày 27/12/2024",
-    "id": 774,
+    "id": 773,
     "batch_label": "Đợt 1"
   },
   {
@@ -11915,7 +11900,7 @@
     "a4": "Định kỳ hàng năm vào ngày 31/12",
     "correct": "2",
     "source": "Điểm b, Khoản 7, Điều 19 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 775,
+    "id": 774,
     "batch_label": "Đợt 1"
   },
   {
@@ -11930,7 +11915,7 @@
     "a4": "Phê duyệt phương án bán nợ của Chi nhánh",
     "correct": "2",
     "source": "Khoản 1, Điều 5 Quy chế số 208/QC-HĐTV-TD ngày 12 tháng 4 năm 2023 của HĐTV Agribank.",
-    "id": 776,
+    "id": 775,
     "batch_label": "Đợt 1"
   },
   {
@@ -11945,7 +11930,7 @@
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Điều 28  Quy chế 346/QC-HĐTV-TD",
-    "id": 777,
+    "id": 776,
     "batch_label": "Đợt 1"
   },
   {
@@ -11960,7 +11945,7 @@
     "a4": "Trưởng/Phó trưởng Phòng Khách hàng, Trưởng/Phó trưởng Ban thuộc Ban TĐPD, Trưởng/Phó trưởng phòng phê duyệt thuộc TTPD.",
     "correct": "3",
     "source": "Khoản 33 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 778,
+    "id": 777,
     "batch_label": "Đợt 1"
   },
   {
@@ -11969,13 +11954,13 @@
       "Đợt 1"
     ],
     "question": "Theo Quy chế 346/QC-HĐTV-TD về bảo lãnh ngân hàng, người thẩm định lại là?",
-    "a1": "Người thuộc Phòng Khách hàng, Phòng Thẩm định/bộ phận Thẩm định, Ban Thẩm định và phê duyệt tín dụng/Trung tâm phê duyệt tín dụng khu vực hoặc người khác do người có thẩm quyền phân công, giao nhiệm vụ.",
+    "a1": "Người thuộc Phòng Khách hàng, Phòng Thẩm định/bộ phận Thẩm định, Ban Thẩm định và phê duyệt tín dụng/Trung tâm phê duyệt tín dụng khu vực hoặc người khác do người có thẩm quyền phân công, giao nhiệm vụ.",
     "a2": "Người thuộc Phòng Thẩm định/bộ phận Thẩm định, Ban và phê duyệt tín dụng/Trung tâm phê duyệt tín dụng khu vực.",
     "a3": "Đáp án 1 và 2.",
     "a4": "",
     "correct": "1",
     "source": "Khoản 32 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 779,
+    "id": 778,
     "batch_label": "Đợt 1"
   },
   {
@@ -11990,7 +11975,7 @@
     "a4": "Các bên thỏa thuận thu phí bảo lãnh bằng ngoại tệ hoặc quy đổi ra đồng Việt Nam theo tỷ giá bán của Agribank.",
     "correct": "2",
     "source": "Khoản 4 Điều 23 QC 346/QC-HĐTV-TD",
-    "id": 780,
+    "id": 779,
     "batch_label": "Đợt 1"
   },
   {
@@ -12005,7 +11990,7 @@
     "a4": "Thỏa thuận cấp bảo lãnh.",
     "correct": "1",
     "source": "Khoản 1 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 781,
+    "id": 780,
     "batch_label": "Đợt 1"
   },
   {
@@ -12020,7 +12005,7 @@
     "a4": "01 bản chính và 03 bản sao y.",
     "correct": "2",
     "source": "Điểm b Khoản 4 Điều 19 QC 346/QC-HĐTV-TD",
-    "id": 782,
+    "id": 781,
     "batch_label": "Đợt 1"
   },
   {
@@ -12035,7 +12020,7 @@
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1, 2, 3 Điều 33 QC 879/QC-HĐTV-TD",
-    "id": 783,
+    "id": 782,
     "batch_label": "Đợt 1"
   },
   {
@@ -12050,7 +12035,7 @@
     "a4": "Không làm chấm dứt Hợp đồng cấp tín dụng.",
     "correct": "4",
     "source": "Khoản 1 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 784,
+    "id": 783,
     "batch_label": "Đợt 1"
   },
   {
@@ -12065,7 +12050,7 @@
     "a4": "Nợ nhóm 5",
     "correct": "4",
     "source": "Điều 6 Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 785,
+    "id": 784,
     "batch_label": "Đợt 1"
   },
   {
@@ -12080,7 +12065,7 @@
     "a4": "Từ D1 đến D12",
     "correct": "1",
     "source": "Khoản 2 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 786,
+    "id": 785,
     "batch_label": "Đợt 1"
   },
   {
@@ -12095,7 +12080,7 @@
     "a4": "0.1",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 787,
+    "id": 786,
     "batch_label": "Đợt 1"
   },
   {
@@ -12110,7 +12095,7 @@
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 1 Điều 11 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024 và Quy chế 565/QC-HĐTV-RRTD ngày 26/6/2025",
-    "id": 788,
+    "id": 787,
     "batch_label": "Đợt 1"
   },
   {
@@ -12125,7 +12110,7 @@
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "3",
     "source": "Khoản 8 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 789,
+    "id": 788,
     "batch_label": "Đợt 1"
   },
   {
@@ -12140,7 +12125,7 @@
     "a4": "Nợ cần chú ý, nợ dưới tiêu chuẩn, nợ nghi ngờ, nợ có khả năng mất vốn.",
     "correct": "2",
     "source": "Khoản 9 Điều 3 và khoản 1 Điều 6 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 790,
+    "id": 789,
     "batch_label": "Đợt 1"
   },
   {
@@ -12155,7 +12140,7 @@
     "a4": "Là nợ được Agribank chấp thuận điều chỉnh kỳ hạn trả nợ",
     "correct": "1",
     "source": "Khoản 7 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 791,
+    "id": 790,
     "batch_label": "Đợt 1"
   },
   {
@@ -12170,7 +12155,7 @@
     "a4": "",
     "correct": "1",
     "source": "Điểm b Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 792,
+    "id": 791,
     "batch_label": "Đợt 1"
   },
   {
@@ -12185,7 +12170,7 @@
     "a4": "Hợp đồng bảo đảm không vô hiệu",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 22 Quy chế 879/QC-HĐTV-TD",
-    "id": 793,
+    "id": 792,
     "batch_label": "Đợt 1"
   },
   {
@@ -12200,7 +12185,7 @@
     "a4": "Trụ sở chính không quy định thời hạn thực hiện",
     "correct": "1",
     "source": "Khoản 3 Điều 13   Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 794,
+    "id": 793,
     "batch_label": "Đợt 1"
   },
   {
@@ -12215,7 +12200,7 @@
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 2 Điều 29 Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 795,
+    "id": 794,
     "batch_label": "Đợt 1"
   },
   {
@@ -12230,7 +12215,7 @@
     "a4": "Tối thiểu 06 tháng một lần",
     "correct": "1",
     "source": "Khoản 2, Điều 24  Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 796,
+    "id": 795,
     "batch_label": "Đợt 1"
   },
   {
@@ -12245,7 +12230,7 @@
     "a4": "Khi khách hàng nợ là người quen của cán bộ ngân hàng",
     "correct": "2",
     "source": "Điểm b, Khoản 2, Điều 16 Quy định số 2766-QyĐ-NHNo-TD ngày 14/11/2023",
-    "id": 797,
+    "id": 796,
     "batch_label": "Đợt 1"
   },
   {
@@ -12260,7 +12245,7 @@
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 5, Điều 3 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 798,
+    "id": 797,
     "batch_label": "Đợt 1"
   },
   {
@@ -12275,7 +12260,7 @@
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 20 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 799,
+    "id": 798,
     "batch_label": "Đợt 1"
   },
   {
@@ -12290,7 +12275,7 @@
     "a4": "Tất cả các đáp án trên",
     "correct": "4",
     "source": "Điều 4 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 800,
+    "id": 799,
     "batch_label": "Đợt 1"
   },
   {
@@ -12305,7 +12290,7 @@
     "a4": "Giám đốc Phòng Giao dịch có KCTDCVĐ quản lý tại Phòng giao dịch",
     "correct": "1",
     "source": "Căn cứ Khoản 4, Điều 31, Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022 về Quản lý các KCTDCVĐ",
-    "id": 801,
+    "id": 800,
     "batch_label": "Đợt 1"
   },
   {
@@ -12320,7 +12305,7 @@
     "a4": "25 ngày",
     "correct": "1",
     "source": "Khoản a, điểm 1, điều 21 Quy định số 25/QyĐ-NHNo-TD ngày 13/01/2022 của Tổng Giám đốc",
-    "id": 802,
+    "id": 801,
     "batch_label": "Đợt 1"
   },
   {
@@ -12335,7 +12320,7 @@
     "a4": "",
     "correct": "3",
     "source": "Căn cứ Khoản 4, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 803,
+    "id": 802,
     "batch_label": "Đợt 1"
   },
   {
@@ -12350,7 +12335,7 @@
     "a4": "",
     "correct": "1",
     "source": "Căn cứ Khoản 3, Điều 3 Quy định số 25/QyĐ- NHNo-TD ngày 13/01/2022 Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 804,
+    "id": 803,
     "batch_label": "Đợt 1"
   },
   {
@@ -12365,7 +12350,7 @@
     "a4": "Ít nhất 09 tháng 1 lần hoặc đột xuất",
     "correct": "1",
     "source": "Căn cứ Khoản 1, Điều 11 QĐ 25/QyĐ-NHNo-TD Quy định Quản lý các khoản cấp tín dụng có vấn đề",
-    "id": 805,
+    "id": 804,
     "batch_label": "Đợt 1"
   },
   {
@@ -12380,7 +12365,7 @@
     "a4": "0.1",
     "correct": "2",
     "source": "Tiết i, điểm g, Khoản 1 Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 806,
+    "id": 805,
     "batch_label": "Đợt 1"
   },
   {
@@ -12395,7 +12380,7 @@
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2028",
-    "id": 807,
+    "id": 806,
     "batch_label": "Đợt 1"
   },
   {
@@ -12410,7 +12395,7 @@
     "a4": "0.1",
     "correct": "4",
     "source": "Tiết ii, điểm g, Khoản 1, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2026",
-    "id": 808,
+    "id": 807,
     "batch_label": "Đợt 1"
   },
   {
@@ -12425,7 +12410,7 @@
     "a4": "0.1",
     "correct": "1",
     "source": "Tiết i, Điểm i, Khoản 2, Điều 1 Quy chế 565/QC-HĐTV RRTD ngày 26/6/2025 sửa đổi bổ sung một số điều Quy chế số 910/QC-HĐTV-RRTD ngày 31/07/2029",
-    "id": 809,
+    "id": 808,
     "batch_label": "Đợt 1"
   },
   {
@@ -12440,7 +12425,7 @@
     "a4": "",
     "correct": "1",
     "source": "Điểm a Khoản 3 Điều 1 Quy chế số 979/QC-HĐTV-TD ngày 23/8/2024 (về sửa đổi Quy chế số 820/QC-HĐTV-TD ngày 31/10/2023)",
-    "id": 810,
+    "id": 809,
     "batch_label": "Đợt 1"
   },
   {
@@ -12455,7 +12440,7 @@
     "a4": "",
     "correct": "3",
     "source": "Điểm 1, Khoản 7 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025 sửa đổi bổ sung một số điều tại Quy trình 2232/QTr-NHNo-RRTD ngày 31/7/2024",
-    "id": 811,
+    "id": 810,
     "batch_label": "Đợt 1"
   },
   {
@@ -12470,7 +12455,7 @@
     "a4": "Đáp án 2&3",
     "correct": "4",
     "source": "Khoản 1 Điều 7 Quy chế 910/QC-HĐTV-RRTD ngày 31/07/2024",
-    "id": 812,
+    "id": 811,
     "batch_label": "Đợt 1"
   },
   {
@@ -12485,7 +12470,7 @@
     "a4": "Khi khoản nợ phát sinh nợ xấu",
     "correct": "3",
     "source": "Khoản 4 Điều 30 Quy định 25/QyĐ-NHNo-TD ngày 13/01/2022",
-    "id": 813,
+    "id": 812,
     "batch_label": "Đợt 1"
   },
   {
@@ -12500,7 +12485,7 @@
     "a4": "",
     "correct": "1",
     "source": "Khoản 38 Điều 3 QC 346/QC-HĐTV-TD",
-    "id": 814,
+    "id": 813,
     "batch_label": "Đợt 1"
   },
   {
@@ -12515,7 +12500,7 @@
     "a4": "",
     "correct": "3",
     "source": "Tiết i, ii Điểm a Khoản 3 Điều 30 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 815,
+    "id": 814,
     "batch_label": "Đợt 1"
   },
   {
@@ -12530,7 +12515,7 @@
     "a4": "Thành viên đoàn thanh tra đang thanh tra tại Agribank.",
     "correct": "3",
     "source": "Khoản 2 Điều 22 QC 656/QC-HĐTV-TD được sửa đổi, bổ sung tại QC 579/QC-HĐTV-TD",
-    "id": 816,
+    "id": 815,
     "batch_label": "Đợt 1"
   },
   {
@@ -12545,7 +12530,7 @@
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 1 Điều 19 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 817,
+    "id": 816,
     "batch_label": "Đợt 1"
   },
   {
@@ -12560,7 +12545,7 @@
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 7 QĐ 2268/QyĐ-NHNo-TD",
-    "id": 818,
+    "id": 817,
     "batch_label": "Đợt 1"
   },
   {
@@ -12575,7 +12560,7 @@
     "a4": "Agribank nơi phê duyệt cấp tín dụng",
     "correct": "1",
     "source": "Điểm a khoản 1 Điều 42 Quy chế 879/QC-HĐTV-TD",
-    "id": 819,
+    "id": 818,
     "batch_label": "Đợt 1"
   },
   {
@@ -12590,7 +12575,7 @@
     "a4": "Tất cả đáp án trên",
     "correct": "4",
     "source": "Khoản 3 Điều 43 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 820,
+    "id": 819,
     "batch_label": "Đợt 1"
   },
   {
@@ -12605,7 +12590,7 @@
     "a4": "Tối đa 48 tháng.",
     "correct": "3",
     "source": "Khoản 1 Điều 24 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 821,
+    "id": 820,
     "batch_label": "Đợt 1"
   },
   {
@@ -12613,14 +12598,14 @@
     "batches": [
       "Đợt 1"
     ],
-    "question": "Thời hạn quyết định cấp bảo lãnh tối đa kể từ ngày nhận đủ hồ sơ, thông tin hợp lệ tại Agribank nơi cấp bảo lãnh?",
+    "question": "Thời hạn quyết định cấp bảo lãnh tối đa kể từ ngày nhận đủ hồ sơ, thông tin hợp lệ tại Agribank nơi cấp bảo lãnh?",
     "a1": "Tối đa 05 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 2 ngày làm việc.",
     "a2": "Tối đa 10 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 5 ngày làm việc.",
     "a3": "Tối đa 10 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 3 ngày làm việc.",
     "a4": "Tối đa 5 (năm) ngày làm việc. Trường hợp đã cấp bảo lãnh theo hạn mức, thời hạn cấp bảo lãnh từng lần tối đa 3 ngày làm việc.",
     "correct": "1",
     "source": "Khoản 1 Điều 10 QyĐ 1445 /QyĐ-NHNo-TD",
-    "id": 822,
+    "id": 821,
     "batch_label": "Đợt 1"
   },
   {
@@ -12635,7 +12620,7 @@
     "a4": "Kiểm tra tối thiểu sau 12 tháng kể từ ngày giải ngân đầu tiên và một năm ít nhất 01 (một) lần đối với các lần kiểm tra tiếp theo.",
     "correct": "2",
     "source": "Điểm b Khoản 2 Điều 65 QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 823,
+    "id": 822,
     "batch_label": "Đợt 1"
   },
   {
@@ -12650,7 +12635,7 @@
     "a4": "10 ngày làm việc",
     "correct": "2",
     "source": "Khoản 3 Điều 44 QC 656/QC-HĐTV-TD",
-    "id": 824,
+    "id": 823,
     "batch_label": "Đợt 1"
   },
   {
@@ -12665,7 +12650,7 @@
     "a4": "10 ngày",
     "correct": "1",
     "source": "Tiết a Khoản 3 Điều 26 QC 346/QC-HĐTV-TD",
-    "id": 825,
+    "id": 824,
     "batch_label": "Đợt 1"
   },
   {
@@ -12680,7 +12665,7 @@
     "a4": "Việc khai báo và phê duyệt đơn xin vay trên hệ thống IPCAS được thực hiện tại phòng thẩm định chi nhánh loại II/PGD",
     "correct": "1",
     "source": "Điểm b, Khoản 29 Điều 1 QyĐ 4466/QyĐ-NHNo-TD sửa đổi, bổ sung QyĐ 2268/QyĐ-NHNo-TD",
-    "id": 826,
+    "id": 825,
     "batch_label": "Đợt 1"
   },
   {
@@ -12695,7 +12680,7 @@
     "a4": "Phát hành bảo lãnh bảo đảm chất lượng sản phẩm.",
     "correct": "2",
     "source": "Khoản 1 Điều 18 QC 346/QC-HĐTV-TD",
-    "id": 827,
+    "id": 826,
     "batch_label": "Đợt 1"
   },
   {
@@ -12710,7 +12695,7 @@
     "a4": "Khách hàng có dư nợ từ 06 tỷ đồng trở lên, trừ trường hợp Hội đồng tín dụng Chi nhánh loại I là người quyết định nhận TSBĐ",
     "correct": "2",
     "source": "Điểm c Khoản 2 Điều 39 Quy định 2929/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QyĐ 3838/QyĐ-NHNo-TD",
-    "id": 828,
+    "id": 827,
     "batch_label": "Đợt 1"
   },
   {
@@ -12725,7 +12710,7 @@
     "a4": "4 lần",
     "correct": "4",
     "source": "Khoản 4 Điều 4 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 829,
+    "id": 828,
     "batch_label": "Đợt 1"
   },
   {
@@ -12734,13 +12719,13 @@
       "Đợt 1"
     ],
     "question": "Tài sản bảo đảm nào phải thông qua Tổ thẩm định tài sản bảo đảm (trừ các trường hợp quy định tại điểm c khoản 1 Điều 29 Quy định 2929)?",
-    "a1": "Tài sản có giá trị từ 12 tỷ đồng trở lên và phạm vi bảo đảm của tài sản đó từ 10 tỷ đồng (nợ gốc) trở lên",
+    "a1": "Tài sản có giá trị từ 12 tỷ đồng trở lên và phạm vi bảo đảm của tài sản đó từ 10 tỷ đồng (nợ gốc) trở lên",
     "a2": "Tài sản của cá nhân, tài sản chung của nhiều cá nhân để bảo đảm nghĩa vụ trên 2 tỷ đồng cho cá nhân khác, nhiều cá nhân khác mà bên bảo đảm và người có nghĩa vụ được bảo đảm không phải là đồng sở hữu, không phải đồng sử dụng tài sản hoặc không có mối quan hệ hôn nhân, huyết thống, nuôi dưỡng.",
     "a3": "Đáp án 1 và 2.",
     "a4": "",
     "correct": "3",
     "source": "Điểm a, b  Khoản 1 Điều 29 QĐ 3838/QyĐ-NHNo-TD được sửa đổi, bổ sung tại QĐ 2929/QyĐ-NHNo-TD",
-    "id": 830,
+    "id": 829,
     "batch_label": "Đợt 1"
   },
   {
@@ -12755,7 +12740,7 @@
     "a4": "Đáp án 1 và 2",
     "correct": "4",
     "source": "Điều 7 Quy chế 879/QC-HĐTV-TD",
-    "id": 831,
+    "id": 830,
     "batch_label": "Đợt 1"
   },
   {
@@ -12770,6 +12755,21 @@
     "a4": "Trả thay theo cam kết ngoại bảng",
     "correct": "2",
     "source": "Khoản 2 Điều 3 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
+    "id": 831,
+    "batch_label": "Đợt 1"
+  },
+  {
+    "category": "Xử lý nợ",
+    "batches": [
+      "Đợt 1"
+    ],
+    "question": "Tại Agribank nơi cho vay, thời gian kiểm tra tình hình hoạt động kinh doanh của khách hàng cá nhân là?",
+    "a1": "Ít nhất 1 lần trong vòng 3 tháng kể từ ngày kiểm tra gần nhất.",
+    "a2": "Ít nhất 1 lần trong vòng 6 tháng kể từ ngày kiểm tra gần nhất.",
+    "a3": "Ít nhất 1 lần trong vòng 9 tháng kể từ ngày kiểm tra gần nhất.",
+    "a4": "Ít nhất 1 lần trong vòng 12 tháng kể từ ngày kiểm tra gần nhất.",
+    "correct": "4",
+    "source": "Tiết ii Điểm b Khoản 1 Điều 63 QyĐ 2268/QyĐ-NHNo-TD",
     "id": 832,
     "batch_label": "Đợt 1"
   },
@@ -13349,7 +13349,7 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Khi trích lập dự phòng rủi ro, mức trích lập dự phòng chung theo quy định chiếm tỷ lệ bao nhiêu % tổng số dư các khoản nợ từ nhóm 1 đến nhóm 4?",
+    "question": "Khi trích lập dự phòng rủi ro, mức trích lập dự phòng chung theo quy định chiếm tỷ lệ bao nhiêu % tổng số dư các khoản nợ từ nhóm 1 đến nhóm 4?",
     "a1": "0,25%",
     "a2": "0,5%",
     "a3": "0,75%",
@@ -13589,8 +13589,8 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Nội dung nào sau đây là KHÔNG đúng về trích lập và sử dụng dự phòng rủi ro?",
-    "a1": "Dự phòng rủi ro bao gồm: Dự phòng cụ thể và dự phòng chung.",
+    "question": "Nội dung nào sau đây là KHÔNG đúng về trích lập và sử dụng dự phòng rủi ro?",
+    "a1": "Dự phòng rủi ro bao gồm: Dự phòng cụ thể và dự phòng chung.",
     "a2": "Dự phòng cụ thể là số tiền được trích lập để dự phòng cho những rủi ro có thể xảy ra đối với từng khoản nợ cụ thể.",
     "a3": "Dự phòng chung là số tiền được trích lập để dự phòng cho những rủi ro có thể xảy ra nhưng chưa xác định được khi trích lập dự phòng cụ thể.",
     "a4": "Việc sử dụng dự phòng để xử lý rủi ro làm thay đổi nghĩa vụ trả nợ của khách hàng đối với khoản nợ được sử dụng dự phòng để xử lý rủi ro.",
@@ -14517,22 +14517,6 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Tỷ lệ trích lập dự phòng cụ thể đối với khoản nợ được phân loại là nợ nhóm 4 là bao nhiêu?",
-    "a1": "0.05",
-    "a2": "0.2",
-    "a3": "0.5",
-    "a4": "1",
-    "correct": "3",
-    "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 943,
-    "batch_label": "Đợt 1 & Đợt 2"
-  },
-  {
-    "category": "Xử lý nợ",
-    "batches": [
-      "Đợt 1",
-      "Đợt 2"
-    ],
     "question": "Tại Chi nhánh loại I, cán bộ thuộc phòng nào phụ trách việc tổng hợp báo cáo phân loại nợ, cam kết ngoại bảng, trích lập dự phòng (biểu 1A, 1A-CT toàn chi nhánh)?",
     "a1": "Phòng Kế toán và Ngân Quỹ",
     "a2": "Phòng Kế hoạch và Quản lý rủi ro",
@@ -14540,7 +14524,7 @@
     "a4": "Phòng Kế hoạch và Quản lý rủi ro hoặc Phòng Khách hàng",
     "correct": "2",
     "source": "Khoản 2  Điều 10 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024 và khoản 3 Điều 1 Quy trình 1035/QTr-NHNo-RRTD ngày 31/3/2025",
-    "id": 944,
+    "id": 943,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14556,7 +14540,7 @@
     "a4": "Trưởng phòng Kế hoạch và Quản lý rủi ro",
     "correct": "2",
     "source": "Khoản 4 Điều 3 Quy trình 2232/QTr-NHNo-RRTD ngày 31/07/2024",
-    "id": 945,
+    "id": 944,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14572,7 +14556,7 @@
     "a4": "75 tỷ",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
-    "id": 946,
+    "id": 945,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14588,7 +14572,7 @@
     "a4": "0.4",
     "correct": "2",
     "source": "Khoản 4 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 947,
+    "id": 946,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14604,7 +14588,7 @@
     "a4": "0.2",
     "correct": "1",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 948,
+    "id": 947,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14620,7 +14604,7 @@
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 949,
+    "id": 948,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14636,7 +14620,7 @@
     "a4": "0.5",
     "correct": "4",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 950,
+    "id": 949,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14652,7 +14636,7 @@
     "a4": "0.5",
     "correct": "3",
     "source": "Khoản 2 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 951,
+    "id": 950,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14668,7 +14652,7 @@
     "a4": "0.05",
     "correct": "4",
     "source": "Khoản 3 Điều 6 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 952,
+    "id": 951,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14684,7 +14668,7 @@
     "a4": "0.15",
     "correct": "4",
     "source": "Khoản 5 Điều 3 Quy định 2980/QyĐ-NHNo-RRTD ngày 28/8/2024",
-    "id": 953,
+    "id": 952,
     "batch_label": "Đợt 1 & Đợt 2"
   },
   {
@@ -14700,6 +14684,22 @@
     "a4": "1",
     "correct": "1",
     "source": "Điều 12 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
+    "id": 953,
+    "batch_label": "Đợt 1 & Đợt 2"
+  },
+  {
+    "category": "Xử lý nợ",
+    "batches": [
+      "Đợt 1",
+      "Đợt 2"
+    ],
+    "question": "Tỷ lệ trích lập dự phòng cụ thể đối với khoản nợ được phân loại là nợ nhóm 4 là bao nhiêu?",
+    "a1": "0.05",
+    "a2": "0.2",
+    "a3": "0.5",
+    "a4": "1",
+    "correct": "3",
+    "source": "Khoản 2 Điều 9 Quy chế 910/QC-HĐTV-RRTD ngày 31/7/2024",
     "id": 954,
     "batch_label": "Đợt 1 & Đợt 2"
   },
@@ -14725,12 +14725,12 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Việc điều chỉnh kỳ hạn trả nợ không làm thay đổi khoản mục nào sau đây?",
-    "a1": "Kỳ hạn trả nợ",
-    "a2": "Tổng số tiền khách hàng phải trả",
-    "a3": "Thời gian trả từng phần của khoản nợ",
-    "a4": "Số tiền từng kỳ trả nợ đã thỏa thuận ban đầu",
-    "correct": "2",
+    "question": "Việc phân loại nợ hiện nay được các ngân hàng thương mại Việt Nam thực hiện theo văn bản quy phạm pháp luật nào?",
+    "a1": "Quyết định 493/2005/QĐ –NHNN",
+    "a2": "Thông tư 02/2013/TT-NHNN",
+    "a3": "Thông tư 11/2021/TT-NHNN",
+    "a4": "Thông tư 31/2024/TT-NHNN",
+    "correct": "4",
     "source": "Thông tư 31/2024/TT-NHNN",
     "id": 956,
     "batch_label": "Đợt 1 & Đợt 2"
@@ -14741,12 +14741,12 @@
       "Đợt 1",
       "Đợt 2"
     ],
-    "question": "Việc phân loại nợ hiện nay được các ngân hàng thương mại Việt Nam thực hiện theo văn bản quy phạm pháp luật nào?",
-    "a1": "Quyết định 493/2005/QĐ –NHNN",
-    "a2": "Thông tư 02/2013/TT-NHNN",
-    "a3": "Thông tư 11/2021/TT-NHNN",
-    "a4": "Thông tư 31/2024/TT-NHNN",
-    "correct": "4",
+    "question": "Việc điều chỉnh kỳ hạn trả nợ không làm thay đổi khoản mục nào sau đây?",
+    "a1": "Kỳ hạn trả nợ",
+    "a2": "Tổng số tiền khách hàng phải trả",
+    "a3": "Thời gian trả từng phần của khoản nợ",
+    "a4": "Số tiền từng kỳ trả nợ đã thỏa thuận ban đầu",
+    "correct": "2",
     "source": "Thông tư 31/2024/TT-NHNN",
     "id": 957,
     "batch_label": "Đợt 1 & Đợt 2"
@@ -15006,7 +15006,7 @@
     "batches": [
       "Đợt 2"
     ],
-    "question": "Agribank thực hiện phân loại nợ theo phương pháp định lượng thành bao nhiêu nhóm nợ?",
+    "question": "Agribank thực hiện phân loại nợ theo phương pháp định lượng thành bao nhiêu nhóm nợ?",
     "a1": "3",
     "a2": "4",
     "a3": "5",
@@ -15516,7 +15516,7 @@
     "batches": [
       "Đợt 2"
     ],
-    "question": "Theo BCTC năm gần nhất Doanh nghiệp X có doanh thu 55% từ kinh doanh kho, bãi và 45% từ xây dựng thì đăng ký ngành nghề kinh doanh trên Hệ thống xếp hạng tín dụng nội bộ là:",
+    "question": "Theo BCTC năm gần nhất Doanh nghiệp X có doanh thu 55% từ kinh doanh kho, bãi và 45% từ xây dựng thì đăng ký ngành nghề kinh doanh trên Hệ thống xếp hạng tín dụng nội bộ là:",
     "a1": "Ngành xây dựng",
     "a2": "Kinh doanh kho bãi và các dịch vụ hỗ trợ cho vận tải",
     "a3": "Thương mại",
@@ -16434,7 +16434,7 @@
     "question": "Trước khi xác lập Thỏa thuận cho vay, Agribank nơi cho vay có trách nhiệm cung cấp cho khách hàng thông tin nào?",
     "a1": "Thẩm quyền cho vay; Lãi suất cho vay; lãi suất áp dụng đối với dư nợ gốc bị quá hạn; lãi suất áp dụng đối với lãi chậm trả.",
     "a2": "Nguyên tắc và các yếu tố xác định, thời điểm xác định lãi suất cho vay đối với trường hợp áp dụng lãi suất cho vay có điều chỉnh; phương pháp tính lãi tiền vay; loại phí và mức phí áp dụng đối với khoản vay.",
-    "a3": "Các tiêu chí xác định khách hàng vay vốn theo lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhằm đáp ứng một số nhu cầu vốn NHNN quy định mức lãi suất cho vay tối đa.",
+    "a3": "Các tiêu chí xác định khách hàng vay vốn theo lãi suất cho vay ngắn hạn bằng đồng Việt Nam nhằm đáp ứng một số nhu cầu vốn NHNN quy định mức lãi suất cho vay tối đa.",
     "a4": "Tất cả đáp án trên.",
     "correct": "4",
     "source": "Khoản 1 Điều 8 QC 456/QC-HĐTV-TD",
@@ -16522,7 +16522,7 @@
       "Đợt 2"
     ],
     "question": "Tài sản bảo đảm nào phải thông qua Tổ thẩm định tài sản bảo đảm?",
-    "a1": "Tài sản có giá trị từ 12 tỷ đồng trở lên và phạm vi bảo đảm của tài sản đó từ 10 tỷ đồng (nợ gốc) trở lên",
+    "a1": "Tài sản có giá trị từ 12 tỷ đồng trở lên và phạm vi bảo đảm của tài sản đó từ 10 tỷ đồng (nợ gốc) trở lên",
     "a2": "Tài sản của cá nhân, tài sản chung của nhiều cá nhân để bảo đảm nghĩa vụ trên 2 tỷ đồng cho cá nhân khác, nhiều cá nhân khác mà bên bảo đảm và người có nghĩa vụ được bảo đảm không phải là đồng sở hữu, không phải đồng sử dụng tài sản hoặc không có mối quan hệ hôn nhân, huyết thống, nuôi dưỡng.",
     "a3": "Đáp án 1 và 2.",
     "a4": "",
@@ -16688,7 +16688,7 @@
     ],
     "question": "Đâu là một trong những nhiệm vụ của người quan hệ khách hàng tại Agribank nơi cấp bảo lãnh?",
     "a1": "Thẩm định khoản bảo lãnh trên cơ sở thông tin, hồ sơ bảo lãnh, tài liệu của khách hàng",
-    "a2": "Tiếp nhận và khảo sát nhu cầu bảo lãnh, hướng dẫn khách hàng các yêu cầu đối với khách hàng đề nghị cấp bảo lãnh, hồ sơ, thủ tục đề nghị phát hành bảo lãnh, mức phí áp dụng, các loại bảo lãnh và chính sách khách hàng của Agribank.",
+    "a2": "Tiếp nhận và khảo sát nhu cầu bảo lãnh, hướng dẫn khách hàng các yêu cầu đối với khách hàng đề nghị cấp bảo lãnh, hồ sơ, thủ tục đề nghị phát hành bảo lãnh, mức phí áp dụng, các loại bảo lãnh và chính sách khách hàng của Agribank.",
     "a3": "Thực hiện hạch toán khoản bảo lãnh trên hệ thống IPCAS.",
     "a4": "Đáp án 2 và 3.",
     "correct": "2",
@@ -16704,8 +16704,8 @@
     "question": "Đâu là một trong những nhiệm vụ của người đánh giá khoản bảo lãnh tại Chi nhánh loại I?",
     "a1": "Lập Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất cấp bảo lãnh/không cấp bảo lãnh (trường hợp không cấp bảo lãnh phải nêu rõ lý do).",
     "a2": "Lập Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất,  ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh.",
-    "a3": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất cấp bảo lãnh/không cấp bảo lãnh (trường hợp không cấp phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
-    "a4": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất, ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
+    "a3": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất cấp bảo lãnh/không cấp bảo lãnh (trường hợp không cấp phải nêu rõ lý do), ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
+    "a4": "Lập, ký tắt các trang Báo cáo đánh giá khoản bảo lãnh nêu rõ ý kiến đề xuất, ký và ghi rõ họ tên vào phần Người đánh giá khoản bảo lãnh trên Báo cáo đánh giá khoản bảo lãnh",
     "correct": "3",
     "source": "Khoản 12 Điều 1 Quy định 1846 /QyĐ-NHNo-TD sửa đổi, bổ sung Khoản 4 Điều 19 Quy định 1445 /QyĐ-NHNo-TD",
     "id": 1087,
