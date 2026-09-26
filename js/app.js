@@ -84,9 +84,9 @@
     function updateMetaThemeColor(theme) {
         if (!themeMetaColor) return;
         if (theme === 'dark') {
-            themeMetaColor.setAttribute('content', '#1a1110');
+            themeMetaColor.setAttribute('content', '#0f1511');
         } else {
-            themeMetaColor.setAttribute('content', '#fff8f6');
+            themeMetaColor.setAttribute('content', '#f6fbf4');
         }
     }
 

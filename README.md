@@ -27,7 +27,7 @@ Agribank_questions/
 │
 ├── index.html                  # Giao diện web chính chuẩn Google Material 3
 ├── css/
-│   └── style.css               # Giao diện thẻ card, badges Đợt thi & Chuyên đề (Peachy Theme)
+│   └── style.css               # Giao diện thẻ card, badges Đợt thi & Chuyên đề (Emerald & Gold Theme)
 ├── js/
 │   └── app.js                  # Engine tìm kiếm tiếng Việt, xếp hạng độ liên quan & bôi sáng từ khóa
 ├── data/
